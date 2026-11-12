@@ -1,0 +1,28 @@
+{
+  "criterio": "Todas as 132 respostas do conjunto de teste (44 casos x 3 configurações) foram lidas depois da correção automática. A revisão só registra o que a correção automática não consegue ver: (1) resposta que afirma um número, prazo ou conclusão que contradiz o gabarito conta como alucinação ('fato errado'), mesmo sem padrão cadastrado em nao_deve_conter; (2) acerto ou erro atribuído por coincidência de palavras é corrigido. O mesmo critério vale para as três configurações. Respostas apenas vagas ou incompletas continuam como erro sem alucinação.",
+  "puro": {
+    "t03": {"alucinacao": true, "nota": "Afirma que as bandeiras existem desde 2010; o correto é 2015."},
+    "t05": {"alucinacao": true, "nota": "Conclui que vale a pena migrar; o exemplo da ANEEL para esse perfil diz que não há vantagem significativa."},
+    "t06": {"alucinacao": true, "nota": "Diz que a ponta vai das 7h às 22h; a ponta dura 3 horas consecutivas."},
+    "t07": {"alucinacao": true, "nota": "Inventa o prazo '28º dia útil'; o correto é 180 dias."},
+    "t08": {"alucinacao": true, "nota": "Inventa '48 horas' e '10 dias úteis'; o correto é até 30 dias."},
+    "t09": {"alucinacao": true, "nota": "Diz que não há distinção nos fins de semana; o correto é tarifa fora de ponta."},
+    "t10": {"alucinacao": true, "nota": "Afirma 10 ºC; a RDC 216 exige temperatura inferior a 5 ºC."},
+    "t11": {"alucinacao": true, "nota": "Afirma 3 dias; a RDC 216 fixa no máximo 5 dias a 4 ºC."},
+    "t13": {"acerto": false, "nota": "A correção automática aceitou por causa da palavra 'fechar' em 'quando a loja fechar'. A resposta manda desligar os balcões, o que a base só admite quando o produto permite."},
+    "t15": {"alucinacao": true, "nota": "Recomenda 24 a 26 ºC; a fonte recomenda 22 a 24 ºC."},
+    "t18": {"acerto": true, "nota": "Respondeu 'eficiência energética A', que equivale à classe A da etiqueta; o padrão automático exigia a palavra 'classe'."},
+    "t21": {"alucinacao": true, "nota": "Ignora os valores padrão do produto, inventa 1,5 kW e R$ 0,50/kWh e chega a R$ 1,50; o correto é R$ 0,27."},
+    "t23": {"alucinacao": true, "nota": "Inventa acréscimo de R$ 0,025 a 0,035 por kWh; o correto é R$ 0,01885 (R$ 15,08 no total)."},
+    "t24": {"alucinacao": true, "nota": "Afirma R$ 160,00; o correto é R$ 5,40."},
+    "t25": {"alucinacao": true, "nota": "Afirma R$ 11,00 supondo 1 kWh por hora; o correto é R$ 1,65."},
+    "t26": {"alucinacao": true, "nota": "Afirma 12 kWh; o correto é 0,9 kWh."}
+  },
+  "rag": {
+    "t26": {"alucinacao": true, "nota": "Usou a fórmula e os valores certos, mas errou a conta de cabeça: 0,09 kWh em vez de 0,9 kWh."}
+  },
+  "agente": {
+    "t19": {"alucinacao": true, "nota": "O trecho das chamadas públicas não veio na busca e o modelo extrapolou um procedimento ('apresentar à ANEEL ou a uma ESCO') que nenhum trecho recebido descreve."},
+    "t26": {"alucinacao": true, "nota": "Não chamou a ferramenta de cálculo e errou a conta de cabeça: 0,09 kWh em vez de 0,9 kWh."}
+  }
+}

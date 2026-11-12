@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "O limiar de recusa barrou uma pergunta que a base responde",
+    "config": "rag",
+    "caso": "t16",
+    "causa": "A busca achou o trecho certo em primeiro lugar (ana-dicas-02, sensores de presença), mas com similaridade 0,549, abaixo do limiar de 0,56. O limiar foi calibrado com 19 perguntas respondíveis; a pergunta do teste usa uma redação coloquial ('luz do estoque acesa sem ninguém lá dentro') mais distante do texto da fonte do que qualquer pergunta da calibração. O sistema recusou sem nem chamar a LLM. O mesmo aconteceu nos casos t21 e t24.",
+    "correcao": "Trocar o corte seco por uma faixa de dúvida: abaixo de 0,45 recusa direto; entre 0,45 e 0,56 os trechos seguem para a LLM, que decide com a regra 'sem evidência, sem resposta'. Recalibrar o limiar com mais perguntas em linguagem de balcão. No agente o erro já não acontece: ele refez a busca com outras palavras ('automatização de iluminação com sensores'), passou do limiar e acertou este mesmo caso."
+  },
+  {
+    "titulo": "Conta feita de cabeça, com erro de casa decimal",
+    "config": "agente",
+    "caso": "t26",
+    "causa": "A pergunta pedia kWh, e não reais. A busca inicial trouxe a fórmula e os valores padrão corretos; o agente considerou que já tinha tudo e parou sem chamar calcular_custo_desperdicio, embora a instrução mande usar a ferramenta em qualquer conta de custo ou de kWh e nunca fazer conta de cabeça. Na síntese, fez 0,50 x 0,30 x 6 por conta própria e chegou a 0,09 kWh em vez de 0,9 kWh. O nome da ferramenta fala em 'custo', o que pode ter pesado, mas o fato é que a instrução sozinha não bastou. O RAG simples cometeu exatamente o mesmo erro neste caso. A citação estava correta, então o verificador de citação não tinha como barrar: ele confere a fonte, não a aritmética.",
+    "correcao": "Não depender só da instrução. Acrescentar um verificador numérico no código: todo número da resposta precisa aparecer na pergunta, em um trecho recebido ou no resultado de uma ferramenta de cálculo; se não aparecer, o código chama a ferramenta e refaz a síntese, ou recusa. A geração em lote já tem uma conferência desse tipo para o valor em reais (lote.valores_conferem). Renomear a ferramenta para calcular_desperdicio, para o nome não sugerir que ela só serve para custo."
+  },
+  {
+    "titulo": "O agente procurou na base um dado que estava no resumo da loja",
+    "config": "agente",
+    "caso": "t32",
+    "causa": "A pergunta pedia o número de eventos de porta aberta do freezer-2 do mercado-01. O dado existe no resumo da loja (278 eventos), mas o agente fez duas buscas na base de conhecimento e não chamou ler_resumo_loja. A descrição da ferramenta menciona 'total em R$ e kWh' e não fala em quantidade de eventos, então o modelo não associou a pergunta a ela. Sem evidência, o sistema recusou (recusa indevida, sem alucinação).",
+    "correcao": "Descrever na ferramenta todos os campos do resumo (eventos, duração, kWh e R$ por equipamento). Tirar essa decisão do modelo: quando a pergunta cita padaria-01 ou mercado-01, o código chama ler_resumo_loja automaticamente antes da fase de escolha de ferramentas, do mesmo jeito que já faz com a busca inicial."
+  },
+  {
+    "titulo": "A busca não trouxe o trecho certo e o modelo completou a resposta por conta própria",
+    "config": "agente",
+    "caso": "t19",
+    "causa": "A resposta está no trecho aneel-chamadas-01 (chamadas públicas de projetos), que não ficou entre os três primeiros da busca; vieram aneel-pee-01, mme-pee-01 e epe-abcd-02, que falam do programa mas não de como participar. O agente não refez a busca. Na síntese, copiou como evidência uma frase genérica sobre o programa e montou um procedimento ('apresentar o projeto à ANEEL ou a uma ESCO') que nenhum trecho descreve. A citação apontava para um trecho recebido, então passou pelo verificador. Com os mesmos trechos, o RAG simples recusou.",
+    "correcao": "Combinar a busca densa com BM25: para esta pergunta o trecho correto é o quinto colocado na busca densa (0,562), mas o terceiro no BM25, então uma fusão das duas listas o traria para o contexto. Aumentar a busca para cinco trechos também resolveria. Fortalecer o verificador: além de conferir se o trecho citado foi recebido, conferir se a evidência copiada contém os termos centrais da resposta; se a resposta descreve um procedimento que não está na evidência, recusar."
+  },
+  {
+    "titulo": "Sem contexto, o modelo inventou um prazo com aparência de regra",
+    "config": "puro",
+    "caso": "t07",
+    "causa": "O modelo puro não tem acesso à regra da ANEEL e mesmo assim respondeu com segurança: nova adesão 'a partir do 28º dia útil após a rescisão', com a condição de não haver débitos. O prazo real é de 180 dias e a condição não existe. É a alucinação típica do modelo sem base: específica, plausível e sem fonte. No conjunto de teste, o modelo puro alucinou em 15 das 32 perguntas respondíveis: em 14 afirmou um número, prazo ou conclusão errados e em 1 inventou um dado de loja.",
+    "correcao": "É o erro que a base de conhecimento corrige. Com os trechos, o RAG simples e o agente responderam '180 dias' citando aneel-tb-faq-05. Em produção, a configuração sem contexto não deve ser exposta ao comerciante."
+  }
+]

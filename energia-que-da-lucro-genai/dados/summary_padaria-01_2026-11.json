@@ -1,0 +1,41 @@
+{
+  "loja_id": "padaria-01",
+  "periodo": "2026-11",
+  "total_eventos": 202,
+  "total_kwh": 3.09,
+  "total_custo_rs": 2.78,
+  "por_equipamento": [
+    {
+      "equipamento_id": "expositor-2",
+      "tipo": "porta_aberta",
+      "eventos": 125,
+      "duracao_total_s": 41040,
+      "kwh": 1.71,
+      "custo_rs": 1.54
+    },
+    {
+      "equipamento_id": "iluminacao-salao",
+      "tipo": "luz_acesa_sem_necessidade",
+      "eventos": 4,
+      "duracao_total_s": 8537,
+      "kwh": 0.95,
+      "custo_rs": 0.85
+    },
+    {
+      "equipamento_id": "expositor-1",
+      "tipo": "porta_aberta",
+      "eventos": 45,
+      "duracao_total_s": 7175,
+      "kwh": 0.3,
+      "custo_rs": 0.27
+    },
+    {
+      "equipamento_id": "freezer-1",
+      "tipo": "porta_aberta",
+      "eventos": 28,
+      "duracao_total_s": 3124,
+      "kwh": 0.13,
+      "custo_rs": 0.12
+    }
+  ]
+}

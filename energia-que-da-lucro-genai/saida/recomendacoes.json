@@ -1,0 +1,122 @@
+[
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 5,53 evitando deixar o expositor-2 com a porta aberta. Feche a porta sempre que possível para reduzir o consumo de energia.",
+    "fonte": {
+      "titulo": "Eficiência Energética em Sistemas de Refrigeração Industrial e Comercial (Venturini e Pirani)",
+      "trecho_id": "procel-refrigeracao-01"
+    }
+  },
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 3,85 ao desligar a iluminação do salão quando não estiver em uso. Lembre-se de apagar as luzes sempre que sair do local.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 0,87 ao fechar a porta do expositor-1 sempre que possível. Cada abertura gera um gasto extra de energia para resfriar o ar quente que entra, aumentando o consumo do compressor.",
+    "fonte": {
+      "titulo": "Eficiência Energética em Sistemas de Refrigeração Industrial e Comercial (Venturini e Pirani)",
+      "trecho_id": "procel-refrigeracao-01"
+    }
+  },
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 1,54 ao fechar a porta do expositor-2 sempre que possível. Cada abertura gera um gasto extra de energia, então mantenha a porta fechada para manter o frio e economizar.",
+    "fonte": {
+      "titulo": "Eficiência Energética em Sistemas de Refrigeração Industrial e Comercial (Venturini e Pirani)",
+      "trecho_id": "procel-refrigeracao-01"
+    }
+  },
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 0,85 ao desligar a iluminação do salão quando não estiver em uso. Verifique se todas as luzes estão apagadas antes de fechar o estabelecimento.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "padaria-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 0,27 ao fechar a porta do expositor-1 sempre que possível. Cada abertura gera um aumento no consumo de energia, pois o compressor precisa trabalhar mais para manter a temperatura.",
+    "fonte": {
+      "titulo": "Eficiência Energética em Sistemas de Refrigeração Industrial e Comercial (Venturini e Pirani)",
+      "trecho_id": "procel-refrigeracao-01"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 9,87 ao desligar a iluminação do estoque quando não estiver em uso. Certifique-se de apagar a luz sempre que sair desse espaço.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 3,47 ao desligar a iluminação do salão quando não estiver em uso. Lembre-se de apagar as luzes sempre que sair do local.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-10",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 2,62 ao fechar o freezer-2 rapidamente após o uso. Evite deixar a porta aberta desnecessariamente, pois isso aumenta o consumo de energia.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-02"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 3,23 ao desligar a iluminação do estoque quando não estiver em uso. Certifique-se de apagar a luz sempre que sair desse espaço.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 0,94 evitando deixar a iluminação do salão acesa sem necessidade. Certifique-se de apagar as luzes sempre que sair do ambiente.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-03"
+    }
+  },
+  {
+    "loja_id": "mercado-01",
+    "periodo": "2026-11",
+    "nao_consta": false,
+    "recomendacao": "Você pode economizar R$ 0,76 ao fechar a porta do freezer-2 rapidamente após o uso. Evite deixá-la aberta desnecessariamente, pois isso faz o motor trabalhar mais e aumenta o consumo de energia.",
+    "fonte": {
+      "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+      "trecho_id": "ana-a3p-02"
+    }
+  }
+]

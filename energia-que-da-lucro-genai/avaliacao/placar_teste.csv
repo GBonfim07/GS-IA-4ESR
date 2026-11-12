@@ -1,0 +1,4 @@
+configuracao,casos,acerto_%,alucinacao_%,alucinacao_automatica_%,acerto_respondiveis_%,recusa_correta_%,recusa_indevida_%,citacao_correta_%,json_valido_%,segundos_medio,acerto_factual_%,acerto_calculo_%,acerto_loja_%,acerto_nao_consta_%
+puro,44,31.8,40.9,9.1,15.6,75.0,25.0,0.0,100.0,2.74,25.0,0.0,0.0,75.0
+rag,44,72.7,2.3,0.0,62.5,100.0,34.4,100.0,100.0,2.21,90.0,33.3,0.0,100.0
+agente,44,90.9,4.5,0.0,87.5,100.0,6.2,100.0,100.0,8.41,95.0,66.7,83.3,100.0

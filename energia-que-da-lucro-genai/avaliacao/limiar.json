@@ -1,0 +1,17 @@
+{
+  "limiar": 0.56,
+  "calibracao": {
+    "limiar": 0.56,
+    "menor_score_respondivel": 0.5792,
+    "margem": 0.02,
+    "respondiveis_mantidas_%": 100.0,
+    "nao_consta_barradas_%": 88.9,
+    "acuracia_balanceada": 0.944
+  },
+  "teste": {
+    "limiar": 0.56,
+    "respondiveis_mantidas_%": 88.5,
+    "nao_consta_barradas_%": 91.7,
+    "acuracia_balanceada": 0.901
+  }
+}

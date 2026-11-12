@@ -1,0 +1,156 @@
+[
+  {
+    "doc_id": "aneel-bandeiras",
+    "titulo": "Bandeiras Tarifárias",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 24/02/2022, modificado em 25/02/2022",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-tarifa-branca",
+    "titulo": "Tarifa Branca",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-branca",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 25/02/2022",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-tb-faq",
+    "titulo": "Perguntas frequentes sobre Tarifa Branca",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-branca/perguntas-frequentes-sobre-tarifa-branca",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 25/02/2022, modificado em 07/02/2025",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-postos",
+    "titulo": "Postos Tarifários",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/entenda-a-tarifa/postos-tarifarios",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 24/02/2022, modificado em 11/03/2022",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-modalidades",
+    "titulo": "Modalidades Tarifárias",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/entenda-a-tarifa/modalidades-tarifarias",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 24/02/2022, modificado em 11/03/2022",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-pee",
+    "titulo": "Programa de Eficiência Energética (PEE)",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/programa-de-eficiencia-energetica",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 09/12/2021, modificado em 08/04/2026",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "aneel-chamadas",
+    "titulo": "Chamadas Públicas do PEE",
+    "orgao": "ANEEL",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/programa-de-eficiencia-energetica/chamadas-publicas",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "publicado em 23/02/2022, modificado em 16/09/2026",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "mme-pee",
+    "titulo": "Programa de Eficiência Energética (PEE) da ANEEL — Guia de Eficiência Energética para Municípios, vol. III",
+    "orgao": "Ministério de Minas e Energia (MME)",
+    "url": "https://www.gov.br/mme/pt-br/assuntos/ee/guia-para-municipios/guia_de_ee_para_municipios/volume-iii/fontes-de-recursos-do-governo-a-fundo-perdido/programa-e-eficiencia-energetica-pee-da-aneel",
+    "formato": "HTML",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "sem data na página",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "anvisa-rdc216",
+    "titulo": "Resolução RDC nº 216, de 15 de setembro de 2004 — Regulamento Técnico de Boas Práticas para Serviços de Alimentação",
+    "orgao": "Anvisa / Ministério da Saúde",
+    "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0216_15_09_2004.html",
+    "formato": "HTML",
+    "licenca": "Ato oficial, sem proteção autoral (Lei 9.610/1998, art. 8º, IV)",
+    "data_fonte": "15/09/2004",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "procel-refrigeracao",
+    "titulo": "Eficiência Energética em Sistemas de Refrigeração Industrial e Comercial (Venturini e Pirani)",
+    "orgao": "Eletrobras / PROCEL",
+    "url": "https://wiki.sj.ifsc.edu.br/images/9/92/0_Eficiencia_energetica_sistemas_de_refrigera%c3%a7%c3%a3o.pdf",
+    "formato": "PDF (livro técnico, 2005)",
+    "licenca": "Direitos reservados à Eletrobras/PROCEL; usada apenas como síntese própria com citação da página",
+    "data_fonte": "2005",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "sintese"
+  },
+  {
+    "doc_id": "ana-a3p",
+    "titulo": "Dicas para evitar o desperdício de energia (A3P)",
+    "orgao": "Agência Nacional de Águas e Saneamento Básico (ANA)",
+    "url": "https://www.gov.br/ana/pt-br/todos-os-documentos-do-portal/documentos-gab/cosus/dicas-ambientais-da-a3p-evitamento-desperdicio-de-energia.pdf",
+    "formato": "PDF",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "sem data no documento",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "ana-dicas",
+    "titulo": "Campanhas: dicas da energia",
+    "orgao": "Agência Nacional de Águas e Saneamento Básico (ANA)",
+    "url": "https://www.gov.br/ana/pt-br/todos-os-documentos-do-portal/documentos-gab/cosus/campanhas-dicas-da-energia.pdf",
+    "formato": "PDF",
+    "licenca": "CC BY-ND 3.0 (portal gov.br)",
+    "data_fonte": "sem data no documento",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  },
+  {
+    "doc_id": "epe-abcd",
+    "titulo": "ABCDEnergia — Eficiência Energética",
+    "orgao": "Empresa de Pesquisa Energética (EPE)",
+    "url": "https://www.epe.gov.br/pt/abcdenergia/eficiencia-energetica",
+    "formato": "HTML",
+    "licenca": "Licença não informada na página; usada apenas como síntese própria com citação",
+    "data_fonte": "sem data na página",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "sintese"
+  },
+  {
+    "doc_id": "produto-contrato",
+    "titulo": "Energia que dá Lucro — Guia do grupo, seção 3 (formato de dados comum e fórmula do custo estimado)",
+    "orgao": "Documento interno do grupo",
+    "url": "docs/contrato_de_dados.md",
+    "formato": "Markdown (extraído do guia do grupo, versão 1, 10/11/2026)",
+    "licenca": "Autoria própria do grupo",
+    "data_fonte": "10/11/2026",
+    "data_acesso": "2026-11-10",
+    "tipo_trecho": "literal"
+  }
+]

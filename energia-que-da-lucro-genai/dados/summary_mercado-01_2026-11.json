@@ -1,0 +1,65 @@
+{
+  "loja_id": "mercado-01",
+  "periodo": "2026-11",
+  "total_eventos": 276,
+  "total_kwh": 6.56,
+  "total_custo_rs": 5.91,
+  "por_equipamento": [
+    {
+      "equipamento_id": "iluminacao-estoque",
+      "tipo": "luz_acesa_sem_necessidade",
+      "eventos": 23,
+      "duracao_total_s": 107603,
+      "kwh": 3.59,
+      "custo_rs": 3.23
+    },
+    {
+      "equipamento_id": "iluminacao-salao",
+      "tipo": "luz_acesa_sem_necessidade",
+      "eventos": 5,
+      "duracao_total_s": 9354,
+      "kwh": 1.04,
+      "custo_rs": 0.94
+    },
+    {
+      "equipamento_id": "freezer-2",
+      "tipo": "porta_aberta",
+      "eventos": 79,
+      "duracao_total_s": 20164,
+      "kwh": 0.84,
+      "custo_rs": 0.76
+    },
+    {
+      "equipamento_id": "expositor-1",
+      "tipo": "porta_aberta",
+      "eventos": 55,
+      "duracao_total_s": 9125,
+      "kwh": 0.38,
+      "custo_rs": 0.34
+    },
+    {
+      "equipamento_id": "expositor-2",
+      "tipo": "porta_aberta",
+      "eventos": 42,
+      "duracao_total_s": 6653,
+      "kwh": 0.28,
+      "custo_rs": 0.25
+    },
+    {
+      "equipamento_id": "freezer-1",
+      "tipo": "porta_aberta",
+      "eventos": 38,
+      "duracao_total_s": 5631,
+      "kwh": 0.23,
+      "custo_rs": 0.21
+    },
+    {
+      "equipamento_id": "expositor-3",
+      "tipo": "porta_aberta",
+      "eventos": 34,
+      "duracao_total_s": 4725,
+      "kwh": 0.2,
+      "custo_rs": 0.18
+    }
+  ]
+}

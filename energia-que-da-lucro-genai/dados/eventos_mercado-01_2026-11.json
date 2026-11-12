@@ -1,0 +1,2762 @@
+[
+ {
+  "id": "eccf3b91-e352-49a0-95de-293bb9a807ba",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T07:02:35-03:00",
+  "duracao_s": 172,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "60ee0cbc-38e3-467d-b801-8a19fabf8aef",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T07:08:17-03:00",
+  "duracao_s": 161,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "33b70b63-4bee-4160-bfac-89fe5fe0c7c3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T08:06:41-03:00",
+  "duracao_s": 105,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "478b2f00-87d7-4309-9e77-21561f76043f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T08:56:38-03:00",
+  "duracao_s": 224,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "ec648a9b-3cf1-429e-89b4-413ca45ca94a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T09:07:24-03:00",
+  "duracao_s": 122,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "8557ec6c-0a23-4722-82af-ba28c976ec61",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T10:53:37-03:00",
+  "duracao_s": 234,
+  "custo_estimado_rs": 0.0088
+ },
+ {
+  "id": "3f6c5de5-6dcf-4b58-82ca-55ed15263fef",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T11:03:09-03:00",
+  "duracao_s": 328,
+  "custo_estimado_rs": 0.0123
+ },
+ {
+  "id": "b3510ddc-5951-4620-8769-ee241875589a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T11:17:30-03:00",
+  "duracao_s": 190,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "9ea8ffe3-3e59-434b-81da-db7d6db2094b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T11:19:25-03:00",
+  "duracao_s": 258,
+  "custo_estimado_rs": 0.0097
+ },
+ {
+  "id": "bdecb67a-ec6e-4294-b9da-c7798079cdc9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T11:32:54-03:00",
+  "duracao_s": 284,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "7aededf4-6f30-4743-820e-2e6abcc8509b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T13:00:55-03:00",
+  "duracao_s": 385,
+  "custo_estimado_rs": 0.0144
+ },
+ {
+  "id": "209f839f-b6dd-4d11-ae86-4837ccc10250",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T13:50:49-03:00",
+  "duracao_s": 333,
+  "custo_estimado_rs": 0.0125
+ },
+ {
+  "id": "cb22eb8d-9a0b-463d-a9f8-41b0f90c9f84",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-01T13:55:08-03:00",
+  "duracao_s": 2320,
+  "custo_estimado_rs": 0.232
+ },
+ {
+  "id": "195c663b-9b82-4430-8563-cafe8d31df34",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T15:00:36-03:00",
+  "duracao_s": 137,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "c44842af-47f8-46f1-bfdd-0e2b2fd6129a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T15:38:47-03:00",
+  "duracao_s": 341,
+  "custo_estimado_rs": 0.0128
+ },
+ {
+  "id": "301c8108-a904-4abd-a9c2-aa1783d1677a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T16:13:27-03:00",
+  "duracao_s": 191,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "6d572692-fb92-4354-b34d-4b136065f5cf",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T16:29:47-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "5b078b11-1896-4587-8e6b-bde0ed0d6017",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T16:30:44-03:00",
+  "duracao_s": 108,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "225f52ab-5425-44b8-a098-d2e3bd3fdb62",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T17:09:15-03:00",
+  "duracao_s": 183,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "57968d64-d470-4dd2-ada5-beb90d527b89",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T17:44:36-03:00",
+  "duracao_s": 201,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "037e7f60-8000-4fac-9818-48c527d19990",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T18:05:52-03:00",
+  "duracao_s": 144,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "1b9dff1b-f52a-4cbf-9c17-729f21a496a8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T18:48:10-03:00",
+  "duracao_s": 279,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "6bcce72a-1e69-4c3f-840b-71a6fba13732",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T20:16:38-03:00",
+  "duracao_s": 420,
+  "custo_estimado_rs": 0.0158
+ },
+ {
+  "id": "afa9d02c-9e4c-4be7-b3b0-e73d5e516bf8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T20:18:53-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "e0218caf-ba73-4a4e-86c7-1c162cfcbb3f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T20:19:29-03:00",
+  "duracao_s": 96,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "faf36aec-1e0a-4157-8d6e-d01ef1efa963",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-01T20:38:17-03:00",
+  "duracao_s": 110,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "89eb56c1-7f42-4889-8ca1-7f756b2d470a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-01T22:35:29-03:00",
+  "duracao_s": 1684,
+  "custo_estimado_rs": 0.1684
+ },
+ {
+  "id": "7a114e56-12e2-4c2a-94e4-339da9a9cef7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-01T22:44:25-03:00",
+  "duracao_s": 2668,
+  "custo_estimado_rs": 0.08
+ },
+ {
+  "id": "3ebb527c-1438-4799-a42a-c30f5d80a53b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-01T23:05:36-03:00",
+  "duracao_s": 3003,
+  "custo_estimado_rs": 0.0901
+ },
+ {
+  "id": "cebc1bd7-f837-4be2-8bb6-8d75df996726",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T07:13:58-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "b01fb9f3-4d7d-40f3-bd16-9638658a8377",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T07:28:33-03:00",
+  "duracao_s": 126,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "1c2c8fb1-4de5-42f7-8d39-4b57a4d4df15",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T07:51:32-03:00",
+  "duracao_s": 298,
+  "custo_estimado_rs": 0.0112
+ },
+ {
+  "id": "31328995-fd8a-4696-861b-cbc309d261e0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T08:41:11-03:00",
+  "duracao_s": 285,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "3ab8ec3f-2612-49e5-a26d-18f6a1001bc8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T09:32:11-03:00",
+  "duracao_s": 382,
+  "custo_estimado_rs": 0.0143
+ },
+ {
+  "id": "6b06e92f-b62a-4941-99dc-be0ff1685db8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T10:46:10-03:00",
+  "duracao_s": 223,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "bdc5a633-ce5b-461f-985d-40112e408d57",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T11:27:07-03:00",
+  "duracao_s": 164,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "deaf9631-108a-4b5c-818c-0313a1396d49",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T11:30:10-03:00",
+  "duracao_s": 183,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "afc8d769-026e-4d11-8251-d2f020a89260",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T12:38:13-03:00",
+  "duracao_s": 216,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "9c711439-8098-450d-baff-361ab37e3c41",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T13:38:04-03:00",
+  "duracao_s": 132,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "243b7101-fdf4-4930-a265-df650d56e000",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T13:52:58-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "60f91495-2486-47c2-a059-ad46a8560b74",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T14:11:23-03:00",
+  "duracao_s": 104,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "3eb862c6-676c-469f-b8f9-1075a08145d2",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T15:18:26-03:00",
+  "duracao_s": 103,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "c69e17c9-6018-4b17-bec5-715ca71db3a6",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T15:20:46-03:00",
+  "duracao_s": 109,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "7aac8a0a-6d13-4ea8-960f-c07138c6430f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T15:51:58-03:00",
+  "duracao_s": 198,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "d8d0b8db-3aa0-4694-8610-c42dc0241ac1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T16:04:21-03:00",
+  "duracao_s": 143,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "d9815a41-e1cc-433c-9838-d1688d3a5b2d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T16:29:21-03:00",
+  "duracao_s": 201,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "d1753cd1-dd69-4f6b-b6b3-5303c7195dd0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T16:41:06-03:00",
+  "duracao_s": 87,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "857f2f3e-61a9-4fb1-9f69-a5609baa0785",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T16:44:52-03:00",
+  "duracao_s": 126,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "0dd7cac2-8a10-45c5-b4b0-738e3e040782",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T17:15:36-03:00",
+  "duracao_s": 157,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "667139de-7c0a-4f90-9b54-d2273bca7ff6",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T17:18:04-03:00",
+  "duracao_s": 183,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "ee75b34e-f067-4ba1-ad8b-ebc3592c6a0e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T17:20:55-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "b33d9c7c-4e73-4dcc-8664-82ee6844a0e3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T19:06:03-03:00",
+  "duracao_s": 274,
+  "custo_estimado_rs": 0.0103
+ },
+ {
+  "id": "b641d449-31f0-4021-9b6f-be204b3a9a83",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T19:40:22-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "aff628bc-cd2b-4206-bf93-1507fd063a58",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T19:41:34-03:00",
+  "duracao_s": 240,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "17478b5c-331b-4602-9dd0-ce040485742a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T20:00:26-03:00",
+  "duracao_s": 298,
+  "custo_estimado_rs": 0.0112
+ },
+ {
+  "id": "8c813e53-97b6-4461-ac76-04c1177d8b26",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T20:08:09-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "b3126a11-db6a-47db-a888-e7affca39bae",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T20:10:50-03:00",
+  "duracao_s": 191,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "eb4d6df5-420f-49a8-945b-4e9bb61ec0ed",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-02T20:16:31-03:00",
+  "duracao_s": 6339,
+  "custo_estimado_rs": 0.1902
+ },
+ {
+  "id": "32cb28ba-6ddd-4c02-9213-7565aa94a1d4",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-02T20:55:10-03:00",
+  "duracao_s": 206,
+  "custo_estimado_rs": 0.0077
+ },
+ {
+  "id": "785e02ee-4cac-495c-b2e2-503ab2d515d1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-02T21:22:27-03:00",
+  "duracao_s": 6120,
+  "custo_estimado_rs": 0.1836
+ },
+ {
+  "id": "e19383a9-0f5c-465a-a7e8-3b871c7bf8eb",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-02T22:01:43-03:00",
+  "duracao_s": 4149,
+  "custo_estimado_rs": 0.1245
+ },
+ {
+  "id": "d52a85c8-6579-4c22-82c8-37b6290c9e51",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-02T22:36:22-03:00",
+  "duracao_s": 5922,
+  "custo_estimado_rs": 0.1777
+ },
+ {
+  "id": "c70c15e3-b51e-40dd-9ec2-322ff978d269",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T07:44:24-03:00",
+  "duracao_s": 228,
+  "custo_estimado_rs": 0.0085
+ },
+ {
+  "id": "827ee0b2-e892-4b25-ab35-f75aa43366c9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T08:09:24-03:00",
+  "duracao_s": 190,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "0a81870a-1ecf-4aec-9a11-ddf4be1a35c9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T08:29:20-03:00",
+  "duracao_s": 402,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "362e17d4-3e4c-443a-bdab-ba618a693650",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T08:37:10-03:00",
+  "duracao_s": 239,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "ff0dd3c2-ac4d-4d33-9515-28af4d25298f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T08:47:24-03:00",
+  "duracao_s": 92,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "9b191112-2d2a-408e-ac8c-5d0e3eb366fd",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T09:17:53-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "6f552c9e-1b00-4f9f-96e5-00e5b32d3c81",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T09:23:09-03:00",
+  "duracao_s": 238,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "5256f928-bea8-4e9f-a911-fd6d0d586ee2",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T09:32:40-03:00",
+  "duracao_s": 80,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "5c0d8fcc-f8f9-40bd-b375-99aa147bed20",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T09:49:10-03:00",
+  "duracao_s": 193,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "19cb84c8-9b45-43bc-a892-464d47b885fa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T09:58:03-03:00",
+  "duracao_s": 321,
+  "custo_estimado_rs": 0.012
+ },
+ {
+  "id": "7ac067a6-9297-4aac-bcc2-ed1892aef13c",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:08:56-03:00",
+  "duracao_s": 215,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "4fbc0984-7792-4d9e-b998-e2d36d1e0d7d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:18:30-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "a2b6eddc-f7bc-40ef-b2c1-e68e93906193",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:29:08-03:00",
+  "duracao_s": 143,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "2edff02e-7531-4081-b4ef-fa296b1205aa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:29:15-03:00",
+  "duracao_s": 220,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "624b31d7-2e5c-48ad-97c6-eb3ccb5a1c0e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:49:55-03:00",
+  "duracao_s": 89,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "e1a29ffa-b7ed-40cf-b111-be9e8545b11f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T10:51:41-03:00",
+  "duracao_s": 174,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "8d40aeb2-aed6-40cc-837f-5347ab402561",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T11:15:39-03:00",
+  "duracao_s": 129,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "3cfe18e9-5f20-4c06-9ace-863187638104",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T12:03:33-03:00",
+  "duracao_s": 381,
+  "custo_estimado_rs": 0.0143
+ },
+ {
+  "id": "815ada5d-6c35-433c-b0fe-05a17880adc6",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T12:34:31-03:00",
+  "duracao_s": 112,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "559383cf-5d13-4906-bdc4-f12bf2c5a2da",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T13:01:57-03:00",
+  "duracao_s": 209,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "496d036a-8092-489b-b7fa-7bbccc68753e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T13:08:43-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "f47e3ca0-723f-485a-a57b-084d2b0582e0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T14:40:56-03:00",
+  "duracao_s": 189,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "f42973f5-d1d1-4e0b-a7e7-a6bdc2a49fd8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T15:31:53-03:00",
+  "duracao_s": 180,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "1ddb4f15-1eb8-4863-82f8-60445e08e249",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T15:51:09-03:00",
+  "duracao_s": 178,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "e31f2212-1654-483f-a251-0f01959677e9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T16:06:12-03:00",
+  "duracao_s": 187,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "cf5e7840-bdc5-41bb-9c4e-3b0054ca4adc",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-03T17:47:11-03:00",
+  "duracao_s": 146,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "00bbd543-5c98-4d57-bc35-9ce2165607c0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-03T22:19:02-03:00",
+  "duracao_s": 2339,
+  "custo_estimado_rs": 0.2339
+ },
+ {
+  "id": "60a7ca57-8581-47a1-9789-26f3f91e8b9b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-03T22:46:24-03:00",
+  "duracao_s": 4026,
+  "custo_estimado_rs": 0.1208
+ },
+ {
+  "id": "646d2e33-380a-402d-8e55-ced39e79a6fe",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-03T23:26:41-03:00",
+  "duracao_s": 5080,
+  "custo_estimado_rs": 0.1524
+ },
+ {
+  "id": "cfec1804-c891-49c6-8952-9c51d1453eb7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T07:16:35-03:00",
+  "duracao_s": 207,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "7eba0464-65c2-47c0-9085-449dbd9f82d7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T07:51:03-03:00",
+  "duracao_s": 177,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "47c58839-c42c-40ba-a22c-636fe713f930",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T09:14:35-03:00",
+  "duracao_s": 153,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "48817b98-741f-4545-8e4c-01f676b1d8fa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T09:27:35-03:00",
+  "duracao_s": 167,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "e0880267-e43f-45c8-80a5-82f7b62b9f62",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T09:41:02-03:00",
+  "duracao_s": 361,
+  "custo_estimado_rs": 0.0135
+ },
+ {
+  "id": "f11afc00-132b-4f36-9940-4d24eced9c30",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T09:42:03-03:00",
+  "duracao_s": 308,
+  "custo_estimado_rs": 0.0115
+ },
+ {
+  "id": "e5c345fc-f395-4213-b9ee-f2c0aa7a907d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T10:05:06-03:00",
+  "duracao_s": 135,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "15a75ed9-0eb2-458f-9347-f4862a44da88",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T10:21:37-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "90f0d47c-f4af-4005-8ba2-4c4f4a26eb59",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T10:50:17-03:00",
+  "duracao_s": 146,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "b6b98240-1041-4cbc-9342-34cf1974fb71",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T11:10:37-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "c544a049-6811-4a5c-8e3f-d50bf28c635f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T11:16:21-03:00",
+  "duracao_s": 87,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "bade33a0-13a2-4a82-9458-771da27a2bda",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T11:22:41-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "22fbe906-554e-452c-926a-a3157b189d5d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T12:15:07-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "99622263-2abc-42b1-8599-97f6ca77736e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T12:51:57-03:00",
+  "duracao_s": 337,
+  "custo_estimado_rs": 0.0126
+ },
+ {
+  "id": "7b9a21c4-1155-481f-afa5-f03fe92d6961",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T13:16:43-03:00",
+  "duracao_s": 140,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "61667c7c-d3c6-45a0-a7b4-a019a452f530",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-04T13:33:29-03:00",
+  "duracao_s": 7146,
+  "custo_estimado_rs": 0.2144
+ },
+ {
+  "id": "89fab5cc-95b0-4f8a-964f-10b584d6b400",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T14:25:16-03:00",
+  "duracao_s": 81,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "fd595978-7965-42e3-b9b0-94ac4d2d8efd",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T14:39:07-03:00",
+  "duracao_s": 255,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "a23036d2-88d7-447c-ac38-704b22c0eee9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T16:23:18-03:00",
+  "duracao_s": 240,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "f736df7e-351c-486a-80c3-d59ec0e5ea1a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T16:59:32-03:00",
+  "duracao_s": 96,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "0111fa05-308b-4146-aa87-9f65279c058a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:00:29-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "df377ff8-5532-4432-b118-cad6cba88a28",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:09:20-03:00",
+  "duracao_s": 93,
+  "custo_estimado_rs": 0.0035
+ },
+ {
+  "id": "dfd5988e-ceef-42c9-be2b-73ceedf98b8d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:24:27-03:00",
+  "duracao_s": 206,
+  "custo_estimado_rs": 0.0077
+ },
+ {
+  "id": "5db2f6ce-e519-4530-98eb-3e59f9a1de3f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:37:51-03:00",
+  "duracao_s": 366,
+  "custo_estimado_rs": 0.0137
+ },
+ {
+  "id": "20b99830-0b37-4468-a757-1245b8845902",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:39:13-03:00",
+  "duracao_s": 353,
+  "custo_estimado_rs": 0.0132
+ },
+ {
+  "id": "e80d9169-c244-49e1-954e-bf91daa282b4",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T17:40:01-03:00",
+  "duracao_s": 179,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "13eb4358-1ab9-4662-9bc0-2912451972c4",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-04T18:14:48-03:00",
+  "duracao_s": 3395,
+  "custo_estimado_rs": 0.1018
+ },
+ {
+  "id": "b363d272-d018-4ce6-a7c3-bd9e2f54f0e5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T19:43:27-03:00",
+  "duracao_s": 202,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "ba059e68-8d87-47be-a71d-d0f18985c98d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-04T19:54:05-03:00",
+  "duracao_s": 222,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "ed601f49-471b-4cc7-a233-c597f129ed2f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T07:32:50-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "6283f50f-1fdd-420a-abee-30cffe12ace5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T07:59:50-03:00",
+  "duracao_s": 79,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "efed098b-979a-4368-bd96-bb0a5719d3e4",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T08:13:39-03:00",
+  "duracao_s": 92,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "4ab63e0f-3cfb-4642-8897-c4970bad4234",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T08:40:02-03:00",
+  "duracao_s": 194,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "fd523fad-3fbe-4e33-bae2-d4a8a4752fa7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T08:51:41-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "63e73896-c784-4f4b-8fff-e8456257ae9c",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T09:19:02-03:00",
+  "duracao_s": 340,
+  "custo_estimado_rs": 0.0127
+ },
+ {
+  "id": "8e023ef0-015c-49f4-ae10-6355b1f9ab31",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T09:31:45-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "d9f8a24e-41bb-4e0d-8fff-c06d167b6ea0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T09:53:13-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "7d165228-b589-417e-8275-b18a593c73f2",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T10:34:25-03:00",
+  "duracao_s": 254,
+  "custo_estimado_rs": 0.0095
+ },
+ {
+  "id": "8d59c34d-44bd-404f-b550-2e2b4bde7d88",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T10:37:25-03:00",
+  "duracao_s": 192,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "969b6b4b-fcce-4ef8-a41b-c4c24eccb0ab",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T12:13:26-03:00",
+  "duracao_s": 195,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "28f5f5c2-00eb-4725-af1e-f8dc34f902b7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T12:36:42-03:00",
+  "duracao_s": 219,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "933882b3-20fa-45b7-8a05-49501f7fe5b0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T13:15:40-03:00",
+  "duracao_s": 145,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "be006ccb-f872-4487-a507-c321f0b6844f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T13:52:49-03:00",
+  "duracao_s": 176,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "edba84d1-e110-4d91-8244-bc44b25c5b50",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T15:00:23-03:00",
+  "duracao_s": 383,
+  "custo_estimado_rs": 0.0144
+ },
+ {
+  "id": "88c982ec-b3dd-4cfb-accb-6ae1b6d331ca",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T15:37:40-03:00",
+  "duracao_s": 66,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "62a53193-a6a1-4c2b-8ec5-bad7b24ae6e3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T15:53:22-03:00",
+  "duracao_s": 164,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "bc6aa8a7-be33-4380-b7aa-53b6e900b66f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T16:00:56-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "af642572-83d7-4afc-bf70-29737acabb76",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T16:28:42-03:00",
+  "duracao_s": 99,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "f75c0751-8fd8-4cb4-88fb-2050a460cf44",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T17:09:01-03:00",
+  "duracao_s": 237,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "f36c1c45-a942-44d7-bd2d-fffffe85544c",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T17:29:43-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "866b329a-b877-4049-b52f-5e0d80fa3363",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T18:04:08-03:00",
+  "duracao_s": 313,
+  "custo_estimado_rs": 0.0117
+ },
+ {
+  "id": "4a7d6fa1-1d9d-4b86-8253-fb27393aa0a9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T18:59:09-03:00",
+  "duracao_s": 129,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "9b7cd539-0ad7-477c-9bf4-1cc6af1fbe16",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T19:53:11-03:00",
+  "duracao_s": 200,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "f5044d15-6fb1-48c2-8350-bf4f31b8f079",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T20:02:59-03:00",
+  "duracao_s": 111,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "038ef7af-67cc-4a38-9feb-c9afb2a86456",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-05T20:58:16-03:00",
+  "duracao_s": 201,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "c1ab6398-02cf-43a8-98dc-4031363fbae9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-05T21:04:12-03:00",
+  "duracao_s": 2335,
+  "custo_estimado_rs": 0.07
+ },
+ {
+  "id": "0bb1b984-7bda-4670-8a4c-3b4dfc8ade6a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-05T21:12:45-03:00",
+  "duracao_s": 6418,
+  "custo_estimado_rs": 0.1925
+ },
+ {
+  "id": "44e831e1-3d86-4ad2-8849-30a1ede02d33",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-05T23:16:27-03:00",
+  "duracao_s": 7029,
+  "custo_estimado_rs": 0.2109
+ },
+ {
+  "id": "dde4cd87-d96d-4200-9947-c72a5c613985",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-05T23:23:38-03:00",
+  "duracao_s": 1615,
+  "custo_estimado_rs": 0.1615
+ },
+ {
+  "id": "5e7e00e5-f8e3-41ea-9aeb-bc3ea1f78157",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T07:01:10-03:00",
+  "duracao_s": 257,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "31e3e608-800e-4952-a5ec-4424f56febb1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-06T07:07:07-03:00",
+  "duracao_s": 4113,
+  "custo_estimado_rs": 0.1234
+ },
+ {
+  "id": "62649ce8-eab8-45be-b62c-09bfa4f73a30",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T07:10:21-03:00",
+  "duracao_s": 93,
+  "custo_estimado_rs": 0.0035
+ },
+ {
+  "id": "f23b1efb-0bd1-4d4a-8cf4-1edd3f9304fa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T09:24:08-03:00",
+  "duracao_s": 65,
+  "custo_estimado_rs": 0.0024
+ },
+ {
+  "id": "de34106a-fa90-4bfb-a845-f72389924e2d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T09:28:27-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "c572aa5b-51d4-4f72-ac77-8135fad76ab7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T09:39:28-03:00",
+  "duracao_s": 169,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "a1861de1-5c85-458c-9029-0d6bebe55cc4",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T10:23:34-03:00",
+  "duracao_s": 78,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "29534ea7-d76d-4612-a9a0-758ef3a7bd25",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T10:27:49-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "41190559-25b9-4e82-ae5a-5f99f1bb5d9b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T10:39:31-03:00",
+  "duracao_s": 186,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "688928ad-2234-4eac-b8da-35594398018f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T11:32:37-03:00",
+  "duracao_s": 361,
+  "custo_estimado_rs": 0.0135
+ },
+ {
+  "id": "d9cc8656-8a03-4e43-94ec-05953ff09d13",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T11:43:53-03:00",
+  "duracao_s": 238,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "973d1855-9a03-4d06-a9eb-0bf9850e6d30",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:06:37-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "0d08367e-f3d5-4737-9a71-504b8380d397",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:08:19-03:00",
+  "duracao_s": 99,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "a261d918-a050-45fa-9eba-029741e15f65",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:20:51-03:00",
+  "duracao_s": 414,
+  "custo_estimado_rs": 0.0155
+ },
+ {
+  "id": "54d144d5-18ed-4297-acb8-3fceb3e1511b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:28:08-03:00",
+  "duracao_s": 2861,
+  "custo_estimado_rs": 0.0858
+ },
+ {
+  "id": "84bed7ed-1491-451d-a6a7-a6b0f9619ae2",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:34:02-03:00",
+  "duracao_s": 220,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "1cfcdf01-f840-4eea-9f8f-85382ba4d656",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T12:55:05-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "61547769-f43d-4740-9039-2a8cda73dae0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T15:01:11-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "891d47fe-970e-487a-8fd7-b0f24f908490",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T15:04:36-03:00",
+  "duracao_s": 70,
+  "custo_estimado_rs": 0.0026
+ },
+ {
+  "id": "5302e6e2-387b-4cda-b133-0766d11ce313",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T15:27:38-03:00",
+  "duracao_s": 185,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "133b385e-2cc0-4f87-b99e-1823e75f58ba",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T16:26:35-03:00",
+  "duracao_s": 199,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "25dbbe8d-a534-4425-aa69-b7f7b28d7cb8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T16:53:30-03:00",
+  "duracao_s": 77,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "b0285484-beea-44d3-b8fc-75131b3fd4b0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T17:53:40-03:00",
+  "duracao_s": 378,
+  "custo_estimado_rs": 0.0142
+ },
+ {
+  "id": "4799c04b-f719-45ae-bb00-84fa3822b51b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T18:25:22-03:00",
+  "duracao_s": 262,
+  "custo_estimado_rs": 0.0098
+ },
+ {
+  "id": "a03e9b5d-0ea8-40ee-bc3a-156a531b49d8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T19:34:36-03:00",
+  "duracao_s": 230,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "23cd8a44-71e6-4bce-88ba-ef4aa8be8d1f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T20:14:28-03:00",
+  "duracao_s": 140,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "8b5f93fe-f75d-4ff4-9d12-3e9b4c6f9a45",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-06T20:43:08-03:00",
+  "duracao_s": 194,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "f1613bab-d0ef-4299-a50b-1c5a50e08a81",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T07:07:43-03:00",
+  "duracao_s": 187,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "ef470a44-a4fc-479c-949c-c547c3712e42",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T07:17:24-03:00",
+  "duracao_s": 86,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "2483c458-4485-4295-9566-8483c5266dc8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T07:36:44-03:00",
+  "duracao_s": 207,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "a52680b3-e8bc-4007-b47c-76903ec8f48e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:00:33-03:00",
+  "duracao_s": 298,
+  "custo_estimado_rs": 0.0112
+ },
+ {
+  "id": "759a9725-2e77-4be3-bef7-4fdb17fc2335",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:04:36-03:00",
+  "duracao_s": 325,
+  "custo_estimado_rs": 0.0122
+ },
+ {
+  "id": "5e5f310c-6f14-4dc6-b9ed-e33fbad4f3e0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:10:44-03:00",
+  "duracao_s": 198,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "802a63cc-4d5e-42e8-b11c-377f40bc2b56",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:19:17-03:00",
+  "duracao_s": 179,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "c6141017-11e1-41c7-98cc-84170067743e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:21:27-03:00",
+  "duracao_s": 195,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "f17fb786-7d92-4cc0-91d5-1b0630591fbc",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:35:25-03:00",
+  "duracao_s": 170,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "fcadb3fd-01a4-42d1-8edf-aa12b2f240e3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T09:56:00-03:00",
+  "duracao_s": 171,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "9f4fe355-baa6-461c-a0e4-dbfe470367f7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T10:01:28-03:00",
+  "duracao_s": 156,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "00926d61-368b-4d68-83c6-b5324b25c483",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T11:03:39-03:00",
+  "duracao_s": 188,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "25bdab14-74ae-4b96-ae13-3adc7ff5088e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T11:09:19-03:00",
+  "duracao_s": 126,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "8d548038-9a26-4279-a25b-74adf519ab52",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T11:11:45-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "35b80aae-82b6-4c8e-89c8-18d79b2e18c0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T14:19:02-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "0e4d364e-397e-4bfb-93ec-214935f2e254",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-07T14:43:15-03:00",
+  "duracao_s": 1396,
+  "custo_estimado_rs": 0.1396
+ },
+ {
+  "id": "bfacc63e-44de-450f-a488-dee3d0713f73",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T15:00:59-03:00",
+  "duracao_s": 158,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "4a9f6c5c-7eb9-4e2d-b738-7270d424d9f3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T15:02:08-03:00",
+  "duracao_s": 231,
+  "custo_estimado_rs": 0.0087
+ },
+ {
+  "id": "cd2174d3-d960-4af0-aa54-6c79bf3f51d5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T15:25:13-03:00",
+  "duracao_s": 107,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "24444f64-3025-4856-8967-65693cb29bf1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T16:37:51-03:00",
+  "duracao_s": 76,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "bba8a7e5-49d0-4ac1-a78e-b37c6ab62dbf",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T16:44:54-03:00",
+  "duracao_s": 204,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "29b50942-4f66-4914-8563-5b3048340d51",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T17:12:45-03:00",
+  "duracao_s": 411,
+  "custo_estimado_rs": 0.0154
+ },
+ {
+  "id": "a2dcb574-1bf9-42a5-96c0-68e8de922cf1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T17:16:30-03:00",
+  "duracao_s": 256,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "4e08ab81-ec4d-4c00-b7ab-aaf864c46086",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T17:19:56-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "624d3473-60bc-4cbc-9987-e6d09a7171aa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T17:30:22-03:00",
+  "duracao_s": 86,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "809bd813-4f13-423b-91f4-a72499503858",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T18:35:18-03:00",
+  "duracao_s": 78,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "11c7bec9-3016-4ecc-9b9a-3a55aff745a0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T19:23:36-03:00",
+  "duracao_s": 281,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "0911e215-e4b7-4864-9362-dea783f9b580",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T20:00:27-03:00",
+  "duracao_s": 229,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "4ed7b3f3-9609-42eb-a1fe-6f28e2fb8d66",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T20:32:51-03:00",
+  "duracao_s": 238,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "ba0d3f1f-2325-45b4-86da-f596b96c2da0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T20:35:07-03:00",
+  "duracao_s": 131,
+  "custo_estimado_rs": 0.0049
+ },
+ {
+  "id": "b4dea4a4-d900-4a4b-bf31-78464600fc5f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-07T20:51:52-03:00",
+  "duracao_s": 101,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "961b9221-7a19-4807-a1d2-1319cbcb3293",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-07T22:15:19-03:00",
+  "duracao_s": 6610,
+  "custo_estimado_rs": 0.1983
+ },
+ {
+  "id": "e29cb897-1429-45a0-b68e-212daeb00fb9",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-07T23:10:19-03:00",
+  "duracao_s": 3041,
+  "custo_estimado_rs": 0.0912
+ },
+ {
+  "id": "793228b9-ad8a-44bc-ac24-dcaa566082e1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T07:18:06-03:00",
+  "duracao_s": 170,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "e2eed64b-82f4-4196-9a41-c57f4bf70dc6",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T07:37:24-03:00",
+  "duracao_s": 358,
+  "custo_estimado_rs": 0.0134
+ },
+ {
+  "id": "4c60b543-541b-489c-b5d9-c07c9d9363ea",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T07:48:17-03:00",
+  "duracao_s": 66,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "35eabd3e-b77d-4f3a-93f0-405827177e59",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T07:49:24-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "1fb426c0-6924-4248-a759-9511e604bfbe",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T08:11:11-03:00",
+  "duracao_s": 196,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "15f0e5ea-4b0a-4742-946e-6a4f2a873e02",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T08:31:43-03:00",
+  "duracao_s": 232,
+  "custo_estimado_rs": 0.0087
+ },
+ {
+  "id": "29c3d598-d0c2-4f21-b1bf-5c97e473b0b0",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T08:56:57-03:00",
+  "duracao_s": 368,
+  "custo_estimado_rs": 0.0138
+ },
+ {
+  "id": "c2589de2-cf26-4489-aec7-5a83bffa7a4f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T09:35:56-03:00",
+  "duracao_s": 85,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "9fda15ac-e9b8-4e7a-a078-6a1f70d3b5f7",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T09:41:10-03:00",
+  "duracao_s": 174,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "d20cd375-a5d4-43c4-a845-fee9904ada37",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T09:41:48-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "a54427ec-b261-4d5c-a214-245cfecfdd72",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T09:51:09-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "496ec0c9-a7c5-4960-9a72-84a225ba7795",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T10:10:24-03:00",
+  "duracao_s": 277,
+  "custo_estimado_rs": 0.0104
+ },
+ {
+  "id": "89310697-24ab-42a0-b1cb-c263f0b0e729",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T10:33:30-03:00",
+  "duracao_s": 173,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "f1da833d-1550-4390-b4c0-db3e666a4a82",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T10:38:57-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "fdb651a6-28c0-4305-9938-7dfbe9917f60",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T11:11:14-03:00",
+  "duracao_s": 238,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "8b248c7e-0e4d-4b72-be6a-41f1278e2f60",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T11:18:12-03:00",
+  "duracao_s": 325,
+  "custo_estimado_rs": 0.0122
+ },
+ {
+  "id": "2fa80808-b8f1-4861-a3e3-e73b59875c7d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T11:57:16-03:00",
+  "duracao_s": 66,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "2e968660-7c89-417d-b2b1-792b2263960a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T12:14:42-03:00",
+  "duracao_s": 250,
+  "custo_estimado_rs": 0.0094
+ },
+ {
+  "id": "95ecec2c-0798-4bc0-9797-44ba107380cb",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T12:17:17-03:00",
+  "duracao_s": 140,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "329245ba-7df6-4c1d-ae49-28ac19f145cc",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T12:37:44-03:00",
+  "duracao_s": 67,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "366b3575-d07a-4518-912c-f322735e8153",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T14:02:11-03:00",
+  "duracao_s": 98,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "4a74982e-56ca-4fb3-a196-2a11c90cd1d3",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-08T15:31:20-03:00",
+  "duracao_s": 5465,
+  "custo_estimado_rs": 0.1639
+ },
+ {
+  "id": "d32e4757-056d-4195-9f81-e0978b2a3730",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T16:41:18-03:00",
+  "duracao_s": 401,
+  "custo_estimado_rs": 0.015
+ },
+ {
+  "id": "33cb59ef-15c0-4765-b51b-d20fda4bdf2d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T17:18:21-03:00",
+  "duracao_s": 253,
+  "custo_estimado_rs": 0.0095
+ },
+ {
+  "id": "8ad8c568-1b39-4777-8aaa-4685f5266edf",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T18:05:36-03:00",
+  "duracao_s": 84,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "0624ebdf-396c-4f79-a983-c62e004f5362",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T18:42:38-03:00",
+  "duracao_s": 152,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "ec5412b4-0d74-4c38-bc58-82ecb34de663",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T18:52:22-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "644d852c-ba36-46cc-bccd-1ac6db55daf5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T19:06:57-03:00",
+  "duracao_s": 115,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "4008d4da-a819-413d-84fa-84a427d764ce",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T19:47:00-03:00",
+  "duracao_s": 66,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "ba0c96e2-8720-400f-9263-01a0641cb619",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-08T20:51:51-03:00",
+  "duracao_s": 170,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "842c49fa-806a-49ad-b6b2-e778fe508d4d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-08T23:12:39-03:00",
+  "duracao_s": 3119,
+  "custo_estimado_rs": 0.0936
+ },
+ {
+  "id": "de6d4e25-2575-4bd1-85f3-e8a4c72fa86e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T08:14:44-03:00",
+  "duracao_s": 150,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "9a5d376e-602b-4256-81db-eb73cab285dc",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T08:21:20-03:00",
+  "duracao_s": 203,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "26aeaf29-9ac0-4e26-8b18-c73ce545281b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T08:39:24-03:00",
+  "duracao_s": 123,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "08175dd0-e6a7-4af7-94ca-6897be71cd60",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T08:52:17-03:00",
+  "duracao_s": 172,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "35b33f54-2513-4cd4-a5b0-15b44a84525f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T08:55:33-03:00",
+  "duracao_s": 193,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "c42d5f03-2482-48d1-83d3-3907ce028d60",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-09T09:08:01-03:00",
+  "duracao_s": 2597,
+  "custo_estimado_rs": 0.0779
+ },
+ {
+  "id": "1235d52e-16d7-4a54-9a76-5b485d0314d8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-09T09:15:38-03:00",
+  "duracao_s": 6522,
+  "custo_estimado_rs": 0.1957
+ },
+ {
+  "id": "adef5777-2e6d-47e8-9980-236855b85720",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T09:29:34-03:00",
+  "duracao_s": 351,
+  "custo_estimado_rs": 0.0132
+ },
+ {
+  "id": "5cbad410-0256-4225-a6b7-8891bc3ddbfc",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T10:03:14-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "556efce4-9d9e-4da2-9387-bcda5b7887ed",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T10:08:35-03:00",
+  "duracao_s": 224,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "e3e103bb-ae8e-4075-9eeb-c61856282768",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T11:43:06-03:00",
+  "duracao_s": 179,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "5c784ca4-f0e4-4a0b-bd56-3b0ed11ce5c8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T11:48:11-03:00",
+  "duracao_s": 150,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "0a4e3ccf-48ef-40ff-b087-77b41c54956f",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:01:45-03:00",
+  "duracao_s": 115,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "89534e15-2ea3-4b78-a466-c9376da7c95b",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:14:25-03:00",
+  "duracao_s": 158,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "1fe72d21-4526-4d62-93d8-a6e63f5c022a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:18:18-03:00",
+  "duracao_s": 219,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "6f023006-c9ac-476c-be11-230e50fcfdaa",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:52:32-03:00",
+  "duracao_s": 104,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "592fcdc6-4979-4220-914b-c7719ff0287a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:57:12-03:00",
+  "duracao_s": 234,
+  "custo_estimado_rs": 0.0088
+ },
+ {
+  "id": "fea95b73-52b3-40d1-9727-89242508f357",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T12:59:03-03:00",
+  "duracao_s": 222,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "017cc74e-6f18-4343-bf41-5c985a8e8f05",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T13:09:03-03:00",
+  "duracao_s": 100,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "93ed82c5-1cf8-4164-913b-776ed08ce31e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T13:15:13-03:00",
+  "duracao_s": 324,
+  "custo_estimado_rs": 0.0121
+ },
+ {
+  "id": "c1c4f618-7925-47d5-bc65-a804ee9ff73c",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T14:16:51-03:00",
+  "duracao_s": 138,
+  "custo_estimado_rs": 0.0052
+ },
+ {
+  "id": "a3e2ac17-5450-461f-90e2-b6766822d128",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-3",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T14:26:26-03:00",
+  "duracao_s": 205,
+  "custo_estimado_rs": 0.0077
+ },
+ {
+  "id": "5b24bb54-f9ad-47ae-8ea7-61a69c5dfb8d",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T16:18:39-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "c075e119-441d-4e33-8fa1-659f026f05f6",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T16:25:09-03:00",
+  "duracao_s": 95,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "1c31d9b9-fda2-49a0-ab68-38e37de7f41a",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T16:36:53-03:00",
+  "duracao_s": 137,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "52cb8f69-2182-4518-98e9-ef7764ce4589",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T16:48:55-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "9b5c4b58-9c42-4665-bf3c-03a6357544ee",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-09T16:58:43-03:00",
+  "duracao_s": 3758,
+  "custo_estimado_rs": 0.1127
+ },
+ {
+  "id": "d98d213c-0ddb-4654-8e19-2f51dda8b391",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T17:31:54-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "d6e0217c-a801-415e-b046-425dfd474d95",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T18:21:41-03:00",
+  "duracao_s": 92,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "5e7e2813-a967-4fe1-bfce-e629ea8e55a5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T19:15:20-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "eedf4f78-dc99-4976-808e-c990c9f279a8",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T20:03:37-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "93c09687-29e7-4176-a796-17c47520d99e",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T20:05:02-03:00",
+  "duracao_s": 147,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "0ab74b5d-fcd4-4681-8a09-7b17951b2503",
+  "loja_id": "mercado-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T20:22:22-03:00",
+  "duracao_s": 240,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "63fe557c-25d4-4c19-91fc-4c232586dcd1",
+  "loja_id": "mercado-01",
+  "equipamento_id": "freezer-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-11-09T20:41:33-03:00",
+  "duracao_s": 415,
+  "custo_estimado_rs": 0.0156
+ },
+ {
+  "id": "2b729d66-504f-4e7c-b46e-49a81817dac5",
+  "loja_id": "mercado-01",
+  "equipamento_id": "iluminacao-estoque",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-11-09T23:10:34-03:00",
+  "duracao_s": 5887,
+  "custo_estimado_rs": 0.1766
+ }
+]

@@ -1,0 +1,1340 @@
+{
+  "recall": {
+    "bm25_calibracao": {
+      "n": 19,
+      "recall@1": 0.789,
+      "recall@3": 0.895,
+      "detalhe": [
+        {
+          "caso": "c01",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-postos-01",
+            "aneel-bandeiras-01"
+          ]
+        },
+        {
+          "caso": "c02",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "aneel-tarifa-branca-03",
+            "aneel-tarifa-branca-01",
+            "aneel-tb-faq-03"
+          ]
+        },
+        {
+          "caso": "c03",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-09",
+            "anvisa-rdc216-04",
+            "procel-refrigeracao-08"
+          ]
+        },
+        {
+          "caso": "c04",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-01",
+            "produto-contrato-03",
+            "ana-a3p-02"
+          ]
+        },
+        {
+          "caso": "c05",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-05",
+            "ana-dicas-03",
+            "aneel-postos-02"
+          ]
+        },
+        {
+          "caso": "c06",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "epe-abcd-02",
+            "produto-contrato-02",
+            "ana-dicas-04"
+          ]
+        },
+        {
+          "caso": "c07",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "produto-contrato-05",
+            "procel-refrigeracao-05",
+            "produto-contrato-03"
+          ]
+        },
+        {
+          "caso": "c08",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-06",
+            "aneel-tarifa-branca-03",
+            "aneel-tarifa-branca-01"
+          ]
+        },
+        {
+          "caso": "c09",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-01",
+            "produto-contrato-04",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "c10",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "produto-contrato-03",
+            "ana-a3p-02"
+          ]
+        },
+        {
+          "caso": "c16",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "procel-refrigeracao-01",
+            "procel-refrigeracao-07",
+            "procel-refrigeracao-06"
+          ]
+        },
+        {
+          "caso": "c17",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-10",
+            "procel-refrigeracao-11",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "c18",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "anvisa-rdc216-04",
+            "procel-refrigeracao-01",
+            "procel-refrigeracao-10"
+          ]
+        },
+        {
+          "caso": "c19",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-dicas-01",
+            "ana-a3p-04",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "c20",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tarifa-branca-01",
+            "aneel-modalidades-01",
+            "produto-contrato-06"
+          ]
+        },
+        {
+          "caso": "c21",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-06",
+            "produto-contrato-03",
+            "produto-contrato-04"
+          ]
+        },
+        {
+          "caso": "c22",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-03",
+            "procel-refrigeracao-01",
+            "ana-a3p-02"
+          ]
+        },
+        {
+          "caso": "c23",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "procel-refrigeracao-01",
+            "produto-contrato-03"
+          ]
+        },
+        {
+          "caso": "c24",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "procel-refrigeracao-06"
+          ]
+        }
+      ]
+    },
+    "bm25_teste": {
+      "n": 28,
+      "recall@1": 0.786,
+      "recall@3": 0.857,
+      "detalhe": [
+        {
+          "caso": "t01",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "produto-contrato-01",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "t02",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-03"
+          ]
+        },
+        {
+          "caso": "t03",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "aneel-bandeiras-03",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-02"
+          ]
+        },
+        {
+          "caso": "t04",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-03",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-02"
+          ]
+        },
+        {
+          "caso": "t05",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-03",
+            "produto-contrato-05",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t06",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-postos-02",
+            "aneel-tb-faq-01",
+            "procel-refrigeracao-11"
+          ]
+        },
+        {
+          "caso": "t07",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "aneel-tarifa-branca-03",
+            "aneel-tarifa-branca-01",
+            "aneel-tb-faq-03"
+          ]
+        },
+        {
+          "caso": "t08",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-05",
+            "aneel-tarifa-branca-03",
+            "aneel-tb-faq-02"
+          ]
+        },
+        {
+          "caso": "t09",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tarifa-branca-02",
+            "aneel-postos-03",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t10",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "anvisa-rdc216-07",
+            "anvisa-rdc216-04",
+            "anvisa-rdc216-03"
+          ]
+        },
+        {
+          "caso": "t11",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "anvisa-rdc216-06",
+            "anvisa-rdc216-02",
+            "anvisa-rdc216-05"
+          ]
+        },
+        {
+          "caso": "t12",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-01",
+            "produto-contrato-03",
+            "ana-a3p-02"
+          ]
+        },
+        {
+          "caso": "t13",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-02",
+            "procel-refrigeracao-03",
+            "produto-contrato-06"
+          ]
+        },
+        {
+          "caso": "t14",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-04",
+            "ana-a3p-02",
+            "produto-contrato-05"
+          ]
+        },
+        {
+          "caso": "t15",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-dicas-01",
+            "ana-a3p-04",
+            "produto-contrato-05"
+          ]
+        },
+        {
+          "caso": "t16",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-03",
+            "produto-contrato-04",
+            "produto-contrato-05"
+          ]
+        },
+        {
+          "caso": "t17",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "epe-abcd-01",
+            "aneel-tb-faq-06",
+            "mme-pee-02"
+          ]
+        },
+        {
+          "caso": "t18",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-02",
+            "produto-contrato-05",
+            "aneel-postos-03"
+          ]
+        },
+        {
+          "caso": "t19",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "mme-pee-01",
+            "aneel-pee-01",
+            "aneel-chamadas-01"
+          ]
+        },
+        {
+          "caso": "t20",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-01",
+            "procel-refrigeracao-05",
+            "aneel-bandeiras-01"
+          ]
+        },
+        {
+          "caso": "t21",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "produto-contrato-03",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "t22",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "produto-contrato-01"
+          ]
+        },
+        {
+          "caso": "t23",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "produto-contrato-01",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "t24",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-01",
+            "produto-contrato-04",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "t25",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "produto-contrato-01",
+            "produto-contrato-03"
+          ]
+        },
+        {
+          "caso": "t26",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "produto-contrato-03",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "t27",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "produto-contrato-05",
+            "procel-refrigeracao-07",
+            "ana-dicas-03"
+          ]
+        },
+        {
+          "caso": "t28",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "produto-contrato-05",
+            "produto-contrato-04",
+            "produto-contrato-01"
+          ]
+        }
+      ]
+    },
+    "denso_calibracao": {
+      "n": 19,
+      "recall@1": 0.789,
+      "recall@3": 0.947,
+      "detalhe": [
+        {
+          "caso": "c01",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-03"
+          ]
+        },
+        {
+          "caso": "c02",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "aneel-tb-faq-03",
+            "aneel-tarifa-branca-01",
+            "aneel-tarifa-branca-03"
+          ]
+        },
+        {
+          "caso": "c03",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "anvisa-rdc216-05",
+            "procel-refrigeracao-09",
+            "anvisa-rdc216-04"
+          ]
+        },
+        {
+          "caso": "c04",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-01",
+            "ana-a3p-02",
+            "procel-refrigeracao-03"
+          ]
+        },
+        {
+          "caso": "c05",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-05",
+            "ana-dicas-03",
+            "aneel-tb-faq-03"
+          ]
+        },
+        {
+          "caso": "c06",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "epe-abcd-02",
+            "ana-dicas-04",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "c07",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-05",
+            "ana-dicas-01",
+            "ana-a3p-04"
+          ]
+        },
+        {
+          "caso": "c08",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-06",
+            "aneel-tarifa-branca-03",
+            "aneel-tb-faq-02"
+          ]
+        },
+        {
+          "caso": "c09",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-01",
+            "produto-contrato-04",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "c10",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "produto-contrato-03",
+            "procel-refrigeracao-08",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "c16",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "procel-refrigeracao-06",
+            "procel-refrigeracao-09",
+            "procel-refrigeracao-07"
+          ]
+        },
+        {
+          "caso": "c17",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-10",
+            "procel-refrigeracao-03",
+            "ana-a3p-01"
+          ]
+        },
+        {
+          "caso": "c18",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-02",
+            "anvisa-rdc216-04",
+            "procel-refrigeracao-09"
+          ]
+        },
+        {
+          "caso": "c19",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-dicas-01",
+            "ana-a3p-04",
+            "procel-refrigeracao-05"
+          ]
+        },
+        {
+          "caso": "c20",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-modalidades-02",
+            "aneel-tarifa-branca-01",
+            "aneel-modalidades-01"
+          ]
+        },
+        {
+          "caso": "c21",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-06",
+            "anvisa-rdc216-07",
+            "procel-refrigeracao-07"
+          ]
+        },
+        {
+          "caso": "c22",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-03",
+            "procel-refrigeracao-01",
+            "procel-refrigeracao-08"
+          ]
+        },
+        {
+          "caso": "c23",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-01",
+            "produto-contrato-02",
+            "procel-refrigeracao-08"
+          ]
+        },
+        {
+          "caso": "c24",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-03"
+          ]
+        }
+      ]
+    },
+    "denso_teste": {
+      "n": 28,
+      "recall@1": 0.786,
+      "recall@3": 0.929,
+      "detalhe": [
+        {
+          "caso": "t01",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t02",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-03"
+          ]
+        },
+        {
+          "caso": "t03",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-03",
+            "aneel-bandeiras-02"
+          ]
+        },
+        {
+          "caso": "t04",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-03",
+            "aneel-bandeiras-01",
+            "aneel-bandeiras-02"
+          ]
+        },
+        {
+          "caso": "t05",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-03",
+            "aneel-tarifa-branca-03",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t06",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-postos-02",
+            "ana-a3p-05",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t07",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "aneel-tarifa-branca-03",
+            "aneel-tb-faq-05",
+            "aneel-tb-faq-02"
+          ]
+        },
+        {
+          "caso": "t08",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tb-faq-05",
+            "aneel-tarifa-branca-03",
+            "aneel-tb-faq-02"
+          ]
+        },
+        {
+          "caso": "t09",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-tarifa-branca-02",
+            "aneel-tb-faq-03",
+            "aneel-tb-faq-02"
+          ]
+        },
+        {
+          "caso": "t10",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "anvisa-rdc216-05",
+            "anvisa-rdc216-06",
+            "procel-refrigeracao-09"
+          ]
+        },
+        {
+          "caso": "t11",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "anvisa-rdc216-06",
+            "anvisa-rdc216-05",
+            "anvisa-rdc216-04"
+          ]
+        },
+        {
+          "caso": "t12",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-01",
+            "produto-contrato-03",
+            "procel-refrigeracao-10"
+          ]
+        },
+        {
+          "caso": "t13",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-02",
+            "ana-a3p-02",
+            "procel-refrigeracao-07"
+          ]
+        },
+        {
+          "caso": "t14",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "procel-refrigeracao-04",
+            "ana-a3p-02",
+            "procel-refrigeracao-06"
+          ]
+        },
+        {
+          "caso": "t15",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "ana-a3p-04",
+            "ana-dicas-01",
+            "anvisa-rdc216-05"
+          ]
+        },
+        {
+          "caso": "t16",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-dicas-02",
+            "procel-refrigeracao-07",
+            "ana-a3p-01"
+          ]
+        },
+        {
+          "caso": "t17",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "epe-abcd-01",
+            "ana-a3p-03",
+            "procel-refrigeracao-07"
+          ]
+        },
+        {
+          "caso": "t18",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-02",
+            "procel-refrigeracao-09",
+            "ana-a3p-01"
+          ]
+        },
+        {
+          "caso": "t19",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-pee-01",
+            "mme-pee-01",
+            "epe-abcd-02"
+          ]
+        },
+        {
+          "caso": "t20",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "ana-a3p-01",
+            "procel-refrigeracao-05",
+            "ana-a3p-02"
+          ]
+        },
+        {
+          "caso": "t21",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "produto-contrato-03",
+            "produto-contrato-02",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t22",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t23",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "aneel-bandeiras-02",
+            "aneel-bandeiras-01",
+            "aneel-tb-faq-04"
+          ]
+        },
+        {
+          "caso": "t24",
+          "posicao_primeiro_relevante": 2,
+          "recuperados": [
+            "procel-refrigeracao-08",
+            "produto-contrato-01",
+            "produto-contrato-02"
+          ]
+        },
+        {
+          "caso": "t25",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-02",
+            "procel-refrigeracao-08",
+            "procel-refrigeracao-01"
+          ]
+        },
+        {
+          "caso": "t26",
+          "posicao_primeiro_relevante": 1,
+          "recuperados": [
+            "produto-contrato-01",
+            "produto-contrato-02",
+            "produto-contrato-03"
+          ]
+        },
+        {
+          "caso": "t27",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "produto-contrato-05",
+            "procel-refrigeracao-08",
+            "ana-dicas-03"
+          ]
+        },
+        {
+          "caso": "t28",
+          "posicao_primeiro_relevante": null,
+          "recuperados": [
+            "procel-refrigeracao-09",
+            "produto-contrato-05",
+            "produto-contrato-04"
+          ]
+        }
+      ]
+    }
+  },
+  "scores_calibracao": [
+    {
+      "caso": "c01",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6709
+    },
+    {
+      "caso": "c02",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6558
+    },
+    {
+      "caso": "c03",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7546
+    },
+    {
+      "caso": "c04",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6179
+    },
+    {
+      "caso": "c05",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7789
+    },
+    {
+      "caso": "c06",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.698
+    },
+    {
+      "caso": "c07",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6958
+    },
+    {
+      "caso": "c08",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7275
+    },
+    {
+      "caso": "c09",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7537
+    },
+    {
+      "caso": "c10",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.5792
+    },
+    {
+      "caso": "c11",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5274
+    },
+    {
+      "caso": "c12",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4651
+    },
+    {
+      "caso": "c13",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5167
+    },
+    {
+      "caso": "c14",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4818
+    },
+    {
+      "caso": "c15",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5414
+    },
+    {
+      "caso": "c16",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6435
+    },
+    {
+      "caso": "c17",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6173
+    },
+    {
+      "caso": "c18",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6517
+    },
+    {
+      "caso": "c19",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.5942
+    },
+    {
+      "caso": "c20",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6207
+    },
+    {
+      "caso": "c21",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6129
+    },
+    {
+      "caso": "c22",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7176
+    },
+    {
+      "caso": "c23",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.5823
+    },
+    {
+      "caso": "c24",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.7125
+    },
+    {
+      "caso": "c25",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.4386
+    },
+    {
+      "caso": "c26",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.5161
+    },
+    {
+      "caso": "c27",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4852
+    },
+    {
+      "caso": "c28",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4681
+    },
+    {
+      "caso": "c29",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4512
+    },
+    {
+      "caso": "c30",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.563
+    }
+  ],
+  "scores_teste": [
+    {
+      "caso": "t01",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6878
+    },
+    {
+      "caso": "t02",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6189
+    },
+    {
+      "caso": "t03",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6795
+    },
+    {
+      "caso": "t04",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6815
+    },
+    {
+      "caso": "t05",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6559
+    },
+    {
+      "caso": "t06",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6987
+    },
+    {
+      "caso": "t07",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7301
+    },
+    {
+      "caso": "t08",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.763
+    },
+    {
+      "caso": "t09",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6447
+    },
+    {
+      "caso": "t10",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7193
+    },
+    {
+      "caso": "t11",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7221
+    },
+    {
+      "caso": "t12",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6522
+    },
+    {
+      "caso": "t13",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.7286
+    },
+    {
+      "caso": "t14",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6946
+    },
+    {
+      "caso": "t15",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6251
+    },
+    {
+      "caso": "t16",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.549
+    },
+    {
+      "caso": "t17",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6936
+    },
+    {
+      "caso": "t18",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6029
+    },
+    {
+      "caso": "t19",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.661
+    },
+    {
+      "caso": "t20",
+      "nao_consta": false,
+      "categoria": "factual",
+      "score": 0.6062
+    },
+    {
+      "caso": "t21",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.5588
+    },
+    {
+      "caso": "t22",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.6566
+    },
+    {
+      "caso": "t23",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.6922
+    },
+    {
+      "caso": "t24",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.5341
+    },
+    {
+      "caso": "t25",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.6302
+    },
+    {
+      "caso": "t26",
+      "nao_consta": false,
+      "categoria": "calculo",
+      "score": 0.5871
+    },
+    {
+      "caso": "t27",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.5507
+    },
+    {
+      "caso": "t28",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.4441
+    },
+    {
+      "caso": "t29",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.4768
+    },
+    {
+      "caso": "t30",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.4758
+    },
+    {
+      "caso": "t31",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.5035
+    },
+    {
+      "caso": "t32",
+      "nao_consta": false,
+      "categoria": "loja",
+      "score": 0.4555
+    },
+    {
+      "caso": "t33",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5486
+    },
+    {
+      "caso": "t34",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5956
+    },
+    {
+      "caso": "t35",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4959
+    },
+    {
+      "caso": "t36",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5572
+    },
+    {
+      "caso": "t37",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5549
+    },
+    {
+      "caso": "t38",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5105
+    },
+    {
+      "caso": "t39",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4962
+    },
+    {
+      "caso": "t40",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.5047
+    },
+    {
+      "caso": "t41",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4656
+    },
+    {
+      "caso": "t42",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4783
+    },
+    {
+      "caso": "t43",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.3824
+    },
+    {
+      "caso": "t44",
+      "nao_consta": true,
+      "categoria": "nao_consta",
+      "score": 0.4519
+    }
+  ],
+  "limiar": {
+    "limiar": 0.56,
+    "menor_score_respondivel": 0.5792,
+    "margem": 0.02,
+    "respondiveis_mantidas_%": 100.0,
+    "nao_consta_barradas_%": 88.9,
+    "acuracia_balanceada": 0.944
+  },
+  "limiar_no_teste": {
+    "limiar": 0.56,
+    "respondiveis_mantidas_%": 88.5,
+    "nao_consta_barradas_%": 91.7,
+    "acuracia_balanceada": 0.901
+  }
+}

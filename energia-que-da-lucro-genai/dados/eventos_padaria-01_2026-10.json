@@ -1,0 +1,6982 @@
+[
+ {
+  "id": "06cb0fb3-9a1d-4644-815e-f6d13b8faa18",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T06:25:01-03:00",
+  "duracao_s": 125,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "735435ea-6894-4b8d-80af-5b3a2812859a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T08:26:00-03:00",
+  "duracao_s": 128,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "c3b290d0-8edd-4fcd-9e52-d7703f897142",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T10:15:13-03:00",
+  "duracao_s": 598,
+  "custo_estimado_rs": 0.0224
+ },
+ {
+  "id": "530ddda6-c8d0-49e5-9919-65ea98d00c2c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T10:57:17-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "c693da11-39c6-41ca-9e50-aa42ca6dfda1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T11:49:35-03:00",
+  "duracao_s": 395,
+  "custo_estimado_rs": 0.0148
+ },
+ {
+  "id": "16f142a2-06b9-49aa-9a71-67c768759545",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T12:02:01-03:00",
+  "duracao_s": 196,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "2ff8e87e-1659-4c89-a1eb-faa91a2bd69c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T12:13:34-03:00",
+  "duracao_s": 134,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "dc33e1f9-4c1f-45ab-b156-29eee893be3d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T13:18:57-03:00",
+  "duracao_s": 320,
+  "custo_estimado_rs": 0.012
+ },
+ {
+  "id": "386ecbe0-6b65-46a4-8b81-48f6b38a088c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T13:51:26-03:00",
+  "duracao_s": 236,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "2f32751e-5738-411d-b0c2-903f7a8d03aa",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T14:02:12-03:00",
+  "duracao_s": 330,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "0f6b40d0-9efb-458b-9191-b3634e2d6645",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T14:14:21-03:00",
+  "duracao_s": 309,
+  "custo_estimado_rs": 0.0116
+ },
+ {
+  "id": "3531968d-c342-4d2b-b295-456e19675f06",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T14:32:05-03:00",
+  "duracao_s": 468,
+  "custo_estimado_rs": 0.0175
+ },
+ {
+  "id": "3d67cde9-2834-44c0-94c8-b3b4a911d192",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T14:45:25-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "0822e8f3-6c03-4199-972a-846916419f82",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T15:28:25-03:00",
+  "duracao_s": 209,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "f2f9e5fa-9016-4161-8fa7-01cd2631d00b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T15:36:37-03:00",
+  "duracao_s": 167,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "49c13de7-3b42-46c5-885b-15fb4a8ff810",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T15:39:04-03:00",
+  "duracao_s": 330,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "aff8754d-1238-4630-b43b-65a2dc0f2fcf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T15:53:50-03:00",
+  "duracao_s": 449,
+  "custo_estimado_rs": 0.0168
+ },
+ {
+  "id": "1a3d1fa7-bc89-40a9-a3b8-c1e9392456de",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T16:22:54-03:00",
+  "duracao_s": 132,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "a1235a8c-93b7-4886-92f7-0c977de31a51",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T17:30:34-03:00",
+  "duracao_s": 295,
+  "custo_estimado_rs": 0.0111
+ },
+ {
+  "id": "1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-01T19:31:01-03:00",
+  "duracao_s": 219,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "5283aac7-bc0a-4a5d-ae99-6e3ee3b137fc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T07:07:34-03:00",
+  "duracao_s": 110,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "26242b40-a5cb-43a2-b98d-1ca68b6870b5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T08:46:10-03:00",
+  "duracao_s": 148,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "d0725b5c-a281-4044-af96-288295d82980",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T09:53:39-03:00",
+  "duracao_s": 600,
+  "custo_estimado_rs": 0.0225
+ },
+ {
+  "id": "b321bf21-4dd8-4b85-b04d-337677fc9703",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T10:02:25-03:00",
+  "duracao_s": 153,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "e6b0da0a-b98f-4dbe-95ae-de0fc777a07f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T10:05:09-03:00",
+  "duracao_s": 164,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "6961929e-546e-435a-a92b-d156db946570",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T10:29:41-03:00",
+  "duracao_s": 143,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "d8f56413-5be6-428e-98c2-67976142ea7d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T10:42:44-03:00",
+  "duracao_s": 93,
+  "custo_estimado_rs": 0.0035
+ },
+ {
+  "id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T10:48:55-03:00",
+  "duracao_s": 137,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "7010f719-7e69-4d0d-8a3c-3b5e801ef1da",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T11:38:06-03:00",
+  "duracao_s": 229,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "c37459ee-f50b-4a63-b71e-cd7b27cd8130",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T11:54:59-03:00",
+  "duracao_s": 141,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "5553b2fe-6889-403e-9913-f9d3785299f4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T12:53:02-03:00",
+  "duracao_s": 136,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "d453dd32-4b0d-4b41-8d52-88f1142c3fe8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T13:30:25-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "af70de70-2b69-495e-8567-1b58926bffa5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T13:50:00-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "ac9ed156-f63f-4e41-ba9a-ca5e176132ed",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T14:27:07-03:00",
+  "duracao_s": 103,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "a3fa4069-1519-4d38-a6fb-a71db3a9dcaa",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-02T14:47:59-03:00",
+  "duracao_s": 2634,
+  "custo_estimado_rs": 0.2634
+ },
+ {
+  "id": "ea83bf00-7135-4221-a6c9-537f84dad06a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T16:35:15-03:00",
+  "duracao_s": 330,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "c35b1c8c-0a4c-4f7f-9384-ec2b44feacae",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T16:42:23-03:00",
+  "duracao_s": 510,
+  "custo_estimado_rs": 0.0191
+ },
+ {
+  "id": "ef04e57d-cdcc-433a-a943-4aa096fc734d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T17:01:46-03:00",
+  "duracao_s": 410,
+  "custo_estimado_rs": 0.0154
+ },
+ {
+  "id": "ebd34616-91b7-4d8e-9301-6989bfbbb17f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T17:05:48-03:00",
+  "duracao_s": 394,
+  "custo_estimado_rs": 0.0148
+ },
+ {
+  "id": "b2b9437a-28df-4ec4-8e4a-2bbdc241330b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T17:19:55-03:00",
+  "duracao_s": 71,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "ffe3fa49-054f-42ff-b366-bad4964db03f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T17:42:12-03:00",
+  "duracao_s": 384,
+  "custo_estimado_rs": 0.0144
+ },
+ {
+  "id": "2a79ea68-0f44-404f-9247-ea4e246998e8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-02T18:43:03-03:00",
+  "duracao_s": 513,
+  "custo_estimado_rs": 0.0192
+ },
+ {
+  "id": "2ace1aa9-1032-46b3-a55b-fc1c7e3d5ee4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T09:45:53-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "0763fcd0-1f15-47b6-bc16-128db2c08394",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T10:01:56-03:00",
+  "duracao_s": 540,
+  "custo_estimado_rs": 0.0203
+ },
+ {
+  "id": "19db3ad0-ddd1-4fb2-bb98-2ef8daf61a26",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T10:03:05-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "3985fb62-17dc-4eff-a872-13f98d605936",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T10:21:01-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "9803b22e-7eec-488d-a002-352ab88cddde",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T11:03:20-03:00",
+  "duracao_s": 128,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "efc89849-b3aa-4efe-8458-a885ab9099a4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T11:10:57-03:00",
+  "duracao_s": 123,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "29a3b2e9-5d65-4441-9588-42dea2bc372f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T11:19:18-03:00",
+  "duracao_s": 186,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "13b11e59-c85c-4714-bbf6-95524cbc9044",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T12:05:07-03:00",
+  "duracao_s": 172,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "f85e06a1-1dad-49b2-92c2-1221409d3602",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T12:22:03-03:00",
+  "duracao_s": 251,
+  "custo_estimado_rs": 0.0094
+ },
+ {
+  "id": "30cbd755-6232-417a-a507-41818d1fb540",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T12:36:39-03:00",
+  "duracao_s": 323,
+  "custo_estimado_rs": 0.0121
+ },
+ {
+  "id": "faf14ff0-7b85-479a-95b0-77e06a5d932b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T13:07:27-03:00",
+  "duracao_s": 229,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "71299889-a01a-4992-bf9d-3e64c1a6423b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T13:15:29-03:00",
+  "duracao_s": 408,
+  "custo_estimado_rs": 0.0153
+ },
+ {
+  "id": "c5e7ce8a-3a57-4a8e-a948-8d990bbb2599",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T14:04:58-03:00",
+  "duracao_s": 87,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "4ab7706e-b773-40ca-aec2-59dc7f95897c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T15:04:04-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "300568d2-0de0-41a6-a9ca-97d2764414fd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T15:12:26-03:00",
+  "duracao_s": 367,
+  "custo_estimado_rs": 0.0138
+ },
+ {
+  "id": "0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T15:16:34-03:00",
+  "duracao_s": 295,
+  "custo_estimado_rs": 0.0111
+ },
+ {
+  "id": "88bd6407-2bcf-4e01-a28d-efe39bf00273",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T15:34:10-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "ed7bf656-218a-4536-8c99-a894445dcc38",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T16:38:23-03:00",
+  "duracao_s": 194,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "004b6fab-fcf5-4188-932e-6dcd83bc9478",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T16:48:56-03:00",
+  "duracao_s": 532,
+  "custo_estimado_rs": 0.0199
+ },
+ {
+  "id": "dd30de89-22f2-45f2-a11b-868dbf0d073d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T18:54:22-03:00",
+  "duracao_s": 350,
+  "custo_estimado_rs": 0.0131
+ },
+ {
+  "id": "288b78b5-b5b4-43ca-bd42-993ccc9fd334",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T19:37:26-03:00",
+  "duracao_s": 401,
+  "custo_estimado_rs": 0.015
+ },
+ {
+  "id": "1e1242e3-f272-42b6-b621-72ed1d0bc9bd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-03T19:53:29-03:00",
+  "duracao_s": 557,
+  "custo_estimado_rs": 0.0209
+ },
+ {
+  "id": "366eb16f-508e-4ad7-b7c9-3acfe059a0ee",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T06:55:35-03:00",
+  "duracao_s": 215,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "24e75e8e-b8f2-4423-83ed-d1f874f93d17",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T07:23:45-03:00",
+  "duracao_s": 556,
+  "custo_estimado_rs": 0.0209
+ },
+ {
+  "id": "550c2fe9-654c-41d9-b2e6-182801bb819c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T07:29:51-03:00",
+  "duracao_s": 142,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "f72169bb-8096-4718-a051-acef097a1e10",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T08:07:46-03:00",
+  "duracao_s": 583,
+  "custo_estimado_rs": 0.0219
+ },
+ {
+  "id": "448aaa9e-66b2-4c5b-90c1-87fcce177b4e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T09:12:24-03:00",
+  "duracao_s": 78,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "ffb8102d-9475-4bc9-9641-8cedd664d264",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T09:57:35-03:00",
+  "duracao_s": 242,
+  "custo_estimado_rs": 0.0091
+ },
+ {
+  "id": "61985d54-cfb8-4e6f-a9d6-8f23b489d070",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T10:27:16-03:00",
+  "duracao_s": 332,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "f280df1d-9a6c-4db9-9217-1c884ce953a7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T10:41:10-03:00",
+  "duracao_s": 99,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "00a81de9-d20f-47d0-8465-6d6b81fb18b3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T10:45:29-03:00",
+  "duracao_s": 493,
+  "custo_estimado_rs": 0.0185
+ },
+ {
+  "id": "749176f4-6090-4697-8b1e-3b9dc34b9fbb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T10:49:54-03:00",
+  "duracao_s": 372,
+  "custo_estimado_rs": 0.014
+ },
+ {
+  "id": "fb16e5db-a6ea-479e-921c-82f8cada4f80",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T11:24:18-03:00",
+  "duracao_s": 429,
+  "custo_estimado_rs": 0.0161
+ },
+ {
+  "id": "78308930-1327-41bc-a784-378ff84f16b3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T11:44:22-03:00",
+  "duracao_s": 425,
+  "custo_estimado_rs": 0.0159
+ },
+ {
+  "id": "b02b61c4-a3d7-4628-ace6-6fa2fd5166e6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T12:28:17-03:00",
+  "duracao_s": 139,
+  "custo_estimado_rs": 0.0052
+ },
+ {
+  "id": "e32f2e63-b7fd-4d71-a075-e9275110b492",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T13:28:14-03:00",
+  "duracao_s": 578,
+  "custo_estimado_rs": 0.0217
+ },
+ {
+  "id": "0e51f30d-c6a7-4e39-84b0-32ccd7c524a5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T13:47:50-03:00",
+  "duracao_s": 153,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "0b2c782a-6928-4e92-868a-152fdb23aa8c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T14:00:18-03:00",
+  "duracao_s": 209,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "70b7e868-d854-40f0-9fca-f0b719b17e80",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T14:15:45-03:00",
+  "duracao_s": 535,
+  "custo_estimado_rs": 0.0201
+ },
+ {
+  "id": "dbfdd97e-aca2-4148-9a33-0aa1541cdfcd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T15:05:51-03:00",
+  "duracao_s": 526,
+  "custo_estimado_rs": 0.0197
+ },
+ {
+  "id": "757750a9-a491-40b2-aa1f-ca65e27a984d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T15:10:34-03:00",
+  "duracao_s": 171,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "7bfdcc12-89e0-4ab3-b250-ee18260a5962",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T15:14:21-03:00",
+  "duracao_s": 533,
+  "custo_estimado_rs": 0.02
+ },
+ {
+  "id": "65f30779-f6ee-4cdb-ad79-a2d1506e50c7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T15:44:02-03:00",
+  "duracao_s": 187,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "65c17795-b155-46bc-9f8d-ed9756abf2f1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T16:56:28-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "70b27304-545c-488d-9cb9-075ecdd7f460",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T17:46:57-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "3d225c30-b28f-41de-bb14-0bc3304b8590",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-04T19:03:35-03:00",
+  "duracao_s": 535,
+  "custo_estimado_rs": 0.0201
+ },
+ {
+  "id": "a2611b8d-9620-4ee6-a406-face53a5e850",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-04T20:16:35-03:00",
+  "duracao_s": 3097,
+  "custo_estimado_rs": 0.3097
+ },
+ {
+  "id": "3e83b91f-2544-4fe0-ae41-7d475ff595ea",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T06:47:08-03:00",
+  "duracao_s": 273,
+  "custo_estimado_rs": 0.0102
+ },
+ {
+  "id": "4c955f6a-966b-4964-bcd6-bdca5876fd09",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T07:02:02-03:00",
+  "duracao_s": 573,
+  "custo_estimado_rs": 0.0215
+ },
+ {
+  "id": "2e0fb5b3-8bae-491e-bf4c-c10f979c30cf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T07:35:39-03:00",
+  "duracao_s": 116,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "aee1e86b-9ea5-46aa-a1ee-6c5bdeef580f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T08:27:03-03:00",
+  "duracao_s": 402,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "760debbb-3b70-43a1-a4a3-5cf29549c931",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T09:22:17-03:00",
+  "duracao_s": 557,
+  "custo_estimado_rs": 0.0209
+ },
+ {
+  "id": "95a76d79-bf3c-4c06-8343-08bc89fa6a68",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T09:27:10-03:00",
+  "duracao_s": 213,
+  "custo_estimado_rs": 0.008
+ },
+ {
+  "id": "3cb98350-1b4d-40fe-bbb3-8605da743152",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T10:13:46-03:00",
+  "duracao_s": 286,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "5d71a898-6497-4593-892e-8c93d105c8d6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T10:33:44-03:00",
+  "duracao_s": 136,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "ff01cf99-988c-44c9-a1b1-cd2262801c45",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T11:54:36-03:00",
+  "duracao_s": 86,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "ff50bde4-3825-47b8-9cab-cc97663f1c97",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T11:59:53-03:00",
+  "duracao_s": 219,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "2b840c67-2e18-4554-8ae2-8e66ae8a7813",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T13:26:10-03:00",
+  "duracao_s": 379,
+  "custo_estimado_rs": 0.0142
+ },
+ {
+  "id": "4991ab9b-ebc2-426f-af34-cf65a193c4b2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T14:38:39-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "e61ede90-0267-4eb3-aab6-12c9415d174a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T14:55:50-03:00",
+  "duracao_s": 325,
+  "custo_estimado_rs": 0.0122
+ },
+ {
+  "id": "d865d69a-74f3-4103-8006-6ff2b0b862ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T14:56:42-03:00",
+  "duracao_s": 307,
+  "custo_estimado_rs": 0.0115
+ },
+ {
+  "id": "cbd00ef2-530a-47df-8bc6-10660769165f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T15:42:57-03:00",
+  "duracao_s": 552,
+  "custo_estimado_rs": 0.0207
+ },
+ {
+  "id": "3e0f84ce-c82f-48fd-936c-d31cf7bf5244",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T16:17:17-03:00",
+  "duracao_s": 190,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "2a96e1e2-7194-4ae2-99ba-d7aedf615a5c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T16:38:42-03:00",
+  "duracao_s": 450,
+  "custo_estimado_rs": 0.0169
+ },
+ {
+  "id": "28711733-8bed-4b12-ad77-e82f49a23a89",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T17:15:53-03:00",
+  "duracao_s": 551,
+  "custo_estimado_rs": 0.0207
+ },
+ {
+  "id": "ae340454-cac5-468c-a8f4-9481a0a04dc4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T18:03:19-03:00",
+  "duracao_s": 109,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "1933918c-fa74-4761-af18-c1081723199d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T19:57:50-03:00",
+  "duracao_s": 472,
+  "custo_estimado_rs": 0.0177
+ },
+ {
+  "id": "0c0fd195-c17a-408a-9745-d6d87e570ddf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-05T19:57:55-03:00",
+  "duracao_s": 200,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "c478f6f1-b88e-4318-816d-83edad81f8bd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T08:39:42-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "f1b64afe-d31e-4f1a-a9ff-1cae41c8ca8c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T09:48:55-03:00",
+  "duracao_s": 174,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "b8db0672-f42d-47cc-80d4-af5974273ca3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T10:06:32-03:00",
+  "duracao_s": 110,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "c958e75e-21d5-4971-b367-49b52cf6bf75",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T10:34:26-03:00",
+  "duracao_s": 302,
+  "custo_estimado_rs": 0.0113
+ },
+ {
+  "id": "56b60afc-ded2-45d0-bf1e-83664b8e63d4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T12:44:45-03:00",
+  "duracao_s": 502,
+  "custo_estimado_rs": 0.0188
+ },
+ {
+  "id": "d777a477-4c66-40a8-a013-ac6ededa4e16",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T13:06:27-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "e9da484a-8075-4f1f-87e5-f0fe5da8d6d2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T13:33:06-03:00",
+  "duracao_s": 587,
+  "custo_estimado_rs": 0.022
+ },
+ {
+  "id": "fa5a91ca-059d-455d-8b94-3e30b303f438",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T14:02:50-03:00",
+  "duracao_s": 598,
+  "custo_estimado_rs": 0.0224
+ },
+ {
+  "id": "4b8c5bdc-e8dd-4e5a-9712-fb1621a4344f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T14:06:50-03:00",
+  "duracao_s": 464,
+  "custo_estimado_rs": 0.0174
+ },
+ {
+  "id": "033e02f7-1e93-4127-acf7-2140bd9bc648",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-06T14:31:25-03:00",
+  "duracao_s": 3595,
+  "custo_estimado_rs": 0.3595
+ },
+ {
+  "id": "088a93ec-70d9-49f8-89e2-60744f1639a0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T14:47:03-03:00",
+  "duracao_s": 110,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "e7457704-18df-4c3c-a0d4-de3d2303f6c6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T15:13:42-03:00",
+  "duracao_s": 519,
+  "custo_estimado_rs": 0.0195
+ },
+ {
+  "id": "9b3d74bd-e91e-414e-8c8e-29e3f93e08d5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T15:36:04-03:00",
+  "duracao_s": 471,
+  "custo_estimado_rs": 0.0177
+ },
+ {
+  "id": "c696f5e6-4944-451b-a726-be23e776b886",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T16:25:56-03:00",
+  "duracao_s": 516,
+  "custo_estimado_rs": 0.0193
+ },
+ {
+  "id": "cb881c32-cbb0-4a8b-9908-a121d1a7ba20",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T17:10:03-03:00",
+  "duracao_s": 82,
+  "custo_estimado_rs": 0.0031
+ },
+ {
+  "id": "a2f963a3-3810-4e66-9a31-b4cccd4b69a9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T17:11:02-03:00",
+  "duracao_s": 400,
+  "custo_estimado_rs": 0.015
+ },
+ {
+  "id": "c1101266-2408-46dc-9346-d1a9f6802cdb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T17:15:33-03:00",
+  "duracao_s": 329,
+  "custo_estimado_rs": 0.0123
+ },
+ {
+  "id": "dd750e98-90e0-495f-8212-b554464458b4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T17:37:13-03:00",
+  "duracao_s": 292,
+  "custo_estimado_rs": 0.0109
+ },
+ {
+  "id": "2dbc2134-c30f-446e-8026-695ff8cda88b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T18:15:42-03:00",
+  "duracao_s": 137,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "1c8eaee9-5715-4d6f-a416-1293c4c2e2e3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T18:23:13-03:00",
+  "duracao_s": 138,
+  "custo_estimado_rs": 0.0052
+ },
+ {
+  "id": "703e957f-35ab-4466-b557-8b00f166cdcf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T19:20:31-03:00",
+  "duracao_s": 183,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "ae849217-1d53-434b-b881-39b9ae270da7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-06T19:35:42-03:00",
+  "duracao_s": 72,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "1db14bfc-6f3a-4115-acb4-678c16120aa6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-06T22:33:17-03:00",
+  "duracao_s": 1901,
+  "custo_estimado_rs": 0.1901
+ },
+ {
+  "id": "ea4e3617-53f8-482b-8fb8-64e4f1738856",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T06:21:01-03:00",
+  "duracao_s": 542,
+  "custo_estimado_rs": 0.0203
+ },
+ {
+  "id": "1dba1267-7e1c-45a1-bef5-18a64dead645",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T06:38:05-03:00",
+  "duracao_s": 109,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "c2b6d2c5-fa5d-4100-91b7-e948d0e6e660",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T07:06:09-03:00",
+  "duracao_s": 194,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "7421ff46-637e-4b01-a2ba-e10e899ca782",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T07:21:38-03:00",
+  "duracao_s": 544,
+  "custo_estimado_rs": 0.0204
+ },
+ {
+  "id": "ce88cb2d-d4e8-4839-bc3e-058be0f3eab0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T07:33:58-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "2775ee42-a89e-42f2-80af-bf3f3df51967",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T07:56:54-03:00",
+  "duracao_s": 142,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "ec24a3c5-c754-408f-b418-8f3f8a14be62",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T08:08:23-03:00",
+  "duracao_s": 111,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "f26b4776-913e-4de2-a0c5-3cb83da9c2a9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T10:18:18-03:00",
+  "duracao_s": 84,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "8a4a0e2d-f22b-4b98-b24c-c64fbe3e6e57",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T11:11:38-03:00",
+  "duracao_s": 576,
+  "custo_estimado_rs": 0.0216
+ },
+ {
+  "id": "5e5ba13d-746c-4b77-9fa3-82e8895ccd99",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T11:31:26-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "6a35df59-e2aa-4a5d-a78e-d00dba0266ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T11:52:03-03:00",
+  "duracao_s": 470,
+  "custo_estimado_rs": 0.0176
+ },
+ {
+  "id": "fb1e143b-196f-4dfa-9cd8-fe1adafec8a9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T12:13:32-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "eb9ed274-ec6a-47ad-81b1-5db988cc4d49",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T12:42:33-03:00",
+  "duracao_s": 167,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "04fc6d82-7d15-4385-92fb-e43b99546eb4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T13:25:29-03:00",
+  "duracao_s": 70,
+  "custo_estimado_rs": 0.0026
+ },
+ {
+  "id": "76da3ca0-d2e8-4f38-a2a9-d4d8102efde5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T14:32:28-03:00",
+  "duracao_s": 421,
+  "custo_estimado_rs": 0.0158
+ },
+ {
+  "id": "78b2b549-3bdb-409e-acc2-16a01bbc91f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T14:56:22-03:00",
+  "duracao_s": 280,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "f065c817-687a-4850-9d9b-62317d45d8ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T15:10:08-03:00",
+  "duracao_s": 516,
+  "custo_estimado_rs": 0.0193
+ },
+ {
+  "id": "d289f0ab-618a-4305-95a5-bafa431d029f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T15:25:10-03:00",
+  "duracao_s": 434,
+  "custo_estimado_rs": 0.0163
+ },
+ {
+  "id": "5bd20c98-a513-4ea0-ba53-e34de6d5901d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T15:35:58-03:00",
+  "duracao_s": 368,
+  "custo_estimado_rs": 0.0138
+ },
+ {
+  "id": "9912316a-fd9e-4e20-b2f6-095812ef6101",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T16:00:47-03:00",
+  "duracao_s": 161,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "f7eae66e-ca6c-4f9b-8969-71018b2c550a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T18:10:29-03:00",
+  "duracao_s": 172,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "23c86d30-1dde-4969-a886-13dba6348e78",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T18:43:53-03:00",
+  "duracao_s": 244,
+  "custo_estimado_rs": 0.0092
+ },
+ {
+  "id": "71818dcf-379e-4c6e-9edb-0d3cb0b63bcf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T19:19:16-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "ca6a2224-171e-46cc-9da3-6f1b8eac0a33",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-07T19:32:30-03:00",
+  "duracao_s": 501,
+  "custo_estimado_rs": 0.0188
+ },
+ {
+  "id": "52e2afd9-96bf-40ab-bce9-15e7c9d6a63b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T06:12:28-03:00",
+  "duracao_s": 494,
+  "custo_estimado_rs": 0.0185
+ },
+ {
+  "id": "6bc4123e-bde1-4c1b-a073-3f6d0d6a05b3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T06:13:15-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "203c8c25-fd23-4def-be5a-87e35560db22",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T06:17:56-03:00",
+  "duracao_s": 492,
+  "custo_estimado_rs": 0.0185
+ },
+ {
+  "id": "f8999246-98de-4ebb-a3b5-cecea446be72",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T07:17:00-03:00",
+  "duracao_s": 198,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "2a9528c3-5ae1-4bad-aa29-60fda85894df",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T07:31:52-03:00",
+  "duracao_s": 128,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "969b6662-0562-4059-968c-c69b1064005c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T07:41:38-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "43dac043-2a45-42ab-8cbf-edb0f264accc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T07:47:50-03:00",
+  "duracao_s": 191,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "74685b98-d2fe-4fde-9918-b3e5f2f25eef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T08:39:26-03:00",
+  "duracao_s": 152,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "541c7a86-3ba5-4d2f-9ea4-5c19d0243d72",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T08:54:00-03:00",
+  "duracao_s": 200,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "38b77c07-80fb-4296-b3b6-a09b1beaf6ac",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T11:04:06-03:00",
+  "duracao_s": 393,
+  "custo_estimado_rs": 0.0147
+ },
+ {
+  "id": "c72c1fe3-72c2-4a16-b9eb-4168104556e5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T13:21:54-03:00",
+  "duracao_s": 471,
+  "custo_estimado_rs": 0.0177
+ },
+ {
+  "id": "edcd465e-3638-4821-b6e0-7cc06c52c49f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T13:23:14-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "fec21bbe-6624-4bfa-8fcc-a39ab683d2e6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T13:33:00-03:00",
+  "duracao_s": 121,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "ad6ecc57-a520-43d0-bbcd-bf5e902f3465",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T15:03:28-03:00",
+  "duracao_s": 76,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "07f97d05-f6ca-4b8b-a4b1-f99175424646",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T15:13:28-03:00",
+  "duracao_s": 244,
+  "custo_estimado_rs": 0.0092
+ },
+ {
+  "id": "7394988f-847f-49b4-a64d-1bcb702753a1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T15:24:13-03:00",
+  "duracao_s": 165,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "46fb7bf3-00b9-44a3-9892-40ace68933a9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T16:50:28-03:00",
+  "duracao_s": 493,
+  "custo_estimado_rs": 0.0185
+ },
+ {
+  "id": "c7f7bda1-bff1-4840-a07e-863f5f32d5d8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-08T16:57:42-03:00",
+  "duracao_s": 1583,
+  "custo_estimado_rs": 0.1583
+ },
+ {
+  "id": "8de08fc2-c3e1-4a85-946e-f10411906f50",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T17:01:03-03:00",
+  "duracao_s": 195,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "21bddb41-0699-4731-9dcf-8766a93b12cd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T17:10:45-03:00",
+  "duracao_s": 146,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "402adf9c-8a4b-4f7c-a147-2a15fcce96f6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T18:01:03-03:00",
+  "duracao_s": 164,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "ddf275eb-e8a3-4341-8881-9065ba2c98ce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-08T19:14:08-03:00",
+  "duracao_s": 112,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "e7c99b26-1141-45c6-ba9b-edd40f1259e0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T06:06:02-03:00",
+  "duracao_s": 231,
+  "custo_estimado_rs": 0.0087
+ },
+ {
+  "id": "474a493b-3ced-4f2d-839f-bc501223b513",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T06:26:23-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "be9d61ee-18b8-4245-ae8f-75a117dded81",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T07:16:37-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "95da75c1-a211-40f9-9fd3-4579466772ce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T08:04:36-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "adf75924-c5b8-486b-b68b-4f7e64215e66",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T09:05:39-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "9342a09f-b00a-464c-949c-d8d48ed8a80d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T09:06:28-03:00",
+  "duracao_s": 197,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "6a7e4c36-6613-4e69-b418-8109d3d1bf0f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T09:11:56-03:00",
+  "duracao_s": 263,
+  "custo_estimado_rs": 0.0099
+ },
+ {
+  "id": "cb08587d-1963-426d-ae21-8b099afd4015",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T10:07:42-03:00",
+  "duracao_s": 348,
+  "custo_estimado_rs": 0.013
+ },
+ {
+  "id": "de3b496f-6c45-46f6-8012-a0fff0ede303",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T10:57:01-03:00",
+  "duracao_s": 430,
+  "custo_estimado_rs": 0.0161
+ },
+ {
+  "id": "112fa612-7969-4ed2-ac48-bf55afd380c4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T11:14:24-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "87d292a6-98ee-4c2b-be9f-ecaa6182f347",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T13:40:37-03:00",
+  "duracao_s": 256,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "e359eee1-7399-4a47-ae19-1042370bc063",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T13:43:07-03:00",
+  "duracao_s": 533,
+  "custo_estimado_rs": 0.02
+ },
+ {
+  "id": "ef7ddc76-b92d-422b-a1df-306f8a0b3c33",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T15:21:56-03:00",
+  "duracao_s": 124,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "c4dabddb-e0b1-4aba-a6a2-7967a79b44b6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T15:49:29-03:00",
+  "duracao_s": 526,
+  "custo_estimado_rs": 0.0197
+ },
+ {
+  "id": "4140752c-aa44-4259-9001-8b7b6d4067f4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T16:12:52-03:00",
+  "duracao_s": 250,
+  "custo_estimado_rs": 0.0094
+ },
+ {
+  "id": "96229348-0f5a-49d3-8e6e-5003214f3f12",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T16:20:35-03:00",
+  "duracao_s": 505,
+  "custo_estimado_rs": 0.0189
+ },
+ {
+  "id": "6e595ed3-a8b3-47fa-98d0-752b1825bc54",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T17:18:17-03:00",
+  "duracao_s": 118,
+  "custo_estimado_rs": 0.0044
+ },
+ {
+  "id": "b65feea9-7d82-4264-9ba3-62e7afa415e5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T17:51:43-03:00",
+  "duracao_s": 308,
+  "custo_estimado_rs": 0.0115
+ },
+ {
+  "id": "7914c120-c8dc-419f-be35-11287900f7f9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T18:21:12-03:00",
+  "duracao_s": 217,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "9bb96155-5275-4b94-94ae-af5ce63658c9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T18:44:08-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "4ffca6b1-99b4-49d4-89a2-14aef7e8f8e5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T18:49:18-03:00",
+  "duracao_s": 116,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "692ac139-1f4a-4ca1-ab85-fd595463adc7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T19:23:33-03:00",
+  "duracao_s": 377,
+  "custo_estimado_rs": 0.0141
+ },
+ {
+  "id": "423cad9d-193e-4783-82b3-42541b1f2eb1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-09T19:31:12-03:00",
+  "duracao_s": 175,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "ffd0f9d5-a6f2-47b8-8cf3-5b5819108be5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T07:03:19-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "74222167-6b7a-4460-a04e-46cb3712f2d1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T07:17:04-03:00",
+  "duracao_s": 361,
+  "custo_estimado_rs": 0.0135
+ },
+ {
+  "id": "dc96925e-ccf3-4171-96dc-8907ba6c34ab",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T07:22:40-03:00",
+  "duracao_s": 173,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "23e2fcb4-72d8-467d-894a-05e430b187ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T07:31:47-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "34f541c0-c8c5-4b2a-b490-adeb57d337d3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T07:59:00-03:00",
+  "duracao_s": 144,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "59a1120e-1bb4-4332-98e7-012f39681c81",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T08:09:58-03:00",
+  "duracao_s": 336,
+  "custo_estimado_rs": 0.0126
+ },
+ {
+  "id": "45a88829-14e2-46e5-ac89-36bc0cbd3c03",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T08:12:13-03:00",
+  "duracao_s": 406,
+  "custo_estimado_rs": 0.0152
+ },
+ {
+  "id": "56febfb9-ebe9-4207-8f19-9ec0c32d4526",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T08:31:32-03:00",
+  "duracao_s": 449,
+  "custo_estimado_rs": 0.0168
+ },
+ {
+  "id": "c4767556-f97b-42dd-8f9b-72aed85c16bd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T09:09:58-03:00",
+  "duracao_s": 309,
+  "custo_estimado_rs": 0.0116
+ },
+ {
+  "id": "6e0ed1e8-585d-4f86-9d23-24e6832920b7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T09:49:27-03:00",
+  "duracao_s": 476,
+  "custo_estimado_rs": 0.0178
+ },
+ {
+  "id": "c6deb2f0-530a-41c7-b8ba-83684fc77768",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T10:46:21-03:00",
+  "duracao_s": 279,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "6a7d5d96-4ba1-4233-9ac3-bf317b96e2d1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T10:49:46-03:00",
+  "duracao_s": 71,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "a847bce7-90fa-4b57-a4ac-2130deaf528d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T10:54:51-03:00",
+  "duracao_s": 182,
+  "custo_estimado_rs": 0.0068
+ },
+ {
+  "id": "07d924ce-f8c8-4fae-a217-8f84bdb025ff",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T11:36:39-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "ec5b227c-dfde-4fbf-bff3-50bf766ecb15",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T11:54:22-03:00",
+  "duracao_s": 141,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "6a07f213-7129-4ec7-9b69-554d7c54535f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T12:12:12-03:00",
+  "duracao_s": 307,
+  "custo_estimado_rs": 0.0115
+ },
+ {
+  "id": "a56c0941-fbf2-4050-a748-dbcfac619e63",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T12:32:18-03:00",
+  "duracao_s": 83,
+  "custo_estimado_rs": 0.0031
+ },
+ {
+  "id": "c0e9ab30-ed26-42e9-97e0-11b7f8102383",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T13:34:05-03:00",
+  "duracao_s": 73,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "076979d6-4477-4442-b187-53e6d4578ad9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T14:31:33-03:00",
+  "duracao_s": 426,
+  "custo_estimado_rs": 0.016
+ },
+ {
+  "id": "06b89231-8e86-4f3c-a487-eeabaccb461a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T17:27:28-03:00",
+  "duracao_s": 404,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "92f837d4-4750-4f1d-833a-1f6c1d691fba",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T17:50:06-03:00",
+  "duracao_s": 278,
+  "custo_estimado_rs": 0.0104
+ },
+ {
+  "id": "baeb286b-f0d0-470f-94d1-3d551db6b844",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T18:53:15-03:00",
+  "duracao_s": 86,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "27d415b6-0d77-45a0-a222-b6a615bfbe97",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-10T19:10:46-03:00",
+  "duracao_s": 395,
+  "custo_estimado_rs": 0.0148
+ },
+ {
+  "id": "61554667-2112-407c-acfa-55b06e3f683a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T06:06:29-03:00",
+  "duracao_s": 472,
+  "custo_estimado_rs": 0.0177
+ },
+ {
+  "id": "43e458fc-63f2-4e24-bc3d-3348008d4127",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T06:49:15-03:00",
+  "duracao_s": 167,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "05c8234b-1d76-4a66-b5f5-9cb0cf685878",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T06:56:25-03:00",
+  "duracao_s": 76,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "bc594585-9445-48c0-8ef8-c2d6f7fd5646",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T08:39:30-03:00",
+  "duracao_s": 125,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "2bffe17b-5324-41fc-b758-dce20556daea",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T10:03:11-03:00",
+  "duracao_s": 297,
+  "custo_estimado_rs": 0.0111
+ },
+ {
+  "id": "6f887f28-3e49-4d09-9b19-d8b8d8302081",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T11:03:57-03:00",
+  "duracao_s": 313,
+  "custo_estimado_rs": 0.0117
+ },
+ {
+  "id": "e7067ef4-66aa-4385-9d59-ba7136b82481",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T11:41:23-03:00",
+  "duracao_s": 193,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "5024bdc6-dcb3-4df3-93ee-cdc6ebd14d2c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T12:06:25-03:00",
+  "duracao_s": 325,
+  "custo_estimado_rs": 0.0122
+ },
+ {
+  "id": "51a40d2a-73d3-4457-b25f-13dfb8d49848",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T12:39:58-03:00",
+  "duracao_s": 177,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "e7ea8d5a-31a3-4c4d-828c-37e787d5b7be",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T13:08:48-03:00",
+  "duracao_s": 148,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "fc04a168-652f-4b49-b873-e57f0ba078e8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T13:22:37-03:00",
+  "duracao_s": 247,
+  "custo_estimado_rs": 0.0093
+ },
+ {
+  "id": "ab05347f-d556-437d-8f08-81ee8011316b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T13:27:22-03:00",
+  "duracao_s": 207,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "e4eec67c-1a57-49e4-85f8-e2f8414f4994",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-11T13:56:11-03:00",
+  "duracao_s": 1544,
+  "custo_estimado_rs": 0.1544
+ },
+ {
+  "id": "6aedfdc7-a3e0-4309-b5a1-b94967884209",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T14:03:38-03:00",
+  "duracao_s": 383,
+  "custo_estimado_rs": 0.0144
+ },
+ {
+  "id": "4f6e274b-deda-4027-a550-f74a1422373f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T14:14:39-03:00",
+  "duracao_s": 358,
+  "custo_estimado_rs": 0.0134
+ },
+ {
+  "id": "36136e15-f200-4261-8d29-d1ab345512f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T14:23:25-03:00",
+  "duracao_s": 93,
+  "custo_estimado_rs": 0.0035
+ },
+ {
+  "id": "27a0c3d7-7c96-4f79-b7e9-9acaa97065e1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T16:13:37-03:00",
+  "duracao_s": 212,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "138d994c-2b0a-4edd-8774-44cb5543fc3c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T16:26:28-03:00",
+  "duracao_s": 203,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "1eb74b56-53ff-43a2-8a19-35014169b9fc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T16:44:34-03:00",
+  "duracao_s": 481,
+  "custo_estimado_rs": 0.018
+ },
+ {
+  "id": "a53bc024-d1a6-4d87-b54e-2019ba35844e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T16:52:01-03:00",
+  "duracao_s": 269,
+  "custo_estimado_rs": 0.0101
+ },
+ {
+  "id": "eb7607c9-b08a-4895-94ff-a66675c8e90d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T17:13:06-03:00",
+  "duracao_s": 406,
+  "custo_estimado_rs": 0.0152
+ },
+ {
+  "id": "0ad45230-bdf6-4ba5-9c9c-96de65a674c2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T17:17:12-03:00",
+  "duracao_s": 126,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "ee0f65a8-2a13-4c1f-8cd0-15c1ad5900dd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T17:53:18-03:00",
+  "duracao_s": 92,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "f512c4c3-b253-4218-ac4a-37ea490617f2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-11T18:58:16-03:00",
+  "duracao_s": 186,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "0e3141ec-5c31-4464-82c2-99f07487d772",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-11T20:57:06-03:00",
+  "duracao_s": 2932,
+  "custo_estimado_rs": 0.2932
+ },
+ {
+  "id": "da4bd9ca-eb5c-4467-80ba-cd647a0ecfea",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T06:48:01-03:00",
+  "duracao_s": 219,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "2722796e-9a36-41ec-ac6a-6e9a328067a1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T07:26:21-03:00",
+  "duracao_s": 221,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "4d85a3d2-a1a2-4485-b134-8c2a780b3657",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T08:06:48-03:00",
+  "duracao_s": 124,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "3c365296-dca0-4eec-acda-bacc1165e210",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T08:36:05-03:00",
+  "duracao_s": 222,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "171dabf9-daf4-41a7-ba34-d2e8dd3f7d7e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T10:01:08-03:00",
+  "duracao_s": 420,
+  "custo_estimado_rs": 0.0158
+ },
+ {
+  "id": "d4ea120a-5e65-4654-8e90-58b609a0a0f6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T10:20:44-03:00",
+  "duracao_s": 321,
+  "custo_estimado_rs": 0.012
+ },
+ {
+  "id": "0a2c827e-9832-4856-9434-0a033f07f814",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T11:39:10-03:00",
+  "duracao_s": 215,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "a2a2e91f-a49b-4cd9-9082-889be1cde87f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T12:17:04-03:00",
+  "duracao_s": 563,
+  "custo_estimado_rs": 0.0211
+ },
+ {
+  "id": "a3f66c61-2fb7-4dab-af38-3b43a137f8e4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T12:28:07-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "cf9b8558-1a7f-495b-b355-7b9d0fd6f47e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T13:01:08-03:00",
+  "duracao_s": 580,
+  "custo_estimado_rs": 0.0217
+ },
+ {
+  "id": "f55dce6d-6d26-4b37-8f52-42d354bbbcf8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T13:13:26-03:00",
+  "duracao_s": 105,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "d9f195d0-1482-4f53-8201-0c62f5f59b22",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T13:26:08-03:00",
+  "duracao_s": 84,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "8de7ad6c-9490-47c2-b674-456f626d719d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T14:36:36-03:00",
+  "duracao_s": 349,
+  "custo_estimado_rs": 0.0131
+ },
+ {
+  "id": "85d51695-90b2-4633-956b-8c0ca8499b92",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T14:40:16-03:00",
+  "duracao_s": 177,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "9458054e-c287-4f06-9050-f7efc1235c91",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T14:47:28-03:00",
+  "duracao_s": 327,
+  "custo_estimado_rs": 0.0123
+ },
+ {
+  "id": "e212ab7c-9d36-4cb6-bcc5-7be00779250a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T15:12:08-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "c5d95f51-f387-41bd-ad59-72c6134a5a2f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T16:38:34-03:00",
+  "duracao_s": 425,
+  "custo_estimado_rs": 0.0159
+ },
+ {
+  "id": "12fe28bf-81e0-4489-9a18-e2a30e614bcd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T17:08:55-03:00",
+  "duracao_s": 392,
+  "custo_estimado_rs": 0.0147
+ },
+ {
+  "id": "79c2d2e4-9ae1-4991-924f-93ff30307633",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T17:20:14-03:00",
+  "duracao_s": 423,
+  "custo_estimado_rs": 0.0159
+ },
+ {
+  "id": "812a1f9b-1596-4802-b6dd-6257fb7d9f1c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T18:35:15-03:00",
+  "duracao_s": 265,
+  "custo_estimado_rs": 0.0099
+ },
+ {
+  "id": "e8b77f7b-7321-4f6b-8a80-76ece5582e16",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T19:21:33-03:00",
+  "duracao_s": 468,
+  "custo_estimado_rs": 0.0175
+ },
+ {
+  "id": "50ee7a92-a091-41e0-b891-b0c3dd3f487e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-12T19:48:41-03:00",
+  "duracao_s": 255,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "3e896c64-e117-4ac3-919c-4ea3e1805081",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T07:51:15-03:00",
+  "duracao_s": 159,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "7c7c404e-c422-403e-b29a-6339577bc55a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T08:31:25-03:00",
+  "duracao_s": 199,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "21813d25-6552-48a6-83ff-50113d1a85dd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T08:51:34-03:00",
+  "duracao_s": 150,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "85d2d0a6-8629-4b5d-b07d-f251fdb1429e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T09:28:06-03:00",
+  "duracao_s": 314,
+  "custo_estimado_rs": 0.0118
+ },
+ {
+  "id": "503b4078-a39c-4ec6-b746-4c02871854c1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T09:40:22-03:00",
+  "duracao_s": 190,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "f275b5f3-d436-47a8-b3ec-b951ab8cbf97",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T10:35:55-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "b4299924-c098-4750-8741-9b4834ae4abd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T11:26:37-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "ca0ac6ac-0d67-438e-990f-0c5badcc3daf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T11:43:21-03:00",
+  "duracao_s": 263,
+  "custo_estimado_rs": 0.0099
+ },
+ {
+  "id": "1d2c2721-7522-4646-b273-75bf5373bf4d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T13:30:59-03:00",
+  "duracao_s": 158,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "f7baf55e-4f6b-48c8-998d-daeceaafe543",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T14:09:30-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "632dbb5e-486b-46bf-aafd-e7d95f733a3e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T14:32:14-03:00",
+  "duracao_s": 276,
+  "custo_estimado_rs": 0.0103
+ },
+ {
+  "id": "8ed6ad5e-1831-4aa3-9466-9d1910df9974",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T14:49:56-03:00",
+  "duracao_s": 261,
+  "custo_estimado_rs": 0.0098
+ },
+ {
+  "id": "b576255e-9854-4f22-a102-f9c964575bc4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T15:11:05-03:00",
+  "duracao_s": 429,
+  "custo_estimado_rs": 0.0161
+ },
+ {
+  "id": "4f11d8dc-5cd3-4369-84aa-c1b75ca0c428",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T15:23:10-03:00",
+  "duracao_s": 350,
+  "custo_estimado_rs": 0.0131
+ },
+ {
+  "id": "c07a30f2-edd4-453b-90f0-fd0a750cab75",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T15:24:13-03:00",
+  "duracao_s": 146,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "a8149562-da00-4f16-b946-9bcf4082cbb9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T15:29:50-03:00",
+  "duracao_s": 235,
+  "custo_estimado_rs": 0.0088
+ },
+ {
+  "id": "a561e1e9-17ec-489c-86c1-b6cbe99630f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T16:20:34-03:00",
+  "duracao_s": 440,
+  "custo_estimado_rs": 0.0165
+ },
+ {
+  "id": "df3a098a-ccac-4fb5-9a0c-6c0493cd1291",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T17:19:19-03:00",
+  "duracao_s": 81,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "902059e4-ff9a-45c2-9f04-4aed75523327",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T19:06:01-03:00",
+  "duracao_s": 72,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "caaa5bbe-a4bb-4962-a06e-0e1c8f158449",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T19:07:55-03:00",
+  "duracao_s": 248,
+  "custo_estimado_rs": 0.0093
+ },
+ {
+  "id": "14dd5061-5557-46f8-a67e-ddcedf8f4197",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T19:30:06-03:00",
+  "duracao_s": 398,
+  "custo_estimado_rs": 0.0149
+ },
+ {
+  "id": "43e42caf-8181-48cc-b691-47eb89a2688b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-13T19:56:43-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "81f7f3fb-19e4-4c6a-89c2-3e69d82c7565",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T08:10:09-03:00",
+  "duracao_s": 241,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "15b24e1d-9715-4633-9d4e-db71eb2ec80e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T08:24:55-03:00",
+  "duracao_s": 141,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "98af5cca-6b11-47cb-a372-542482c56b21",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T08:33:45-03:00",
+  "duracao_s": 101,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "45b89cd9-27cb-4f2a-8da0-1097be0f051b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T09:42:09-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "afffcfd2-341e-440b-97c7-00aab7b56ea7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T09:56:40-03:00",
+  "duracao_s": 123,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "c566aa81-b15e-44f6-94d3-07952e4bebc4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T11:16:26-03:00",
+  "duracao_s": 173,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "71b701aa-f836-4571-bcce-c76cb836c448",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T11:45:07-03:00",
+  "duracao_s": 436,
+  "custo_estimado_rs": 0.0163
+ },
+ {
+  "id": "fbddcf7c-9c96-49ec-8d71-c366b41b3143",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T12:08:04-03:00",
+  "duracao_s": 209,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "b61e5fdb-1a43-4206-af2d-dcc48df661da",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T12:43:41-03:00",
+  "duracao_s": 280,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "331f63fb-d11f-48c0-a97c-a4fff75d599f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T13:02:26-03:00",
+  "duracao_s": 304,
+  "custo_estimado_rs": 0.0114
+ },
+ {
+  "id": "78116802-c8cc-4cfe-8f01-f944f7315749",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T13:28:34-03:00",
+  "duracao_s": 248,
+  "custo_estimado_rs": 0.0093
+ },
+ {
+  "id": "2260e70f-e0cc-4dc5-b05d-b76e1a84a51a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T13:45:51-03:00",
+  "duracao_s": 239,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "9e0b7b01-7536-49ef-9873-dad95a1baf0e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T14:13:05-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "3be79df4-72ec-416e-88a7-23e9bfa016c2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T14:32:54-03:00",
+  "duracao_s": 475,
+  "custo_estimado_rs": 0.0178
+ },
+ {
+  "id": "0b2f6d5c-700b-4d5f-b89f-72f32a60c652",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T14:44:46-03:00",
+  "duracao_s": 552,
+  "custo_estimado_rs": 0.0207
+ },
+ {
+  "id": "98e52499-218c-4e1c-9e37-4f7ac42cbc39",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T15:16:01-03:00",
+  "duracao_s": 538,
+  "custo_estimado_rs": 0.0202
+ },
+ {
+  "id": "1df05d18-4e2d-4255-bd13-1a3d1e2c2e7d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T15:24:34-03:00",
+  "duracao_s": 145,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "09a9d1c1-86ca-46f4-a238-fe93bd17c5e8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T16:47:32-03:00",
+  "duracao_s": 517,
+  "custo_estimado_rs": 0.0194
+ },
+ {
+  "id": "a4244f23-0d5b-47cd-8000-35f0df7d0dd7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T17:13:03-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "c35b9fea-1578-4709-88f9-e3d01feae1e0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T17:50:32-03:00",
+  "duracao_s": 525,
+  "custo_estimado_rs": 0.0197
+ },
+ {
+  "id": "92070158-f277-4f63-ada5-84175e2ad32d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T18:39:20-03:00",
+  "duracao_s": 189,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "61c2645a-c733-4304-8822-3120c4f9eccd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T19:46:55-03:00",
+  "duracao_s": 326,
+  "custo_estimado_rs": 0.0122
+ },
+ {
+  "id": "d12dbc9a-aaf9-4531-8200-b1f08768a84f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-14T19:49:16-03:00",
+  "duracao_s": 237,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "24c173b9-b7f2-4572-bdef-a84993364f7e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T06:13:48-03:00",
+  "duracao_s": 353,
+  "custo_estimado_rs": 0.0132
+ },
+ {
+  "id": "3c5bf3a7-5fbb-40b1-8083-89c8657e01c9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T06:22:24-03:00",
+  "duracao_s": 117,
+  "custo_estimado_rs": 0.0044
+ },
+ {
+  "id": "750565f5-9f70-4368-8b3c-f8caa3925731",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T06:40:06-03:00",
+  "duracao_s": 304,
+  "custo_estimado_rs": 0.0114
+ },
+ {
+  "id": "893ad232-98c3-43ca-bff4-cec6e7b7b4c6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T06:52:45-03:00",
+  "duracao_s": 518,
+  "custo_estimado_rs": 0.0194
+ },
+ {
+  "id": "00e85ece-0b49-452d-86d4-83f3d450281c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T07:17:31-03:00",
+  "duracao_s": 178,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "5e84f058-d5a8-44eb-8939-23de8babce3b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T07:33:58-03:00",
+  "duracao_s": 108,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "0db977a9-9e91-471c-b374-ccbfd78c57d3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T07:57:50-03:00",
+  "duracao_s": 145,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "78f2ce6b-d46b-415d-aada-79a34970ed9a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T08:02:40-03:00",
+  "duracao_s": 109,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "92170475-3d95-4e3f-9a52-26e69d642932",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T10:04:40-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "295d6fbf-430f-401d-bad4-09e2a319dcb4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T10:40:11-03:00",
+  "duracao_s": 103,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "519554e3-0737-4c86-b97b-5f515ffa46ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T11:24:22-03:00",
+  "duracao_s": 131,
+  "custo_estimado_rs": 0.0049
+ },
+ {
+  "id": "f982f4e0-8603-456a-95ea-cbcfab1021ce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T11:49:55-03:00",
+  "duracao_s": 430,
+  "custo_estimado_rs": 0.0161
+ },
+ {
+  "id": "51e744e4-b864-4a08-aa75-752d6a8fcacb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-15T11:52:16-03:00",
+  "duracao_s": 1916,
+  "custo_estimado_rs": 0.1916
+ },
+ {
+  "id": "eb4e2281-b184-41fc-8991-b01aa2b03c4b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T11:55:21-03:00",
+  "duracao_s": 189,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "1f317405-4d18-4eba-bcd5-fd7f49c10669",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T11:55:32-03:00",
+  "duracao_s": 487,
+  "custo_estimado_rs": 0.0183
+ },
+ {
+  "id": "0d01280f-d89a-40c0-a87d-1c78e7c421c7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T13:04:32-03:00",
+  "duracao_s": 134,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "3735262d-4184-4b03-84dd-7054144823f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T14:36:53-03:00",
+  "duracao_s": 553,
+  "custo_estimado_rs": 0.0207
+ },
+ {
+  "id": "49f1137d-7d59-4e19-aab7-b2ef8e0ec033",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T15:02:01-03:00",
+  "duracao_s": 109,
+  "custo_estimado_rs": 0.0041
+ },
+ {
+  "id": "72d78bdd-7817-49ff-b49e-04ccc24369e7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T15:44:42-03:00",
+  "duracao_s": 161,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "0279b6a6-8f97-47b0-ad7c-e3c9b4a69f3c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T16:22:38-03:00",
+  "duracao_s": 211,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "871c0884-9bdf-40f2-ba2c-0f19f0b2a5d1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T17:41:22-03:00",
+  "duracao_s": 370,
+  "custo_estimado_rs": 0.0139
+ },
+ {
+  "id": "d0b1fde0-31f3-40c0-a2f3-f0687c0f549d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T18:07:02-03:00",
+  "duracao_s": 67,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "f24823ab-177a-4a5f-affe-33b3d4bf7a4b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T18:40:27-03:00",
+  "duracao_s": 165,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "ee33688d-597e-4845-a277-18c5737d1fb6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T18:44:49-03:00",
+  "duracao_s": 508,
+  "custo_estimado_rs": 0.0191
+ },
+ {
+  "id": "ca97ebf5-55d5-46af-a663-d2cdb6f6dbf1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-15T19:01:53-03:00",
+  "duracao_s": 519,
+  "custo_estimado_rs": 0.0195
+ },
+ {
+  "id": "b6ca1127-e9f8-4970-8d98-f9e28d888beb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-15T21:16:26-03:00",
+  "duracao_s": 1044,
+  "custo_estimado_rs": 0.1044
+ },
+ {
+  "id": "e2c328aa-3310-4475-8a86-22250b36e356",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T06:31:03-03:00",
+  "duracao_s": 193,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "fd372539-65f2-42f9-83f0-2dc74f612217",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T06:35:12-03:00",
+  "duracao_s": 567,
+  "custo_estimado_rs": 0.0213
+ },
+ {
+  "id": "c4134dc2-c5c5-4e8a-be15-ad1290ce77e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T08:21:17-03:00",
+  "duracao_s": 182,
+  "custo_estimado_rs": 0.0068
+ },
+ {
+  "id": "dda4f4a7-0c3c-4284-87e5-3bbbdcb51c53",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T08:40:31-03:00",
+  "duracao_s": 272,
+  "custo_estimado_rs": 0.0102
+ },
+ {
+  "id": "49e64c22-89a0-47eb-b98f-569b465cc2cb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T09:05:14-03:00",
+  "duracao_s": 73,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "2d534dd0-cf8e-4c5a-8cc5-6569f9e8a369",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T09:18:51-03:00",
+  "duracao_s": 111,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "e256a6dc-8f54-46b7-87b5-b2bc5a8aaeca",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T09:29:36-03:00",
+  "duracao_s": 96,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "c5811d2d-1a89-471e-a0d5-72c8a837fe68",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T10:49:38-03:00",
+  "duracao_s": 465,
+  "custo_estimado_rs": 0.0174
+ },
+ {
+  "id": "114b9547-c9dc-42b8-9b6a-810204287378",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T11:13:34-03:00",
+  "duracao_s": 472,
+  "custo_estimado_rs": 0.0177
+ },
+ {
+  "id": "fb25664d-630a-4767-a2bb-522b0b251279",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T11:27:58-03:00",
+  "duracao_s": 330,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "71a0449d-d703-462f-b5cb-e3f56a66c184",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T11:43:40-03:00",
+  "duracao_s": 190,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "eededb07-e623-4689-9d59-cd2a4eea04e7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T12:01:01-03:00",
+  "duracao_s": 80,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "c2d49b56-cbbe-4980-87e6-7cb090bde900",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T12:50:30-03:00",
+  "duracao_s": 86,
+  "custo_estimado_rs": 0.0032
+ },
+ {
+  "id": "c775e395-d494-45f0-acd2-a404a48e40f1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T13:38:39-03:00",
+  "duracao_s": 506,
+  "custo_estimado_rs": 0.019
+ },
+ {
+  "id": "5a304528-0b59-4562-a227-219f551ff086",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T14:08:47-03:00",
+  "duracao_s": 477,
+  "custo_estimado_rs": 0.0179
+ },
+ {
+  "id": "6fdc0bad-5e36-4127-8ca1-b45c1fdd980a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T15:10:48-03:00",
+  "duracao_s": 229,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "2ea9c542-a1b9-40d0-ba81-04deb20507bb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T15:35:08-03:00",
+  "duracao_s": 592,
+  "custo_estimado_rs": 0.0222
+ },
+ {
+  "id": "ae9bec36-35c7-436c-9b99-62c6e61fecc0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T17:08:44-03:00",
+  "duracao_s": 80,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "752a7d25-f190-4b7e-86b4-69efb74eba93",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T17:21:39-03:00",
+  "duracao_s": 122,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "a59b457f-c0d7-4c73-895f-fa8140d92bce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T17:24:56-03:00",
+  "duracao_s": 332,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "ee0caeb5-ecfe-4b99-a790-cebdbfddc3d9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T18:14:45-03:00",
+  "duracao_s": 228,
+  "custo_estimado_rs": 0.0085
+ },
+ {
+  "id": "62fb26d7-f4db-4a07-a506-f6707092947d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-16T18:27:10-03:00",
+  "duracao_s": 470,
+  "custo_estimado_rs": 0.0176
+ },
+ {
+  "id": "83599af6-5d01-455f-a7fd-64c4a334058a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T06:48:10-03:00",
+  "duracao_s": 433,
+  "custo_estimado_rs": 0.0162
+ },
+ {
+  "id": "6202bee6-5cb5-469c-9dc7-b3e6a52964ff",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T06:56:28-03:00",
+  "duracao_s": 488,
+  "custo_estimado_rs": 0.0183
+ },
+ {
+  "id": "7227890e-4e76-433a-8baf-0f5ea9320094",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T07:26:10-03:00",
+  "duracao_s": 257,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "33173470-38f1-4a81-b87f-2425dbccc477",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T07:30:48-03:00",
+  "duracao_s": 79,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "4758367b-a649-4cdc-907b-907265e58f34",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T07:55:39-03:00",
+  "duracao_s": 277,
+  "custo_estimado_rs": 0.0104
+ },
+ {
+  "id": "cd5f4822-6966-48aa-ae49-f329c84a7b28",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T08:30:39-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "6e3c4532-1434-4f62-acac-028cba220065",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T09:44:02-03:00",
+  "duracao_s": 132,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "8bddcee3-70fd-4672-b80f-16c5c28fa16b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T11:08:09-03:00",
+  "duracao_s": 75,
+  "custo_estimado_rs": 0.0028
+ },
+ {
+  "id": "9d66e815-5a41-43b3-a95f-176cdebac186",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T12:15:35-03:00",
+  "duracao_s": 462,
+  "custo_estimado_rs": 0.0173
+ },
+ {
+  "id": "84ef4324-cc1b-4157-ac9f-9c545e0a72ab",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T12:56:48-03:00",
+  "duracao_s": 344,
+  "custo_estimado_rs": 0.0129
+ },
+ {
+  "id": "fdab3441-d2c2-4960-8b09-01abc66dceb3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T14:01:04-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "523ae993-4b34-46bc-8ba4-35cc2e326567",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T14:26:03-03:00",
+  "duracao_s": 511,
+  "custo_estimado_rs": 0.0192
+ },
+ {
+  "id": "59fefbbc-71a3-4ad2-b094-6d2a2aa93b43",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T14:26:12-03:00",
+  "duracao_s": 308,
+  "custo_estimado_rs": 0.0115
+ },
+ {
+  "id": "b386f7a4-c991-403f-a8c1-3091444d610b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T15:22:43-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "248d31ec-07f8-44f0-b3ea-018428f4e3ce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T17:12:55-03:00",
+  "duracao_s": 437,
+  "custo_estimado_rs": 0.0164
+ },
+ {
+  "id": "cb9bc326-d20e-4c17-8e20-fd1a598336e3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T17:25:55-03:00",
+  "duracao_s": 187,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "20509c62-08e8-45d7-b02c-1821c8040fb7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T17:52:52-03:00",
+  "duracao_s": 437,
+  "custo_estimado_rs": 0.0164
+ },
+ {
+  "id": "92ec89af-13ae-4376-8359-810a71a6014c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T19:17:00-03:00",
+  "duracao_s": 280,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "732e2016-add7-42c9-a747-b93c9ae77eab",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T19:17:33-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "f2a9dc8a-ca9e-4a62-bae3-114ba3b442bd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-17T19:58:26-03:00",
+  "duracao_s": 230,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "dd463c09-4752-47aa-9408-f9ac6601ddd0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T06:19:52-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "e9ddebf5-6311-4aca-848a-f4407fc15858",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T06:21:46-03:00",
+  "duracao_s": 185,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "6651529e-8268-490b-a438-25b559e4b671",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T06:58:18-03:00",
+  "duracao_s": 141,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "0840405a-ffd2-4491-9ff3-89aa4c36a70c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T07:26:01-03:00",
+  "duracao_s": 128,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "cf7dcb43-1679-442f-bf4c-96d671f2ce8f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T08:25:01-03:00",
+  "duracao_s": 455,
+  "custo_estimado_rs": 0.0171
+ },
+ {
+  "id": "fc31a597-1f11-4c0f-b967-e60a823dd107",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T08:26:14-03:00",
+  "duracao_s": 275,
+  "custo_estimado_rs": 0.0103
+ },
+ {
+  "id": "06ba8cd3-7e78-48c9-8a55-e38b3c9abe10",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T08:48:49-03:00",
+  "duracao_s": 161,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "ffa623d0-ea9e-4c8d-b1a8-b71f491b90e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T09:00:14-03:00",
+  "duracao_s": 403,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "ba81edd9-587e-4344-af3f-920c98b8e4cc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T09:42:59-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "fba6abf7-cdbc-4653-b7a7-e8b75e70f65f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T11:03:09-03:00",
+  "duracao_s": 383,
+  "custo_estimado_rs": 0.0144
+ },
+ {
+  "id": "6929de73-8693-4d9d-ba89-cbebb807d78a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T11:34:27-03:00",
+  "duracao_s": 457,
+  "custo_estimado_rs": 0.0171
+ },
+ {
+  "id": "7066e289-1644-44a0-9115-1fffdcb91d5f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T12:17:46-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "73b911d8-12f5-431a-9a52-d2ee22bf18f5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T12:52:36-03:00",
+  "duracao_s": 152,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "4f2dad3f-10d4-4e39-9612-37c9e25df9a8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T13:43:23-03:00",
+  "duracao_s": 403,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "723ef466-b43b-427f-82a2-59a6c6641285",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T13:51:48-03:00",
+  "duracao_s": 224,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "1d870966-0710-4430-b071-d87954c63cd8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T15:30:47-03:00",
+  "duracao_s": 207,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "58f0dd23-aaf7-4c67-91d0-8109fc902838",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T15:32:49-03:00",
+  "duracao_s": 522,
+  "custo_estimado_rs": 0.0196
+ },
+ {
+  "id": "4cc9f5f2-e42e-4037-8a55-2ea08acbbe09",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T15:56:00-03:00",
+  "duracao_s": 371,
+  "custo_estimado_rs": 0.0139
+ },
+ {
+  "id": "a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T17:20:59-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "a3404f08-b341-41b8-ad65-22b4b5a5f8e6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T17:55:08-03:00",
+  "duracao_s": 454,
+  "custo_estimado_rs": 0.017
+ },
+ {
+  "id": "35ba9357-3ca8-4f31-8fd7-f3b9c68fcba5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T18:06:50-03:00",
+  "duracao_s": 95,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "fbc9f87a-f668-4617-94a1-875d2db69edb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-18T18:16:42-03:00",
+  "duracao_s": 136,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "93a74792-c561-48dc-a436-4fcdf2d3f761",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T06:23:50-03:00",
+  "duracao_s": 113,
+  "custo_estimado_rs": 0.0042
+ },
+ {
+  "id": "94a53fde-f10d-47c8-9780-c2152b2bb8e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T07:18:28-03:00",
+  "duracao_s": 418,
+  "custo_estimado_rs": 0.0157
+ },
+ {
+  "id": "688c7015-aab9-4e49-8f2d-479681d2c7de",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T07:44:41-03:00",
+  "duracao_s": 146,
+  "custo_estimado_rs": 0.0055
+ },
+ {
+  "id": "7740d831-7331-4749-92fc-7a87a4704d48",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T07:45:16-03:00",
+  "duracao_s": 252,
+  "custo_estimado_rs": 0.0095
+ },
+ {
+  "id": "9aea622f-e6e9-47ca-b87b-63849fddde2e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T08:09:31-03:00",
+  "duracao_s": 427,
+  "custo_estimado_rs": 0.016
+ },
+ {
+  "id": "85197ff4-006e-46e3-afa1-7735b572f3d0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T08:39:39-03:00",
+  "duracao_s": 81,
+  "custo_estimado_rs": 0.003
+ },
+ {
+  "id": "9e3c5a88-6aa5-4e6d-9277-9574c4576cc3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T09:42:18-03:00",
+  "duracao_s": 197,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "f4d375c1-a293-49fa-b240-d7a14027ab7d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T09:58:36-03:00",
+  "duracao_s": 130,
+  "custo_estimado_rs": 0.0049
+ },
+ {
+  "id": "fc48f615-83b0-435c-9ba6-fdf8f3d04ffb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T10:03:02-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "dd20c3bf-d342-4f08-8a8b-b5b490494583",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T10:43:36-03:00",
+  "duracao_s": 563,
+  "custo_estimado_rs": 0.0211
+ },
+ {
+  "id": "1fc905f8-d4d6-4735-8e2f-8958de431e06",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T12:03:23-03:00",
+  "duracao_s": 556,
+  "custo_estimado_rs": 0.0209
+ },
+ {
+  "id": "ef4afa88-5299-4505-a976-aab22a26f770",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T13:15:12-03:00",
+  "duracao_s": 245,
+  "custo_estimado_rs": 0.0092
+ },
+ {
+  "id": "4aea1b8f-b43c-4e0a-ba9f-c10e52daf681",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T13:27:06-03:00",
+  "duracao_s": 108,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "8892042f-9d4b-4bf9-8d85-e9c7a0017720",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T13:42:42-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "21084dd9-f75d-4e3c-848d-56502e9522d6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T13:43:05-03:00",
+  "duracao_s": 390,
+  "custo_estimado_rs": 0.0146
+ },
+ {
+  "id": "939b462d-e645-4129-a29c-2ae31d9af659",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T14:29:12-03:00",
+  "duracao_s": 200,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "d9178793-a9d3-42e6-905c-c6869f871ce7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T15:17:57-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "c7bf4fbc-d43c-4d6d-a0c1-ff1e20da8972",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T15:31:17-03:00",
+  "duracao_s": 266,
+  "custo_estimado_rs": 0.01
+ },
+ {
+  "id": "e519dd7e-84d6-4c4f-b0df-1684f28e4122",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T15:55:50-03:00",
+  "duracao_s": 267,
+  "custo_estimado_rs": 0.01
+ },
+ {
+  "id": "f2e9702d-11e9-4daa-ae69-81a35d3d9e56",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T16:19:06-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "59cf0b0d-91f0-447d-8f32-1333ce315937",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T16:59:16-03:00",
+  "duracao_s": 117,
+  "custo_estimado_rs": 0.0044
+ },
+ {
+  "id": "bdf070aa-f0b5-456b-b82c-9074afd5dea5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-19T18:57:28-03:00",
+  "duracao_s": 207,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "7318b96d-4479-4612-9f5d-988f776abf09",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T07:29:11-03:00",
+  "duracao_s": 213,
+  "custo_estimado_rs": 0.008
+ },
+ {
+  "id": "46feacd4-fe13-43cd-8f2d-5c15eb346d3a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T07:53:53-03:00",
+  "duracao_s": 170,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "500e15c0-b89b-4f7f-93e3-4c35ef0a573d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T08:14:08-03:00",
+  "duracao_s": 257,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "7781321e-83c5-41cb-bef7-d9ea7f8e5483",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T08:39:27-03:00",
+  "duracao_s": 171,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "6257a4a2-f204-4e89-8a4b-55630cf477ef",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T09:28:15-03:00",
+  "duracao_s": 139,
+  "custo_estimado_rs": 0.0052
+ },
+ {
+  "id": "e1e0fffc-98f6-4d7f-beb1-62f14806f804",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T10:56:25-03:00",
+  "duracao_s": 115,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "95560a2d-3713-4466-bda0-6476f778c676",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T11:30:19-03:00",
+  "duracao_s": 324,
+  "custo_estimado_rs": 0.0121
+ },
+ {
+  "id": "e6b3c944-cb32-4e35-b922-bac282dc4c8e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T12:11:24-03:00",
+  "duracao_s": 124,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "6a662fce-7089-4c6d-a877-f5d90f5675f8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T12:20:58-03:00",
+  "duracao_s": 442,
+  "custo_estimado_rs": 0.0166
+ },
+ {
+  "id": "4c24a053-67f5-4e02-af5b-8f47ceae71cf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T12:45:40-03:00",
+  "duracao_s": 502,
+  "custo_estimado_rs": 0.0188
+ },
+ {
+  "id": "5005680f-24c7-48a5-9b4e-164b5716dc2e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T12:46:46-03:00",
+  "duracao_s": 194,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "f1fac6e7-170d-4507-85ee-e1d47f53a88e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T12:58:57-03:00",
+  "duracao_s": 247,
+  "custo_estimado_rs": 0.0093
+ },
+ {
+  "id": "6e0d2648-35ce-4841-8973-2d6c4dcabfb7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T13:40:16-03:00",
+  "duracao_s": 70,
+  "custo_estimado_rs": 0.0026
+ },
+ {
+  "id": "610faa3f-f0bb-4c67-aa38-d0a16ba25efe",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T13:45:42-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "67f48ad5-4d0b-4d1a-91b0-e1d99d9262af",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T15:28:56-03:00",
+  "duracao_s": 114,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "7118e364-7709-4749-927e-ecfaa79ac9aa",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T17:00:02-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "0217ea0e-8964-40ab-8926-ce5f78786140",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T17:47:59-03:00",
+  "duracao_s": 434,
+  "custo_estimado_rs": 0.0163
+ },
+ {
+  "id": "586a346a-dc5b-47d1-bcef-1972bbf483ce",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T18:03:38-03:00",
+  "duracao_s": 253,
+  "custo_estimado_rs": 0.0095
+ },
+ {
+  "id": "e6fdd7af-dd84-4acc-b672-94643f8ea40a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T18:05:53-03:00",
+  "duracao_s": 304,
+  "custo_estimado_rs": 0.0114
+ },
+ {
+  "id": "3fead90a-21f8-472d-9db7-570eb390b059",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T18:08:19-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "4d560a3d-f4e7-469a-a454-09374a27ebf2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T18:26:45-03:00",
+  "duracao_s": 369,
+  "custo_estimado_rs": 0.0138
+ },
+ {
+  "id": "8fc85fc0-83d5-4ceb-9edb-b8eec2baf0e0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-20T19:39:18-03:00",
+  "duracao_s": 156,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "79474bfa-cdd0-44d4-9542-27deb6adf48b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T06:38:03-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "673ba8bd-c38c-4dec-9da3-9a73ba3df7ff",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T07:52:30-03:00",
+  "duracao_s": 225,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "0a4e2552-8005-4b10-a6c1-4dca8255da61",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T08:01:11-03:00",
+  "duracao_s": 398,
+  "custo_estimado_rs": 0.0149
+ },
+ {
+  "id": "79a28903-fbe3-4b24-beae-00320bd4a990",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T08:47:16-03:00",
+  "duracao_s": 76,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "a2356dd4-1355-48d0-b3b5-bad5600b4b35",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T09:45:43-03:00",
+  "duracao_s": 171,
+  "custo_estimado_rs": 0.0064
+ },
+ {
+  "id": "fd98fe33-6498-4be9-a999-bbef518b2f21",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T10:35:29-03:00",
+  "duracao_s": 403,
+  "custo_estimado_rs": 0.0151
+ },
+ {
+  "id": "ce7ae7f6-3982-4cff-8f77-a665ac3c5640",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T10:41:33-03:00",
+  "duracao_s": 130,
+  "custo_estimado_rs": 0.0049
+ },
+ {
+  "id": "734a6ca3-8116-43fc-a2e7-c1a612d2fa06",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T11:04:31-03:00",
+  "duracao_s": 237,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "31d4ee09-8fd3-4afc-91fd-fa4f0d18ab95",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T11:07:23-03:00",
+  "duracao_s": 295,
+  "custo_estimado_rs": 0.0111
+ },
+ {
+  "id": "1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T12:38:54-03:00",
+  "duracao_s": 98,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "23c8afdb-83f8-4f16-a4a4-474c9b33e3a4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T13:16:14-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "25c73c44-3e75-43b4-a64f-a6637e8f8095",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T14:03:33-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "5f89ed12-64d6-4fbf-98c0-1e2bf99f0704",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T14:33:16-03:00",
+  "duracao_s": 155,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "a1384ddc-e2d9-4e5d-aa18-ce4c74962764",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T14:33:28-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "81df6517-561c-4210-97fe-56c54c9a9f24",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T14:37:51-03:00",
+  "duracao_s": 521,
+  "custo_estimado_rs": 0.0195
+ },
+ {
+  "id": "9e87e04c-a208-4977-a9f2-533683f4a9a9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T15:13:26-03:00",
+  "duracao_s": 142,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "ae2e9af9-9f8c-429f-bd35-0c5fd3479a3b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T16:42:05-03:00",
+  "duracao_s": 233,
+  "custo_estimado_rs": 0.0087
+ },
+ {
+  "id": "4739cc7b-bff3-4c8d-83ff-3e9667213a70",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T17:07:27-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "c14565c7-5d98-4115-b05e-eefe8ece1128",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T17:07:42-03:00",
+  "duracao_s": 263,
+  "custo_estimado_rs": 0.0099
+ },
+ {
+  "id": "4cbf131d-901b-4def-b56f-f8ce7d66971e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T17:35:45-03:00",
+  "duracao_s": 362,
+  "custo_estimado_rs": 0.0136
+ },
+ {
+  "id": "a1e518a2-93d2-48d4-a465-5c397d4d2add",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T17:35:55-03:00",
+  "duracao_s": 165,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "43f9cd6b-797e-4e87-98cf-118806d25913",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T18:12:33-03:00",
+  "duracao_s": 412,
+  "custo_estimado_rs": 0.0155
+ },
+ {
+  "id": "b9aed8e4-e615-49c8-8bf8-1f864ec3f970",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-21T19:43:06-03:00",
+  "duracao_s": 388,
+  "custo_estimado_rs": 0.0146
+ },
+ {
+  "id": "a987b218-ff84-4aef-9336-723b8f964685",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T07:55:59-03:00",
+  "duracao_s": 196,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "69b7c0fa-26c4-42f6-ab35-2f85504e2687",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T08:40:15-03:00",
+  "duracao_s": 315,
+  "custo_estimado_rs": 0.0118
+ },
+ {
+  "id": "5129950d-7d2f-4e58-b47a-1c5bb0b39015",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T10:02:45-03:00",
+  "duracao_s": 196,
+  "custo_estimado_rs": 0.0073
+ },
+ {
+  "id": "c56bad4c-4c30-47c4-bb75-6923f910abb3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T10:10:44-03:00",
+  "duracao_s": 572,
+  "custo_estimado_rs": 0.0215
+ },
+ {
+  "id": "de70bd30-00a2-4367-94fb-09f053c93ae7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T12:21:56-03:00",
+  "duracao_s": 189,
+  "custo_estimado_rs": 0.0071
+ },
+ {
+  "id": "b4adaf89-0ff1-4a9f-ba37-0623bc5fd4dd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T12:36:08-03:00",
+  "duracao_s": 524,
+  "custo_estimado_rs": 0.0197
+ },
+ {
+  "id": "75ac824c-2c55-4ef7-b4e9-573450521700",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T12:41:49-03:00",
+  "duracao_s": 282,
+  "custo_estimado_rs": 0.0106
+ },
+ {
+  "id": "b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T12:43:02-03:00",
+  "duracao_s": 376,
+  "custo_estimado_rs": 0.0141
+ },
+ {
+  "id": "8edec44d-476c-468c-bf1b-e0d0f5141058",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T14:32:27-03:00",
+  "duracao_s": 188,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "88d00abd-cbb1-4c79-9036-708dd9a09007",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T15:17:52-03:00",
+  "duracao_s": 156,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "c1581092-f335-4ba3-913a-7052986f9025",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T15:20:45-03:00",
+  "duracao_s": 213,
+  "custo_estimado_rs": 0.008
+ },
+ {
+  "id": "1c221cea-b355-46a5-b2bd-92f29293f705",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T15:31:48-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "eba742d2-9c89-4374-8664-95a780773e33",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T15:40:01-03:00",
+  "duracao_s": 300,
+  "custo_estimado_rs": 0.0113
+ },
+ {
+  "id": "d25864f2-25d4-40fc-a154-2765d756ba9c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T16:05:47-03:00",
+  "duracao_s": 486,
+  "custo_estimado_rs": 0.0182
+ },
+ {
+  "id": "a107cc46-8634-4718-aba6-adb37afeb114",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T16:05:58-03:00",
+  "duracao_s": 388,
+  "custo_estimado_rs": 0.0146
+ },
+ {
+  "id": "a284e8fd-755c-4e2a-b8de-d777bb1e5ae8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T16:50:16-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "3fcb7546-8eb2-4579-8cdb-1ca476ecbdd6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T17:15:27-03:00",
+  "duracao_s": 202,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "43ad3d62-b17c-4b21-8dbc-2c1ca4afe7bd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T18:08:49-03:00",
+  "duracao_s": 438,
+  "custo_estimado_rs": 0.0164
+ },
+ {
+  "id": "2d06e8cf-3805-4907-acd6-6193c7468f59",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T18:29:50-03:00",
+  "duracao_s": 97,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "c5a11f5c-ad05-4912-9ab2-8d4a8bd88fcd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T18:46:11-03:00",
+  "duracao_s": 265,
+  "custo_estimado_rs": 0.0099
+ },
+ {
+  "id": "76f2dbfe-cd29-436f-a222-82e174daaebf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-22T18:50:40-03:00",
+  "duracao_s": 101,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "ec8be537-58ab-4778-943b-45e3b6d1f6bb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T06:35:20-03:00",
+  "duracao_s": 579,
+  "custo_estimado_rs": 0.0217
+ },
+ {
+  "id": "3b9b2d45-a350-45e4-b9c5-9df987f255d6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T06:42:38-03:00",
+  "duracao_s": 553,
+  "custo_estimado_rs": 0.0207
+ },
+ {
+  "id": "19bd4f93-78ef-4666-b7a4-c719548e1f6b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T06:44:05-03:00",
+  "duracao_s": 301,
+  "custo_estimado_rs": 0.0113
+ },
+ {
+  "id": "3e11bafe-3d41-46fe-963a-8617bdab07e7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T07:55:18-03:00",
+  "duracao_s": 405,
+  "custo_estimado_rs": 0.0152
+ },
+ {
+  "id": "97790e84-5e47-4e22-b6c3-e6423e19fc1d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-23T08:48:33-03:00",
+  "duracao_s": 3450,
+  "custo_estimado_rs": 0.345
+ },
+ {
+  "id": "16e6e5c0-c4cb-494f-a86e-8e630f25477d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T10:29:46-03:00",
+  "duracao_s": 420,
+  "custo_estimado_rs": 0.0158
+ },
+ {
+  "id": "c9ce44bd-7c3f-4add-9a38-5db590eeb067",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T10:43:42-03:00",
+  "duracao_s": 98,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "c8acffcf-a04d-4d14-997d-bae10bc2ea72",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T10:48:44-03:00",
+  "duracao_s": 77,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "51d87c64-55fa-4ab8-858f-1f193c07c574",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T12:09:29-03:00",
+  "duracao_s": 143,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "33baba88-36c7-46fa-baa4-f052bf519362",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T12:11:35-03:00",
+  "duracao_s": 221,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "4988e418-f6c3-4218-8183-6315330f8be1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T12:39:35-03:00",
+  "duracao_s": 423,
+  "custo_estimado_rs": 0.0159
+ },
+ {
+  "id": "65001423-faeb-4d19-a550-8ea26133a34d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T14:01:43-03:00",
+  "duracao_s": 368,
+  "custo_estimado_rs": 0.0138
+ },
+ {
+  "id": "464c04af-3d3f-4799-a072-95e97c0e8cd8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T14:55:38-03:00",
+  "duracao_s": 203,
+  "custo_estimado_rs": 0.0076
+ },
+ {
+  "id": "d9af6e09-b91e-4d6e-bd1a-8f4b88ffbd40",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T15:07:55-03:00",
+  "duracao_s": 208,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "fa585b27-8ce3-47c3-b6ea-b3a001539221",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T15:32:12-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "54b4a482-6858-4eba-aa34-c85410714d51",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T15:42:55-03:00",
+  "duracao_s": 124,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "4a5b1aff-257f-4595-8dfb-4db9c5e78b23",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T17:27:26-03:00",
+  "duracao_s": 578,
+  "custo_estimado_rs": 0.0217
+ },
+ {
+  "id": "48998e5f-d40e-43ce-92a7-4a4144bed486",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T17:32:52-03:00",
+  "duracao_s": 191,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "4588fc1b-b238-4849-8fe0-69b6eedaa802",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T17:35:28-03:00",
+  "duracao_s": 228,
+  "custo_estimado_rs": 0.0085
+ },
+ {
+  "id": "be6033f7-28be-4288-a5af-6e39722764e6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T17:37:40-03:00",
+  "duracao_s": 210,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "28719b9b-db8f-4e32-adef-50031fce01e3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T17:42:49-03:00",
+  "duracao_s": 69,
+  "custo_estimado_rs": 0.0026
+ },
+ {
+  "id": "d701410d-3f4b-4a70-8074-718e425a609f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T18:03:39-03:00",
+  "duracao_s": 185,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "620e99d3-3b33-43d8-a69c-d696236c7b87",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T18:30:08-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "e0decc3d-e172-4c83-af5e-4376a723fb72",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-23T19:00:26-03:00",
+  "duracao_s": 298,
+  "custo_estimado_rs": 0.0112
+ },
+ {
+  "id": "268b84b6-3ec0-4285-8bc4-ec0ec2aef674",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-23T23:24:05-03:00",
+  "duracao_s": 3138,
+  "custo_estimado_rs": 0.3138
+ },
+ {
+  "id": "4459bd6e-c0f6-4229-b25d-42593c4b1eec",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T06:05:44-03:00",
+  "duracao_s": 286,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "fba57cc8-edaf-4766-9b78-0ede9a4ffc0c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T06:07:47-03:00",
+  "duracao_s": 380,
+  "custo_estimado_rs": 0.0143
+ },
+ {
+  "id": "95863a76-c511-45ff-a7a3-7e8163b4c08b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T06:52:18-03:00",
+  "duracao_s": 177,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "e0688849-eec7-4a30-9fda-35b228b2bf21",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T07:50:48-03:00",
+  "duracao_s": 142,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "d3b59af7-67ce-478f-a5a4-983ba383889a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T08:27:24-03:00",
+  "duracao_s": 528,
+  "custo_estimado_rs": 0.0198
+ },
+ {
+  "id": "3f800385-ef92-40b6-92d7-8f107a3a6e96",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T08:35:12-03:00",
+  "duracao_s": 161,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "bb2aa146-2999-494c-94a7-b69b1cd66b09",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T09:49:10-03:00",
+  "duracao_s": 504,
+  "custo_estimado_rs": 0.0189
+ },
+ {
+  "id": "8639bd41-8b15-4d94-a42d-0cd7fd359f6a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T10:41:26-03:00",
+  "duracao_s": 322,
+  "custo_estimado_rs": 0.0121
+ },
+ {
+  "id": "317304b5-c1dd-484a-aca5-8d95915a1c30",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T10:43:10-03:00",
+  "duracao_s": 241,
+  "custo_estimado_rs": 0.009
+ },
+ {
+  "id": "c0e3befd-4c71-40fe-9a0c-dd7cf1578470",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T11:19:31-03:00",
+  "duracao_s": 71,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "8bcf53a1-bc10-4a52-bf5d-2fdf89c8d2ab",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T11:27:35-03:00",
+  "duracao_s": 177,
+  "custo_estimado_rs": 0.0066
+ },
+ {
+  "id": "094d916d-eb6d-4fed-af15-8d5b2d007d05",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T11:51:01-03:00",
+  "duracao_s": 518,
+  "custo_estimado_rs": 0.0194
+ },
+ {
+  "id": "186b2880-ab54-4a15-a69d-01ff1634725b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T11:59:16-03:00",
+  "duracao_s": 257,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "bc92fd81-039b-458c-afaa-be0bb7f60cdf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T12:25:29-03:00",
+  "duracao_s": 221,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "cc530e36-addc-4e13-ab3b-4d37560c95ee",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T12:47:56-03:00",
+  "duracao_s": 169,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "77d0359e-8114-44f8-99df-0d0e225aed6c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T12:54:53-03:00",
+  "duracao_s": 570,
+  "custo_estimado_rs": 0.0214
+ },
+ {
+  "id": "0997623a-e072-4d96-8a1a-81f5ed10f004",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T16:29:09-03:00",
+  "duracao_s": 536,
+  "custo_estimado_rs": 0.0201
+ },
+ {
+  "id": "6f92f25e-45df-46b6-b82c-043f7cfc9b79",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T17:11:53-03:00",
+  "duracao_s": 126,
+  "custo_estimado_rs": 0.0047
+ },
+ {
+  "id": "9360715f-c3fe-4183-a172-b725db52ca58",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T19:14:41-03:00",
+  "duracao_s": 75,
+  "custo_estimado_rs": 0.0028
+ },
+ {
+  "id": "02ed73ce-92a8-4713-b90e-d44b951c25d5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T19:21:23-03:00",
+  "duracao_s": 244,
+  "custo_estimado_rs": 0.0092
+ },
+ {
+  "id": "e8cee951-b047-4ea4-bee5-ce6933cb202e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T19:53:08-03:00",
+  "duracao_s": 174,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "efc59738-2fb2-4e66-bed1-7aabc9b7c9bc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-24T19:57:37-03:00",
+  "duracao_s": 293,
+  "custo_estimado_rs": 0.011
+ },
+ {
+  "id": "60538c1b-a845-40a1-8249-2e5e005fd0e6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-24T20:05:01-03:00",
+  "duracao_s": 2272,
+  "custo_estimado_rs": 0.2272
+ },
+ {
+  "id": "6b790d01-3cf8-4d20-bbad-793f87a1ec02",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-24T22:58:17-03:00",
+  "duracao_s": 1740,
+  "custo_estimado_rs": 0.174
+ },
+ {
+  "id": "3bf0d9c1-c156-4501-b30e-96e8b9da5f8c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T06:43:30-03:00",
+  "duracao_s": 143,
+  "custo_estimado_rs": 0.0054
+ },
+ {
+  "id": "741423b5-0e3e-45f2-8f06-71c7720b274b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T07:16:23-03:00",
+  "duracao_s": 351,
+  "custo_estimado_rs": 0.0132
+ },
+ {
+  "id": "33c08bf1-8167-499f-a723-ada38c32bdb2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T07:34:15-03:00",
+  "duracao_s": 514,
+  "custo_estimado_rs": 0.0193
+ },
+ {
+  "id": "8f0d5540-0ec7-4662-905c-7bdd74f0beae",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T07:50:49-03:00",
+  "duracao_s": 302,
+  "custo_estimado_rs": 0.0113
+ },
+ {
+  "id": "9b11b530-fd24-4c11-bf6b-8cdf74797b61",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T07:52:11-03:00",
+  "duracao_s": 168,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "e346f415-e526-4a2b-ac50-ace480a52e65",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T08:14:09-03:00",
+  "duracao_s": 441,
+  "custo_estimado_rs": 0.0165
+ },
+ {
+  "id": "2a5fda18-a61f-4b96-a75f-745aaa1d3fc6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T09:30:19-03:00",
+  "duracao_s": 160,
+  "custo_estimado_rs": 0.006
+ },
+ {
+  "id": "56666f9f-53ac-4ab9-b467-2cd9362f5e5c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T09:38:31-03:00",
+  "duracao_s": 153,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "c1e1b94a-7888-4058-a9ad-0e9b8c9aa1e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T11:13:50-03:00",
+  "duracao_s": 449,
+  "custo_estimado_rs": 0.0168
+ },
+ {
+  "id": "36a2c52b-0047-4139-985d-f528b4258e19",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T12:00:33-03:00",
+  "duracao_s": 88,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "7d23d479-9549-4a82-b787-ef8d3495311e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T12:11:08-03:00",
+  "duracao_s": 438,
+  "custo_estimado_rs": 0.0164
+ },
+ {
+  "id": "906d5c8c-ead0-4c89-93fe-8a295c9deee0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T12:15:16-03:00",
+  "duracao_s": 450,
+  "custo_estimado_rs": 0.0169
+ },
+ {
+  "id": "3f59e4f2-c309-4b6e-b7e9-d2e2d35ac07a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T13:31:30-03:00",
+  "duracao_s": 430,
+  "custo_estimado_rs": 0.0161
+ },
+ {
+  "id": "85351a69-dabf-484e-93ff-84612a1f1b61",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T14:01:04-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "0cdf742b-2e85-4b21-b631-de9ddde9f863",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T14:59:54-03:00",
+  "duracao_s": 104,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "86879aa9-14f5-43d0-8991-2032df85c777",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T15:31:29-03:00",
+  "duracao_s": 395,
+  "custo_estimado_rs": 0.0148
+ },
+ {
+  "id": "4e8adc4b-7724-4041-9e43-fbd2aaf407f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T15:41:55-03:00",
+  "duracao_s": 121,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "ea87855e-a382-45d3-9e0e-f546b0b6dedf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T15:50:59-03:00",
+  "duracao_s": 249,
+  "custo_estimado_rs": 0.0093
+ },
+ {
+  "id": "d4f8fd72-f382-4cfd-8083-b73a473bd358",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T16:39:25-03:00",
+  "duracao_s": 167,
+  "custo_estimado_rs": 0.0063
+ },
+ {
+  "id": "06e745f9-88bc-439c-9f4c-3b79fb10987f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T17:46:01-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "157d94a1-06f0-48ff-a9ba-5a27907bfe36",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T18:41:49-03:00",
+  "duracao_s": 221,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "f5159494-3818-4fd3-b889-936a9d5817e8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-25T19:10:08-03:00",
+  "duracao_s": 278,
+  "custo_estimado_rs": 0.0104
+ },
+ {
+  "id": "8b60c511-b816-4aeb-ac6a-7c8576876c62",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T06:19:05-03:00",
+  "duracao_s": 242,
+  "custo_estimado_rs": 0.0091
+ },
+ {
+  "id": "11ab3d11-e4eb-4000-af40-d1620f6ce9bf",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T06:53:33-03:00",
+  "duracao_s": 598,
+  "custo_estimado_rs": 0.0224
+ },
+ {
+  "id": "c194f97f-00e3-4026-95b6-de85390239d9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T07:46:58-03:00",
+  "duracao_s": 591,
+  "custo_estimado_rs": 0.0222
+ },
+ {
+  "id": "bb134f02-16de-46c9-a210-def63a9c4308",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T07:51:01-03:00",
+  "duracao_s": 83,
+  "custo_estimado_rs": 0.0031
+ },
+ {
+  "id": "90604f62-1d48-4071-ab61-a7b1793b4c32",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T08:08:00-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "b34c6c73-5833-4b30-ac77-6e950b981ccd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T09:03:02-03:00",
+  "duracao_s": 127,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "0a4e5b70-a6d9-44a3-b510-ab53c7fee39f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T09:08:20-03:00",
+  "duracao_s": 87,
+  "custo_estimado_rs": 0.0033
+ },
+ {
+  "id": "b99b2b5a-e00d-449d-affa-20023040413c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T10:50:46-03:00",
+  "duracao_s": 231,
+  "custo_estimado_rs": 0.0087
+ },
+ {
+  "id": "87623997-649f-4d88-8989-c5abfe2b34d8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T10:52:07-03:00",
+  "duracao_s": 181,
+  "custo_estimado_rs": 0.0068
+ },
+ {
+  "id": "75eb89c2-3f5c-42f3-bacb-43a3d2c7bffb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T11:56:16-03:00",
+  "duracao_s": 284,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "59970043-f3b1-425b-bff9-f5850d557b61",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T12:35:03-03:00",
+  "duracao_s": 208,
+  "custo_estimado_rs": 0.0078
+ },
+ {
+  "id": "02106371-0260-4123-b1ef-e72aae13591e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T14:18:41-03:00",
+  "duracao_s": 197,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "b1ac040d-6c1c-4405-9c3f-42e0fcf7b842",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T15:44:18-03:00",
+  "duracao_s": 95,
+  "custo_estimado_rs": 0.0036
+ },
+ {
+  "id": "beed0af9-00c5-4f30-9103-142441241bb4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T16:07:33-03:00",
+  "duracao_s": 292,
+  "custo_estimado_rs": 0.0109
+ },
+ {
+  "id": "9f0fda8d-0537-4ff6-96d7-b3b833094d35",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T16:33:33-03:00",
+  "duracao_s": 133,
+  "custo_estimado_rs": 0.005
+ },
+ {
+  "id": "9d6b9b62-6b53-4a19-a902-b73fcf39f648",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T16:43:00-03:00",
+  "duracao_s": 106,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "a55871e3-bab2-477d-ba74-0cc8a43afb7a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T16:45:56-03:00",
+  "duracao_s": 482,
+  "custo_estimado_rs": 0.0181
+ },
+ {
+  "id": "aec76a82-148b-4376-a02a-4e5760a399d4",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T18:10:28-03:00",
+  "duracao_s": 554,
+  "custo_estimado_rs": 0.0208
+ },
+ {
+  "id": "72d35458-61ea-4f30-a42e-707afe2bd987",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T19:29:34-03:00",
+  "duracao_s": 281,
+  "custo_estimado_rs": 0.0105
+ },
+ {
+  "id": "dc3bbdd8-a74e-42a9-a20b-9ea98a0f9508",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T19:29:52-03:00",
+  "duracao_s": 537,
+  "custo_estimado_rs": 0.0201
+ },
+ {
+  "id": "2e13418d-68ab-40ea-897e-c6d1081fc6dc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-26T19:48:21-03:00",
+  "duracao_s": 331,
+  "custo_estimado_rs": 0.0124
+ },
+ {
+  "id": "c11f6bf5-379e-4467-8a2d-b2e63bfda8a6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T06:37:09-03:00",
+  "duracao_s": 314,
+  "custo_estimado_rs": 0.0118
+ },
+ {
+  "id": "c5c14eb4-b27b-4d90-9a16-342c3e2b6091",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T07:03:50-03:00",
+  "duracao_s": 230,
+  "custo_estimado_rs": 0.0086
+ },
+ {
+  "id": "7938878a-89b5-4ab0-8121-69db2f12b150",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T08:05:20-03:00",
+  "duracao_s": 282,
+  "custo_estimado_rs": 0.0106
+ },
+ {
+  "id": "93d563ae-51a3-4c26-937b-f79bbb44badc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T09:16:41-03:00",
+  "duracao_s": 559,
+  "custo_estimado_rs": 0.021
+ },
+ {
+  "id": "7249f62c-0898-4462-980c-b95c19d45deb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T09:22:09-03:00",
+  "duracao_s": 124,
+  "custo_estimado_rs": 0.0046
+ },
+ {
+  "id": "24f43c62-b523-40de-9b87-d29c4cfd0fc1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T09:22:24-03:00",
+  "duracao_s": 205,
+  "custo_estimado_rs": 0.0077
+ },
+ {
+  "id": "e134edfc-9777-4f10-b2d2-393f8e85140d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T10:12:25-03:00",
+  "duracao_s": 121,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "fbdd3933-cbd5-4bf6-9efd-76e9ce3714af",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T10:13:19-03:00",
+  "duracao_s": 223,
+  "custo_estimado_rs": 0.0084
+ },
+ {
+  "id": "93676a02-4fdc-4e1b-adcb-8cb60692dc63",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T10:21:16-03:00",
+  "duracao_s": 218,
+  "custo_estimado_rs": 0.0082
+ },
+ {
+  "id": "d038e153-c601-418b-a1fa-01ba231ae7c7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T10:23:12-03:00",
+  "duracao_s": 141,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "6883ac6e-6a94-4054-b241-4482519894d8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T11:20:10-03:00",
+  "duracao_s": 358,
+  "custo_estimado_rs": 0.0134
+ },
+ {
+  "id": "abdd1a8f-a4b0-4c89-b10b-ce9c582b91ee",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T12:56:19-03:00",
+  "duracao_s": 587,
+  "custo_estimado_rs": 0.022
+ },
+ {
+  "id": "bd9419aa-3ea6-45b2-8c76-0d28df495037",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T14:22:08-03:00",
+  "duracao_s": 450,
+  "custo_estimado_rs": 0.0169
+ },
+ {
+  "id": "4d406f1b-3ca5-4e29-9217-1bf3d18183d1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T14:22:15-03:00",
+  "duracao_s": 434,
+  "custo_estimado_rs": 0.0163
+ },
+ {
+  "id": "32c5bd89-b70b-4420-b104-3785658b2523",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T15:28:58-03:00",
+  "duracao_s": 166,
+  "custo_estimado_rs": 0.0062
+ },
+ {
+  "id": "f6b751f7-9b74-4245-9b1b-c8952af43ab7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T15:47:33-03:00",
+  "duracao_s": 164,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "8e4c3ab5-6d5d-4477-adc2-9178a0411612",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T16:17:34-03:00",
+  "duracao_s": 179,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "f6f7f0cc-29ec-4e49-91bd-b8c0c71d5e60",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T16:28:15-03:00",
+  "duracao_s": 99,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "249204c7-ad58-4b1b-be31-537aa43e558c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T16:32:39-03:00",
+  "duracao_s": 99,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "4a0d2b73-fe54-4e4b-80ff-517323dfecd7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T18:05:32-03:00",
+  "duracao_s": 118,
+  "custo_estimado_rs": 0.0044
+ },
+ {
+  "id": "69df14e9-3896-41dd-8570-b59fa903ae67",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-27T18:16:03-03:00",
+  "duracao_s": 594,
+  "custo_estimado_rs": 0.0223
+ },
+ {
+  "id": "d6f89f7a-c2fa-4da8-b830-8631b8f0188e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T07:22:49-03:00",
+  "duracao_s": 592,
+  "custo_estimado_rs": 0.0222
+ },
+ {
+  "id": "75b17a55-d426-4982-a43e-4288a2b5b498",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T07:28:39-03:00",
+  "duracao_s": 162,
+  "custo_estimado_rs": 0.0061
+ },
+ {
+  "id": "bf337a15-1e08-4f20-bdd1-51b0f64ab6ec",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T08:57:55-03:00",
+  "duracao_s": 187,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "774c0afa-7f4d-408c-a1ff-f6c08347f1da",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T10:19:04-03:00",
+  "duracao_s": 274,
+  "custo_estimado_rs": 0.0103
+ },
+ {
+  "id": "8186a576-11a7-4609-9edd-bbbfa9597663",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T10:51:39-03:00",
+  "duracao_s": 179,
+  "custo_estimado_rs": 0.0067
+ },
+ {
+  "id": "143df5b3-a58e-43dd-948c-1d84340de049",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T11:26:16-03:00",
+  "duracao_s": 220,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "94ad6252-15bc-4a3e-bf76-55d7f97c6c3c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-28T13:16:35-03:00",
+  "duracao_s": 2777,
+  "custo_estimado_rs": 0.2777
+ },
+ {
+  "id": "2253e706-87ad-4b26-8eaa-58416aa0426d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T13:52:24-03:00",
+  "duracao_s": 585,
+  "custo_estimado_rs": 0.0219
+ },
+ {
+  "id": "3579c143-7ab9-4428-b78e-65108f10d33e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T14:13:34-03:00",
+  "duracao_s": 433,
+  "custo_estimado_rs": 0.0162
+ },
+ {
+  "id": "c2fe8954-cdfd-4531-b02b-783112a1fe7d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T14:26:27-03:00",
+  "duracao_s": 537,
+  "custo_estimado_rs": 0.0201
+ },
+ {
+  "id": "368acd40-b8f1-4e3c-99e7-703a70aa5b0d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T14:32:40-03:00",
+  "duracao_s": 107,
+  "custo_estimado_rs": 0.004
+ },
+ {
+  "id": "afc2ccfc-9db7-484b-a965-d1d1eb7e2e64",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T14:47:35-03:00",
+  "duracao_s": 103,
+  "custo_estimado_rs": 0.0039
+ },
+ {
+  "id": "7d7ddbed-d284-476c-ab88-f83dd97dc9cd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T15:03:56-03:00",
+  "duracao_s": 73,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "52555c75-8d55-419e-bd44-cb2cea45ba41",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T15:51:09-03:00",
+  "duracao_s": 293,
+  "custo_estimado_rs": 0.011
+ },
+ {
+  "id": "f7294951-8591-41d2-bbda-02422d174fc9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T15:54:08-03:00",
+  "duracao_s": 181,
+  "custo_estimado_rs": 0.0068
+ },
+ {
+  "id": "5bf86f3c-a612-4a1c-889d-4b76775c30b5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T16:51:25-03:00",
+  "duracao_s": 284,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "9adf4709-ac75-4344-a08e-149e44b9e602",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T17:36:42-03:00",
+  "duracao_s": 116,
+  "custo_estimado_rs": 0.0043
+ },
+ {
+  "id": "03ece8ff-e8b3-4763-b4ff-3f3a4d9dbaeb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T18:10:21-03:00",
+  "duracao_s": 260,
+  "custo_estimado_rs": 0.0097
+ },
+ {
+  "id": "b97e6224-891f-4912-97ab-b8635efeef4f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T18:54:40-03:00",
+  "duracao_s": 523,
+  "custo_estimado_rs": 0.0196
+ },
+ {
+  "id": "9aba0f15-b214-4062-be1a-963eea18d32c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-28T19:59:38-03:00",
+  "duracao_s": 335,
+  "custo_estimado_rs": 0.0126
+ },
+ {
+  "id": "5ad5cf06-364d-4c87-bcd0-129d2e8d0e87",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T06:24:06-03:00",
+  "duracao_s": 153,
+  "custo_estimado_rs": 0.0057
+ },
+ {
+  "id": "01a25ed1-c3ab-45f1-8c6b-7074ab102c9b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T07:02:26-03:00",
+  "duracao_s": 508,
+  "custo_estimado_rs": 0.0191
+ },
+ {
+  "id": "96ee50e5-1f87-4b46-80a0-473a23d7e6a1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T07:12:49-03:00",
+  "duracao_s": 90,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "8dab66d3-3f87-4fc2-9591-52f2a505da9c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T07:57:27-03:00",
+  "duracao_s": 135,
+  "custo_estimado_rs": 0.0051
+ },
+ {
+  "id": "0f79a8a7-5f8a-44bd-b4bd-0c938177b661",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T08:06:51-03:00",
+  "duracao_s": 201,
+  "custo_estimado_rs": 0.0075
+ },
+ {
+  "id": "b86677aa-23d4-426b-ab54-ff7a5a2837b2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T08:21:18-03:00",
+  "duracao_s": 497,
+  "custo_estimado_rs": 0.0186
+ },
+ {
+  "id": "8cf6e8b8-7fd2-48c3-bee8-2983d5574241",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T09:13:12-03:00",
+  "duracao_s": 381,
+  "custo_estimado_rs": 0.0143
+ },
+ {
+  "id": "38a56b49-dd34-4a18-9001-9ed40bb401e7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T11:11:23-03:00",
+  "duracao_s": 301,
+  "custo_estimado_rs": 0.0113
+ },
+ {
+  "id": "b509109b-1166-48ce-bb3f-3800a175a9c3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T11:46:24-03:00",
+  "duracao_s": 521,
+  "custo_estimado_rs": 0.0195
+ },
+ {
+  "id": "3ed8c56c-da09-4fa0-9282-8d8044b591f7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T12:30:29-03:00",
+  "duracao_s": 221,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "75f8e3a8-7d97-4c0f-bd56-09c4a4461663",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T12:50:26-03:00",
+  "duracao_s": 460,
+  "custo_estimado_rs": 0.0172
+ },
+ {
+  "id": "fd85d7fa-8ac9-4b01-a3ad-64d4eab9eb02",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T13:39:05-03:00",
+  "duracao_s": 184,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "54720d2d-3239-4ffb-a704-6f254b91b8cb",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T14:06:28-03:00",
+  "duracao_s": 303,
+  "custo_estimado_rs": 0.0114
+ },
+ {
+  "id": "7bb3447b-e9aa-444b-9dd4-3675ef145064",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T14:38:58-03:00",
+  "duracao_s": 431,
+  "custo_estimado_rs": 0.0162
+ },
+ {
+  "id": "d8c128e7-d6cd-4155-88a8-ac7f862138ad",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T14:59:07-03:00",
+  "duracao_s": 120,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "d253d966-c36b-4a0a-81e0-2a89566a9ce7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T15:09:52-03:00",
+  "duracao_s": 440,
+  "custo_estimado_rs": 0.0165
+ },
+ {
+  "id": "694d7b00-8d38-4327-883f-13c601b158e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T15:13:47-03:00",
+  "duracao_s": 98,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "ca840003-5083-4fef-adec-6bbdf69777a1",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T16:13:12-03:00",
+  "duracao_s": 154,
+  "custo_estimado_rs": 0.0058
+ },
+ {
+  "id": "95831d58-ef4c-4119-8da5-d39b42c21797",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T16:22:39-03:00",
+  "duracao_s": 98,
+  "custo_estimado_rs": 0.0037
+ },
+ {
+  "id": "561e16d1-6105-416b-ab0e-664e9c3eb2d5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T16:30:24-03:00",
+  "duracao_s": 215,
+  "custo_estimado_rs": 0.0081
+ },
+ {
+  "id": "b380c73a-989d-4d4a-a15c-a6664797b2c9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T17:10:10-03:00",
+  "duracao_s": 157,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "3e6dd58b-7367-428d-a1b2-94de4767d76c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T17:37:48-03:00",
+  "duracao_s": 92,
+  "custo_estimado_rs": 0.0034
+ },
+ {
+  "id": "30e912f2-f2b4-4abf-8441-aefd0299436a",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-29T18:19:17-03:00",
+  "duracao_s": 212,
+  "custo_estimado_rs": 0.0079
+ },
+ {
+  "id": "3c9d128a-2176-4930-b6d7-0248a995ecc3",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-29T22:13:48-03:00",
+  "duracao_s": 2681,
+  "custo_estimado_rs": 0.2681
+ },
+ {
+  "id": "3e42df5b-90a3-4bbf-b580-e05067f1698c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T07:06:22-03:00",
+  "duracao_s": 581,
+  "custo_estimado_rs": 0.0218
+ },
+ {
+  "id": "081c79d4-c274-47eb-a65f-7b8adbb44021",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T07:07:43-03:00",
+  "duracao_s": 597,
+  "custo_estimado_rs": 0.0224
+ },
+ {
+  "id": "0e5d8c6a-79db-4862-8d7d-d772608e2f5c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T07:18:32-03:00",
+  "duracao_s": 284,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "892e6161-be2d-440a-9e9b-23bc50c7c006",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T07:41:21-03:00",
+  "duracao_s": 119,
+  "custo_estimado_rs": 0.0045
+ },
+ {
+  "id": "79ba630a-9118-4400-a336-c243b139c476",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T08:57:35-03:00",
+  "duracao_s": 534,
+  "custo_estimado_rs": 0.02
+ },
+ {
+  "id": "47c68688-ecf3-4053-af36-b8cc13087974",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T09:47:43-03:00",
+  "duracao_s": 563,
+  "custo_estimado_rs": 0.0211
+ },
+ {
+  "id": "bf72ae52-304b-4370-8270-12389b5f8f39",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T10:13:23-03:00",
+  "duracao_s": 197,
+  "custo_estimado_rs": 0.0074
+ },
+ {
+  "id": "3b048a8b-405b-4dc9-8e7e-d827455ac762",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T10:37:51-03:00",
+  "duracao_s": 186,
+  "custo_estimado_rs": 0.007
+ },
+ {
+  "id": "f4655a21-cb35-497a-a5dd-98f1c8a738ab",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T11:29:04-03:00",
+  "duracao_s": 78,
+  "custo_estimado_rs": 0.0029
+ },
+ {
+  "id": "131eb723-3bcd-4203-859e-e67473e7f042",
+  "loja_id": "padaria-01",
+  "equipamento_id": "iluminacao-salao",
+  "tipo": "luz_acesa_sem_necessidade",
+  "origem": "simulador",
+  "inicio": "2026-10-30T11:30:04-03:00",
+  "duracao_s": 2202,
+  "custo_estimado_rs": 0.2202
+ },
+ {
+  "id": "dba3496f-fa32-4f69-90db-fad654ce26be",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T12:04:29-03:00",
+  "duracao_s": 491,
+  "custo_estimado_rs": 0.0184
+ },
+ {
+  "id": "b63b4dc3-a559-4463-b9e1-3ceab0cbc61f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T12:50:24-03:00",
+  "duracao_s": 131,
+  "custo_estimado_rs": 0.0049
+ },
+ {
+  "id": "6786d506-38ba-4abc-8b53-05e517d2582e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T12:52:17-03:00",
+  "duracao_s": 74,
+  "custo_estimado_rs": 0.0028
+ },
+ {
+  "id": "659b0105-cb80-4288-846f-64dd5abca6e5",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T13:22:13-03:00",
+  "duracao_s": 507,
+  "custo_estimado_rs": 0.019
+ },
+ {
+  "id": "b2a6e468-d02b-4243-8091-3ac10463750e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T13:30:01-03:00",
+  "duracao_s": 236,
+  "custo_estimado_rs": 0.0089
+ },
+ {
+  "id": "8ce6424d-bef5-4fe6-bf23-3d5f6cedd15d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T13:44:55-03:00",
+  "duracao_s": 158,
+  "custo_estimado_rs": 0.0059
+ },
+ {
+  "id": "d867888b-7ff6-4824-952a-eaec2bdfcb41",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T14:54:52-03:00",
+  "duracao_s": 449,
+  "custo_estimado_rs": 0.0168
+ },
+ {
+  "id": "1b656dab-2de4-4e91-a8e6-e840f090f5a0",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T15:26:11-03:00",
+  "duracao_s": 502,
+  "custo_estimado_rs": 0.0188
+ },
+ {
+  "id": "79279973-5e78-4fd7-94e0-d3baa9f948b2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T15:41:06-03:00",
+  "duracao_s": 148,
+  "custo_estimado_rs": 0.0056
+ },
+ {
+  "id": "e03635fc-a88d-4108-98d9-94b8d90f74e9",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T16:54:20-03:00",
+  "duracao_s": 71,
+  "custo_estimado_rs": 0.0027
+ },
+ {
+  "id": "edc3a1c3-2dea-4d2d-886c-405fa879d8f8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T18:35:25-03:00",
+  "duracao_s": 378,
+  "custo_estimado_rs": 0.0142
+ },
+ {
+  "id": "9ea9f508-3122-4592-bdb0-2235261e2555",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T18:51:09-03:00",
+  "duracao_s": 358,
+  "custo_estimado_rs": 0.0134
+ },
+ {
+  "id": "3ad1fa33-0ae4-4c11-ab4d-8f42873570a2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T19:38:01-03:00",
+  "duracao_s": 548,
+  "custo_estimado_rs": 0.0206
+ },
+ {
+  "id": "d90dd19b-d3fb-4043-af1d-5a1a4ccb2355",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-30T19:51:47-03:00",
+  "duracao_s": 205,
+  "custo_estimado_rs": 0.0077
+ },
+ {
+  "id": "c8ad0899-b630-494d-a147-adeb277b0667",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T07:01:44-03:00",
+  "duracao_s": 227,
+  "custo_estimado_rs": 0.0085
+ },
+ {
+  "id": "b68e47fa-3f17-4534-8c4d-58194b9dfd58",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T07:11:58-03:00",
+  "duracao_s": 406,
+  "custo_estimado_rs": 0.0152
+ },
+ {
+  "id": "873dc8bd-122d-47be-980b-c81ea3595d1f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T07:34:42-03:00",
+  "duracao_s": 192,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "2c3aacdc-aed5-4a46-8bde-005b5d8babd7",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T07:50:51-03:00",
+  "duracao_s": 172,
+  "custo_estimado_rs": 0.0065
+ },
+ {
+  "id": "fa02eaec-96ef-4ad6-b97e-670346c8adfe",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T08:40:53-03:00",
+  "duracao_s": 193,
+  "custo_estimado_rs": 0.0072
+ },
+ {
+  "id": "039f3a25-4d61-48bd-adef-e1935c62b3a2",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T08:43:03-03:00",
+  "duracao_s": 128,
+  "custo_estimado_rs": 0.0048
+ },
+ {
+  "id": "e582b678-ad52-49dd-a39f-c471d9750f00",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T09:21:59-03:00",
+  "duracao_s": 517,
+  "custo_estimado_rs": 0.0194
+ },
+ {
+  "id": "658e54a2-9879-4f35-b471-99869d264599",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T10:46:05-03:00",
+  "duracao_s": 483,
+  "custo_estimado_rs": 0.0181
+ },
+ {
+  "id": "1375ee90-d6b3-41e4-bb6d-ca0d6fe5040b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T10:50:31-03:00",
+  "duracao_s": 140,
+  "custo_estimado_rs": 0.0053
+ },
+ {
+  "id": "614c721d-a921-4b4c-95fb-e976ae007b7e",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T11:15:21-03:00",
+  "duracao_s": 185,
+  "custo_estimado_rs": 0.0069
+ },
+ {
+  "id": "ca5e151b-23d3-4d4c-bd5f-f093c16f9bcc",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T13:34:04-03:00",
+  "duracao_s": 286,
+  "custo_estimado_rs": 0.0107
+ },
+ {
+  "id": "7daa39f0-c0b6-4ce2-9e53-790aa34b6cf6",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T13:44:49-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "1b46ebdc-5c56-49bc-9111-d31d63be441d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T14:52:28-03:00",
+  "duracao_s": 468,
+  "custo_estimado_rs": 0.0175
+ },
+ {
+  "id": "0df56ac6-f96b-448a-8ba6-eab94639447b",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T15:54:44-03:00",
+  "duracao_s": 102,
+  "custo_estimado_rs": 0.0038
+ },
+ {
+  "id": "d52721e7-19bc-443e-bb02-bebb48729a4d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T16:38:34-03:00",
+  "duracao_s": 222,
+  "custo_estimado_rs": 0.0083
+ },
+ {
+  "id": "0387f74d-1149-4096-965d-744f0445c1a8",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T16:40:41-03:00",
+  "duracao_s": 83,
+  "custo_estimado_rs": 0.0031
+ },
+ {
+  "id": "905f9096-2996-46e2-8c9d-690713b22cec",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T17:29:33-03:00",
+  "duracao_s": 565,
+  "custo_estimado_rs": 0.0212
+ },
+ {
+  "id": "51045a16-ef15-4b72-9c70-ee97fca45567",
+  "loja_id": "padaria-01",
+  "equipamento_id": "freezer-1",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T18:26:31-03:00",
+  "duracao_s": 68,
+  "custo_estimado_rs": 0.0025
+ },
+ {
+  "id": "b674410d-d218-49d6-8093-bfb024e9bcfd",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T19:27:38-03:00",
+  "duracao_s": 390,
+  "custo_estimado_rs": 0.0146
+ },
+ {
+  "id": "c8969c5b-45f8-428d-a255-e1bb07958c1f",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T19:33:53-03:00",
+  "duracao_s": 257,
+  "custo_estimado_rs": 0.0096
+ },
+ {
+  "id": "f96d40f8-bed6-4da0-8033-f5c21413d64d",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T19:50:19-03:00",
+  "duracao_s": 460,
+  "custo_estimado_rs": 0.0172
+ },
+ {
+  "id": "f0eebcce-8d93-414a-9b16-71583a67470c",
+  "loja_id": "padaria-01",
+  "equipamento_id": "expositor-2",
+  "tipo": "porta_aberta",
+  "origem": "simulador",
+  "inicio": "2026-10-31T19:53:46-03:00",
+  "duracao_s": 341,
+  "custo_estimado_rs": 0.0128
+ }
+]
