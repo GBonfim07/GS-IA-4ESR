@@ -190,6 +190,3 @@ Quando a base não tem a resposta, a saída é `{"nao_consta": true, "recomendac
 - Os valores das bandeiras tarifárias são os da página da ANEEL consultada em 10/11/2026.
 - As correções propostas para os cinco erros ainda não foram implementadas.
 
-## Vídeo (opcional)
-
-Os entregáveis e a pontuação da disciplina não pedem vídeo. O slide de entregas só cita "links do repositório e do vídeo" no item 07 do relatório. Se o grupo gravar, o link entra aqui e no `RELATORIO.md`: PREENCHER. Há um roteiro sugerido em [`docs/roteiro_video.md`](docs/roteiro_video.md). Se não gravar, apague esta seção.
