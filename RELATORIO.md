@@ -48,7 +48,34 @@ O painel mostra ao comerciante quanto ele desperdiçou. Falta dizer o que fazer.
 | Quem consome | o painel (tela de sugestões) e a automação RPA (resumo por e-mail), pelo arquivo `saida/recomendacoes.json` |
 | Onde roda | na máquina de quem opera, com Ollama. Nada vai para a nuvem |
 
-**Como contribui para os ODS.** ODS 7: reduz o consumo de energia do pequeno comércio com orientação baseada em fontes oficiais (PROCEL, ANEEL). ODS 12: ataca o desperdício (porta de refrigeração aberta, luz acesa sem necessidade) sem comprometer a conservação dos alimentos, porque a base inclui as temperaturas exigidas pela Anvisa.
+### Onde o Consultor se encaixa no produto
+
+O Energia que dá Lucro é um único produto para as sete disciplinas. As câmeras (Applied Computer Vision) e o robô com sensores (Maker Lab) geram eventos de desperdício; o painel do comerciante (Secure DevOps) mostra o custo; a automação (RPA) avisa na hora e manda o resumo por e-mail; o pipeline de dados (Big Data) entrega os indicadores; o pitch (BI) demonstra tudo. O Consultor é a parte que transforma o resumo de desperdício em uma orientação com fonte.
+
+```mermaid
+flowchart LR
+    EV["Eventos de desperdício<br/>câmeras, robô ou simulador"] --> PA["Painel do comerciante"]
+    PA -- "resumo da loja" --> CO["Consultor com LLM local<br/>(este componente)"]
+    CO -- "recomendacoes.json" --> PA
+    PA -- "recomendações" --> RPA["Automação: resumo por e-mail"]
+    RPA --> CM["Comerciante"]
+    PA --> CM
+    style CO stroke-width:4px
+```
+
+A troca com o painel é por arquivo, no contrato de dados comum do grupo. Nesta entrega, o resumo de entrada vem de dados simulados no mesmo formato, e a leitura ao vivo da API do painel está implementada, mas não foi testada contra o painel real. A tabela com a ligação de cada disciplina e o estado da integração está no [README](README.md#o-produto-inteiro-e-onde-este-componente-se-encaixa).
+
+### Como o produto contribui para os ODS
+
+| ODS | Meta relacionada | Como contribui |
+|---|---|---|
+| 7 · Energia acessível e limpa | 7.3, melhorar a eficiência energética | Reduz o consumo de energia do pequeno comércio com orientação tirada de fontes oficiais (ANEEL, PROCEL) |
+| 12 · Consumo e produção responsáveis | 12.2, uso eficiente dos recursos, e 12.3, reduzir a perda de alimentos no varejo | Ataca o desperdício (porta de refrigeração aberta, luz acesa sem necessidade) sem comprometer a conservação dos alimentos, porque a base inclui as temperaturas exigidas pela Anvisa |
+| 9 · Indústria, inovação e infraestrutura | 9.4, mais eficiência no uso de recursos e adoção de tecnologias limpas | Leva IA ao pequeno negócio com o que ele já tem: as câmeras da loja e uma LLM que roda em computador comum, sem nuvem |
+| 11 · Cidades e comunidades sustentáveis | 11.6, reduzir o impacto ambiental das cidades | Reduz o consumo de energia do comércio de bairro, que faz parte do dia a dia da cidade |
+| 13 · Ação contra a mudança global do clima | 13.3, conscientização e capacidade para a mitigação | Mostra ao comerciante, em reais e em kWh, o efeito de cada hábito, e explica as bandeiras tarifárias, que sinalizam quando as condições de geração pioram |
+
+Os ODS 9, 11 e 13 estão na lista do slide oficial do desafio. Os ODS 7 e 12 não estão na lista, mas são os mais diretos para o tema energia.
 
 ---
 
@@ -289,11 +316,22 @@ Erros reais do conjunto de teste, com a saída gravada. O notebook 04 mostra cad
 
 **O que cada camada entrega.** A base com fonte dá a resposta certa e a citação. O limiar, a regra de evidência e o verificador de citação dão a recusa. A decodificação restrita dá o JSON válido. O agente dá o que o texto da base não tem: os números da loja e a conta exata.
 
+**Decisões e desafios do percurso.** Os principais, com o que foi feito em cada um:
+- **LoRA ou agente.** O que o RAG simples não resolve depende dos números da loja no mês e de contas exatas, e isso não cabe nos pesos de um modelo. Escolhemos o agente com ferramentas; o modelo não foi re-treinado.
+- **O agente não usava as ferramentas.** Na primeira rodada de calibração, ele chamou alguma ferramenta em 8 de 30 perguntas e acertou 43,3%, menos que o RAG simples. A busca inicial passou a ser obrigatória e a resposta final passou a ser escrita em uma etapa separada.
+- **A correção automática não enxerga a alucinação.** Pelas regras, o modelo puro alucinava em 9,1% dos casos; lendo as respostas, em 40,9%. Por isso as 132 respostas do teste foram lidas.
+- **Números bons demais na calibração.** O agente chegou a 100% na calibração e ficou em 90,9% no teste, que só foi rodado com tudo congelado.
+- **O resultado muda de uma rodada para outra,** mesmo com temperatura 0 e semente fixa. A segunda execução inteira está guardada.
+- **Integrar sem o painel pronto.** Usamos dados simulados no formato combinado pelo grupo e a troca por arquivo.
+
+A tabela completa, com a evidência de cada item, está no [README](README.md#decisões-e-desafios-do-percurso).
+
 **Segurança, explicabilidade e LGPD.**
 - A LLM e os embeddings rodam na máquina local; nenhuma pergunta ou dado de loja sai dela.
 - O componente não recebe imagens nem dados pessoais: trabalha com identificadores de loja e de equipamento. A API não grava a pergunta; o log guarda só um hash.
 - Toda resposta traz o trecho citado, que pode ser lido em `GET /trechos/{id}`, e um campo `explicacao` com a decisão tomada, os trechos consultados, a similaridade e as ferramentas usadas.
 - A IA só sugere. Quem decide e age é o comerciante.
+- Vieses avaliados: a base cobre só refrigeração, iluminação e tarifas em fontes federais, e o que fica de fora é recusado; perguntas com redação distante do texto oficial são recusadas mais vezes, o que pesa para quem escreve de modo informal (erro 1); e o gabarito foi escrito pelo próprio grupo.
 - A API escuta apenas em `127.0.0.1`, limita o tamanho da pergunta, aceita chave por `X-API-Key` e trata o conteúdo da pergunta como dado (teste de injeção de instrução no notebook 02). A calculadora do agente só aceita aritmética. O resumo de loja recebido pela API é validado campo a campo, e o valor em reais de cada recomendação em lote é conferido contra o resumo.
 
 **Limites e próximos passos.**
