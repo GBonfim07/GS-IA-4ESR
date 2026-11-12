@@ -31,7 +31,7 @@ Resultado em uma linha: no conjunto de teste (44 perguntas), o mesmo modelo loca
 | Arquitetura: componentes | Detecção por câmera (Visão) · robô com sensores (Físico) · API e painel do comerciante (Produção) · pipeline de dados (Dados) · **consultor de eficiência com LLM local (Inteligência, este repositório)** · alertas e resumos automáticos (Automação) · modelo de negócio (Pitch) |
 | Fontes de dados | Clima (Open-Meteo) · tarifas e bandeiras (ANEEL) · eventos e consumo das lojas (simulados, com geração documentada) |
 | Modelos de IA utilizados | YOLO treinado para portas de refrigeração abertas · **LLM local `qwen2.5:7b` com base de conhecimento (RAG) e agente com ferramentas; embeddings `bge-m3`** · IA embarcada no robô |
-| URL do MVP e repositório | MVP: a definir (entrega de DevOps) · Repositório deste componente: PREENCHER |
+| URL do MVP e repositório | MVP: sem URL pública nesta entrega. É uma landing page com um painel administrativo em que o cliente vê os dashboards; o painel recebe o JSON de recomendações gerado aqui (`saida/recomendacoes.json`) · Repositório deste componente: <https://github.com/GBonfim07/GS-IA-4ESR> |
 | Indicadores de impacto | R$ e kWh de desperdício evitados por loja ao mês · tempo médio de porta aberta · percentual de alertas resolvidos em poucos minutos · número de lojas ativas |
 | ODS conectados | ODS 7 (energia acessível e limpa) e ODS 12 (consumo e produção responsáveis); do slide oficial, ODS 9, 11 e 13 |
 
@@ -307,8 +307,7 @@ Erros reais do conjunto de teste, com a saída gravada. O notebook 04 mostra cad
 
 | | |
 |---|---|
-| Repositório | PREENCHER |
-| Vídeo (opcional) | PREENCHER se o grupo gravar; senão, apagar esta linha |
+| Repositório | <https://github.com/GBonfim07/GS-IA-4ESR> |
 | Notebooks com saídas | [`notebooks/`](notebooks/) |
 | Base de conhecimento | [`base/`](base/) |
 | Casos de teste, resultados e placar | [`avaliacao/`](avaliacao/) |

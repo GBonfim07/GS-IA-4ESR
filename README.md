@@ -32,7 +32,7 @@ O relatório completo, com diagrama, tabela da base, placar interpretado e os ci
 | Arquitetura: componentes | Detecção por câmera (Visão) · robô com sensores (Físico) · API e painel do comerciante (Produção) · pipeline de dados (Dados) · **consultor de eficiência com LLM local (Inteligência, este repositório)** · alertas e resumos automáticos (Automação) · modelo de negócio (Pitch) |
 | Fontes de dados | Clima (Open-Meteo) · tarifas e bandeiras (ANEEL) · eventos e consumo das lojas (simulados, com geração documentada) |
 | Modelos de IA utilizados | YOLO treinado para portas de refrigeração abertas · **LLM local `qwen2.5:7b` com base de conhecimento (RAG) e agente com ferramentas; embeddings `bge-m3`** · IA embarcada no robô |
-| URL do MVP e repositório | MVP: a definir (entrega de DevOps) · Repositório: PREENCHER |
+| URL do MVP e repositório | MVP: sem URL pública nesta entrega. É uma landing page com um painel administrativo em que o cliente vê os dashboards; o painel recebe o JSON de recomendações gerado aqui (`saida/recomendacoes.json`) · Repositório: <https://github.com/GBonfim07/GS-IA-4ESR> |
 | Indicadores de impacto | R$ e kWh de desperdício evitados por loja ao mês · tempo médio de porta aberta · percentual de alertas resolvidos em poucos minutos · número de lojas ativas |
 | ODS conectados | ODS 7 e ODS 12 (mais diretos); do slide oficial, ODS 9, 11 e 13 |
 
@@ -51,7 +51,7 @@ scripts/        avaliar_busca.py · avaliar.py · gerar_recomendacoes.py · simu
 dados/          eventos e resumos simulados das lojas (entrada)
 saida/          recomendacoes.json (o que o painel e a automação consomem)
 tests/          testes que rodam sem a LLM
-docs/           contrato de dados e roteiro do vídeo
+docs/           contrato de dados com o painel
 ```
 
 | Critério da rubrica | Onde está |
