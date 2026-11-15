@@ -19,7 +19,7 @@ O relatório completo, com diagrama, tabela da base, placar interpretado e os ci
 
 | Campo | Conteúdo |
 |---|---|
-| Nome do produto | Energia que dá Lucro (nome provisório) |
+| Nome do produto | Energia que dá Lucro |
 | Cidadão e território | Donos e funcionários de pequenos comércios de bairro (mercadinhos, padarias, açougues, lojas) em cidades brasileiras |
 | Problema, em uma frase | O pequeno comerciante paga caro de energia sem saber quais hábitos e equipamentos causam o desperdício |
 | Proposta de valor | Mostrar o desperdício em reais, avisar na hora em que ele acontece e sugerir ações simples, usando as câmeras que a loja já tem |
