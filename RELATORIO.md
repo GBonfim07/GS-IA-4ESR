@@ -39,6 +39,22 @@ Resultado em uma linha: no conjunto de teste (44 perguntas), o mesmo modelo loca
 
 **Problema escolhido entre os três do enunciado:** energia.
 
+**O problema da sociedade.** O pequeno comerciante de bairro paga a conta de energia sem saber quais hábitos e equipamentos a fazem subir. Esse desperdício reduz a margem de lucro do comércio e consome energia que não precisava ser gerada.
+
+**Os dados usados têm a ver com esse problema.** A base de conhecimento que alimenta a LLM foi montada a partir do que o comerciante precisa saber para agir:
+
+| O que o comerciante precisa saber | Fonte na base | Trechos |
+|---|---|---:|
+| Por que a porta de refrigeração aberta gasta energia e como reduzir | Eletrobras / PROCEL | 11 |
+| Como conservar os alimentos sem gastar mais: temperaturas e prazos | Anvisa, RDC nº 216/2004 | 7 |
+| Como a conta é formada: bandeiras, tarifa branca, postos e modalidades tarifárias | ANEEL | 17 |
+| Hábitos do dia a dia: iluminação, geladeira e freezer, ar-condicionado e horário de pico | ANA (A3P e campanhas) e EPE | 11 |
+| Onde buscar recurso para trocar equipamentos: Programa de Eficiência Energética | ANEEL e MME | 4 |
+| Como o produto calcula o desperdício em reais e em kWh | Contrato de dados do grupo | 6 |
+| **Total** | | **56** |
+
+A tabela completa, fonte por fonte, com formato e licença, está na seção 04.
+
 O painel mostra ao comerciante quanto ele desperdiçou. Falta dizer o que fazer. O Consultor recebe o resumo de desperdício de uma loja, ou uma pergunta do comerciante, e devolve uma recomendação curta, em JSON, **citando o trecho de fonte pública que a sustenta**. Se a base não cobre o assunto, ele responde "não consta" em vez de inventar.
 
 | | |
@@ -320,10 +336,12 @@ Erros reais do conjunto de teste, com a saída gravada. O notebook 04 mostra cad
 
 **O que foi provado.** Uma LLM de 7 bilhões de parâmetros, rodando em uma placa de vídeo doméstica, deixa de ser um risco e passa a ser útil quando responde só com base em fontes citadas. No teste, o acerto subiu de 31,8% para 72,7% com RAG e para 90,9% com o agente, e a alucinação caiu de 40,9% para menos de 5%.
 
+**Melhor resultado.** Das três configurações testadas (sem contexto, RAG simples e agente), a que melhor resolve o problema é o **agente com ferramentas**: 90,9% de acerto e 4,5% de alucinação. É a configuração padrão da API. O RAG simples é mais rápido (2,2 s contra 8,4 s) e é usado na geração em lote para o painel, em que os números da loja já vão junto com a pergunta.
+
 **O que cada camada entrega.** A base com fonte dá a resposta certa e a citação. O limiar, a regra de evidência e o verificador de citação dão a recusa. A decodificação restrita dá o JSON válido. O agente dá o que o texto da base não tem: os números da loja e a conta exata.
 
 **Decisões e desafios do percurso.** Os principais, com o que foi feito em cada um:
-- **LoRA ou agente.** O que o RAG simples não resolve depende dos números da loja no mês e de contas exatas, e isso não cabe nos pesos de um modelo. Escolhemos o agente com ferramentas; o modelo não foi re-treinado.
+- **LoRA ou agente.** O que o RAG simples não resolve depende dos números da loja no mês e de contas exatas, e isso não cabe nos pesos de um modelo. Escolhemos o agente com ferramentas; o modelo não foi re-treinado. Consultado sobre o ajuste fino, o professor orientou a testar sem contexto, com RAG e com agentes e a apresentar o melhor resultado.
 - **O agente não usava as ferramentas.** Na primeira rodada de calibração, ele chamou alguma ferramenta em 8 de 30 perguntas e acertou 43,3%, menos que o RAG simples. A busca inicial passou a ser obrigatória e a resposta final passou a ser escrita em uma etapa separada.
 - **A correção automática não enxerga a alucinação.** Pelas regras, o modelo puro alucinava em 9,1% dos casos; lendo as respostas, em 40,9%. Por isso as 132 respostas do teste foram lidas.
 - **Números bons demais na calibração.** O agente chegou a 100% na calibração e ficou em 90,9% no teste, que só foi rodado com tudo congelado.

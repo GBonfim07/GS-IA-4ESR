@@ -32,13 +32,17 @@ O relatório completo, com diagrama, tabela da base, placar interpretado e os ci
 
 **O que a IA resolve.** O painel mostra quanto a loja desperdiçou; o Consultor diz o que fazer. Ele recebe o resumo de desperdício da loja ou uma pergunta do comerciante e devolve uma recomendação em JSON com a fonte citada. Se a base não cobre o assunto, responde "não consta" em vez de inventar. Dos três problemas do enunciado (energia, segurança ou mobilidade), o escolhido é **energia**.
 
-**Resultado.** O mesmo modelo local, medido em 44 perguntas de teste:
+**O problema da sociedade e os dados usados.** O problema é o desperdício de energia no comércio de bairro: o comerciante paga a conta sem saber o que a faz subir. Os dados que alimentam a LLM foram escolhidos por esse problema. São 56 trechos de fontes públicas sobre refrigeração comercial (PROCEL), conservação de alimentos (Anvisa), tarifas e bandeiras (ANEEL), hábitos de consumo (ANA e EPE) e financiamento de eficiência energética (ANEEL e MME). A tabela que liga cada fonte a uma necessidade do comerciante está no [relatório, seção 02](RELATORIO.md).
+
+**Resultado.** Seguindo a orientação do professor, o mesmo modelo local foi testado sem contexto, com RAG e com agente, em 44 perguntas de teste:
 
 | Configuração | Acerto | Alucinação |
 |---|---:|---:|
 | 1. Modelo puro, sem contexto | 31,8% | 40,9% |
 | 2. RAG simples | 72,7% | 2,3% |
 | 3. Agente com ferramentas | **90,9%** | 4,5% |
+
+**Melhor resultado: o agente com ferramentas.** É a configuração que mais acerta e a que a API usa por padrão.
 
 **As seis perguntas do briefing.**
 
@@ -151,7 +155,7 @@ O mesmo modelo é medido em três configurações, e a diferença entre elas é 
 | 2. RAG simples | A pergunta e os três trechos da busca | Resposta com fonte e recusa quando a base não cobre |
 | 3. Agente com ferramentas | O mesmo do RAG, mais quatro ferramentas que ele decide quando usar: buscar de novo, ler o resumo da loja, calcular o desperdício e uma calculadora | Perguntas que dependem dos números da loja ou de uma conta exata |
 
-**Especialização sem treinar os pesos.** A rubrica aceita LoRA ou agente; escolhemos o agente e o modelo não foi re-treinado. O motivo está em [Decisões e desafios do percurso](#decisões-e-desafios-do-percurso).
+**Especialização sem treinar os pesos.** A rubrica aceita LoRA ou agente; escolhemos o agente e o modelo não foi re-treinado. Consultado sobre o ajuste fino, o professor orientou a testar sem contexto, com RAG e com agentes e a apresentar o melhor resultado, que é o que este repositório faz. O motivo da escolha está em [Decisões e desafios do percurso](#decisões-e-desafios-do-percurso).
 
 **Geração em lote para o painel.** Para cada loja e mês, o script pega os três equipamentos que mais desperdiçaram, monta a pergunta com os números do resumo e gera uma recomendação para cada um com o RAG. Antes de gravar, o código confere se o valor em reais citado no texto é o do resumo.
 
