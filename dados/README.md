@@ -1,7 +1,10 @@
 # Dados simulados das lojas
 
-O professor liberou dados simulados, desde que a geração seja documentada. Estes arquivos substituem a
-API do painel enquanto ela não está no ar.
+O professor liberou dados simulados, desde que a geração seja documentada. Estes arquivos são a entrada
+do Consultor quando o painel não está no ar (ele roda em um laboratório da AWS que só fica ligado
+durante as sessões). Os nomes de equipamentos e os valores de custo seguem a primeira versão do guia
+do grupo e são diferentes dos do painel publicado; a comparação está em
+[`docs/contrato_de_dados.md`](../docs/contrato_de_dados.md).
 
 | Arquivo | Conteúdo |
 |---|---|

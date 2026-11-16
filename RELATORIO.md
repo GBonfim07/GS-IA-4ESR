@@ -31,7 +31,7 @@ Resultado em uma linha: no conjunto de teste (44 perguntas), o mesmo modelo loca
 | Arquitetura: componentes | Detecção por câmera (Visão) · robô com sensores (Físico) · API e painel do comerciante (Produção) · pipeline de dados (Dados) · **consultor de eficiência com LLM local (Inteligência, este repositório)** · alertas e resumos automáticos (Automação) · modelo de negócio (Pitch) |
 | Fontes de dados | Clima (Open-Meteo) · tarifas e bandeiras (ANEEL) · eventos e consumo das lojas (simulados, com geração documentada) |
 | Modelos de IA utilizados | YOLO treinado para portas de refrigeração abertas · **LLM local `qwen2.5:7b` com base de conhecimento (RAG) e agente com ferramentas; embeddings `bge-m3`** · IA embarcada no robô |
-| URL do MVP e repositório | MVP: sem URL pública nesta entrega. É uma landing page com um painel administrativo em que o cliente vê os dashboards; o painel recebe o JSON de recomendações gerado aqui (`saida/recomendacoes.json`) · Repositório deste componente: <https://github.com/GBonfim07/GS-IA-4ESR> |
+| URL do MVP e repositório | MVP: o painel do comerciante, publicado na AWS pela entrega de Secure DevOps. Ele roda no AWS Academy Learner Lab, que só fica ligado durante as sessões do laboratório; por isso não há um endereço que responda o tempo todo, e a publicação está comprovada no relatório daquela entrega · Repositório do painel: <https://github.com/Natan-TI/devops-energia> · Repositório deste componente: <https://github.com/GBonfim07/GS-IA-4ESR> |
 | Indicadores de impacto | R$ e kWh de desperdício evitados por loja ao mês · tempo médio de porta aberta · percentual de alertas resolvidos em poucos minutos · número de lojas ativas |
 | ODS conectados | ODS 7 (energia acessível e limpa) e ODS 12 (consumo e produção responsáveis); do slide oficial, ODS 9, 11 e 13 |
 
@@ -63,7 +63,13 @@ flowchart LR
     style CO stroke-width:4px
 ```
 
-A troca com o painel é por arquivo, no contrato de dados comum do grupo. Nesta entrega, o resumo de entrada vem de dados simulados no mesmo formato, e a leitura ao vivo da API do painel está implementada, mas não foi testada contra o painel real. A tabela com a ligação de cada disciplina e o estado da integração está no [README](README.md#o-produto-inteiro-e-onde-este-componente-se-encaixa).
+A troca com o painel é por arquivo. Comparamos o nosso contrato com o código do painel publicado ([repositório](https://github.com/Natan-TI/devops-energia)):
+
+- **A saída é compatível.** A tela Sugestões do painel lê os mesmos cinco campos do nosso `saida/recomendacoes.json`. Hoje ela mostra um arquivo de exemplo; basta trocá-lo pelo gerado aqui.
+- **A entrada precisou de um conversor.** O resumo que o painel devolve em `GET /summary` usa outros nomes de campos. O Consultor aceita os dois formatos, e isso foi testado com uma amostra no formato do painel, inclusive com a LLM. Não foi testado com o painel no ar, porque o laboratório da AWS estava desligado.
+- **Os dados de exemplo são diferentes.** O resumo usado nesta entrega vem de dados simulados com os nomes de equipamentos e os valores de custo da primeira versão do guia do grupo; o painel usa outros nomes e valores de custo com fonte.
+
+A tabela com a ligação de cada disciplina, a comparação item a item e o passo a passo para levar as recomendações ao painel estão no [README](README.md#o-produto-inteiro-e-onde-este-componente-se-encaixa).
 
 ### Como o produto contribui para os ODS
 
@@ -322,7 +328,7 @@ Erros reais do conjunto de teste, com a saída gravada. O notebook 04 mostra cad
 - **A correção automática não enxerga a alucinação.** Pelas regras, o modelo puro alucinava em 9,1% dos casos; lendo as respostas, em 40,9%. Por isso as 132 respostas do teste foram lidas.
 - **Números bons demais na calibração.** O agente chegou a 100% na calibração e ficou em 90,9% no teste, que só foi rodado com tudo congelado.
 - **O resultado muda de uma rodada para outra,** mesmo com temperatura 0 e semente fixa. A segunda execução inteira está guardada.
-- **Integrar sem o painel pronto.** Usamos dados simulados no formato combinado pelo grupo e a troca por arquivo.
+- **Integrar sem o painel pronto.** Usamos dados simulados no formato combinado pelo grupo e a troca por arquivo. Quando o painel ficou pronto, o formato da recomendação era idêntico, mas o resumo da loja tinha outros nomes de campos; escrevemos um conversor, com testes.
 
 A tabela completa, com a evidência de cada item, está no [README](README.md#decisões-e-desafios-do-percurso).
 
@@ -337,9 +343,9 @@ A tabela completa, com a evidência de cada item, está no [README](README.md#de
 **Limites e próximos passos.**
 1. Aplicar as correções dos erros 1 a 4 e medir de novo em perguntas novas, porque o conjunto de teste atual já foi visto. Medir cada configuração em pelo menos três rodadas e reportar a média, já que o resultado varia um caso de uma rodada para outra.
 2. Ampliar o conjunto de teste e pedir a correção a alguém de fora do grupo.
-3. Trocar os valores provisórios da fórmula de custo por valores com fonte (tarifa da distribuidora na ANEEL e potência do equipamento no selo PROCEL).
+3. Trocar os valores provisórios da fórmula de custo, na base e na ferramenta de cálculo, pelos valores com fonte que o painel já usa (tarifa de R$ 0,789/kWh, potência por equipamento e fator de perda 0,70). Isso muda as respostas de cálculo e exige refazer o placar.
 4. Atualizar os valores das bandeiras tarifárias sempre que a ANEEL os revisar.
-5. Ligar `PAINEL_URL` quando a API do painel estiver no ar, para ler o resumo direto do `GET /summary`.
+5. Com o painel no ar, gerar as recomendações a partir do resumo dele (`PAINEL_URL`) e substituir o arquivo de exemplo da tela Sugestões. O formato já é compatível; falta o teste com o painel ligado.
 
 **Links**
 

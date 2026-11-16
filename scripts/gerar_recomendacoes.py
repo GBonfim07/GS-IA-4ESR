@@ -9,6 +9,7 @@ O arquivo é uma lista de objetos no formato da seção 3 do guia do grupo:
 from __future__ import annotations
 
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -22,6 +23,8 @@ from consultor.resumo import LOJAS, periodos_disponiveis  # noqa: E402
 
 
 def main() -> None:
+    painel = os.getenv("PAINEL_URL", "").rstrip("/")
+    print(f"Resumo das lojas lido de: {painel + '/summary' if painel else 'dados/ (simulado)'}\n")
     recomendacoes = []
     for loja in LOJAS:
         for periodo in periodos_disponiveis(loja):

@@ -16,14 +16,14 @@ import logging
 from typing import Literal
 
 from fastapi import Depends, FastAPI, Header, HTTPException
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 from . import __version__, config, ollama
 from . import consultor as nucleo
 from .base import carregar_trechos, trecho_por_id
 from .esquema import Recomendacao
 from .lote import recomendar_linha
-from .resumo import ler_resumo
+from .resumo import ler_resumo, normalizar_resumo
 
 log = logging.getLogger("consultor.api")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -61,9 +61,21 @@ class LinhaResumo(BaseModel):
 class ResumoLoja(BaseModel):
     por_equipamento: list[LinhaResumo] = Field(min_length=1, max_length=20)
 
+    @model_validator(mode="before")
+    @classmethod
+    def _aceitar_formato_do_painel(cls, dados):
+        """Aceita também o corpo do GET /summary do painel publicado e converte para este formato."""
+        if not isinstance(dados, dict):
+            return dados
+        try:
+            return normalizar_resumo(dados)
+        except (KeyError, TypeError, AttributeError) as erro:
+            raise ValueError("Resumo fora do formato esperado.") from erro
+
 
 class PedidoResumo(BaseModel):
-    """Resumo no formato do GET /summary do painel. Se vier só loja_id e periodo, o resumo é lido de dados/."""
+    """Resumo da loja, no formato de dados/ ou no do GET /summary do painel publicado.
+    Se vier só loja_id e periodo, o resumo é lido do painel (PAINEL_URL) ou de dados/."""
 
     loja_id: str = Field(max_length=40)
     periodo: str = Field(pattern=r"^\d{4}-\d{2}$")

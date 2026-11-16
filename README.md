@@ -26,7 +26,7 @@ O relatório completo, com diagrama, tabela da base, placar interpretado e os ci
 | Arquitetura: componentes | Detecção por câmera (Visão) · robô com sensores (Físico) · API e painel do comerciante (Produção) · pipeline de dados (Dados) · **consultor de eficiência com LLM local (Inteligência, este repositório)** · alertas e resumos automáticos (Automação) · modelo de negócio (Pitch) |
 | Fontes de dados | Clima (Open-Meteo) · tarifas e bandeiras (ANEEL) · eventos e consumo das lojas (simulados, com geração documentada) |
 | Modelos de IA utilizados | YOLO treinado para portas de refrigeração abertas · **LLM local `qwen2.5:7b` com base de conhecimento (RAG) e agente com ferramentas; embeddings `bge-m3`** · IA embarcada no robô |
-| URL do MVP e repositório | MVP: sem URL pública nesta entrega. É uma landing page com um painel administrativo em que o cliente vê os dashboards; o painel recebe o JSON de recomendações gerado aqui (`saida/recomendacoes.json`) · Repositório: <https://github.com/GBonfim07/GS-IA-4ESR> |
+| URL do MVP e repositório | MVP: o painel do comerciante, publicado na AWS pela entrega de Secure DevOps. Ele roda no AWS Academy Learner Lab, que só fica ligado durante as sessões do laboratório; por isso não há um endereço que responda o tempo todo, e a publicação está comprovada no relatório daquela entrega · Repositório do painel: <https://github.com/Natan-TI/devops-energia> · Repositório deste componente: <https://github.com/GBonfim07/GS-IA-4ESR> |
 | Indicadores de impacto | R$ e kWh de desperdício evitados por loja ao mês · tempo médio de porta aberta · percentual de alertas resolvidos em poucos minutos · número de lojas ativas |
 | ODS conectados | ODS 7 e ODS 12 (mais diretos); do slide oficial, ODS 9, 11 e 13 |
 
@@ -92,33 +92,46 @@ flowchart LR
 | Disciplina | Componente | O que faz no produto | Ligação com este repositório |
 |---|---|---|---|
 | **Generative AI for Engineering** | Inteligência | LLM local que recomenda o que fazer, com fonte citada e recusa quando não sabe | **É este repositório** |
-| Secure DevOps Tools & Cloud Computing | Produção | Painel do comerciante: uma landing page com um painel administrativo em que o cliente vê os dashboards. É o centro do produto | Fornece o resumo de desperdício da loja e recebe o nosso `saida/recomendacoes.json`, que alimenta a tela de sugestões |
-| Big Data Architecture & Data Integration | Dados | Coleta clima, tarifas e eventos, trata em camadas (Bronze, Prata, Ouro) e entrega os indicadores ao painel | Sem troca direta. Usa as mesmas lojas, os mesmos equipamentos e o mesmo formato de evento dos nossos dados simulados |
+| Secure DevOps Tools & Cloud Computing | Produção | Painel do comerciante: uma API com telas (visão geral, eventos, alertas e sugestões) que mostram o desperdício em reais e em kWh. É o centro do produto ([repositório do painel](https://github.com/Natan-TI/devops-energia)) | Devolve o resumo de desperdício da loja em `GET /summary` e mostra, na tela Sugestões, um arquivo de recomendações no mesmo formato do nosso `saida/recomendacoes.json` |
+| Big Data Architecture & Data Integration | Dados | Coleta clima, tarifas e eventos, trata em camadas (Bronze, Prata, Ouro) e entrega os indicadores ao painel | Sem troca direta. Trabalha com as mesmas lojas e o mesmo formato de evento |
 | Applied Computer Vision | Visão | Modelo YOLO que detecta porta de expositor ou freezer aberta e gera eventos `porta_aberta` | Indireta: esses eventos formam o resumo que o Consultor lê. A recomendação fala do equipamento que a câmera apontou |
-| Project-Based Maker Lab | Físico | Robô com sensor de luminosidade que gera eventos `luz_acesa_sem_necessidade` | Indireta, do mesmo jeito, para `iluminacao-salao` e `iluminacao-estoque` |
+| Project-Based Maker Lab | Físico | Robô com sensor de luminosidade que gera eventos de luz acesa em ambiente vazio | Indireta, do mesmo jeito, para os ambientes iluminados (estoque e salão) |
 | Robotic Process Automation | Automação | Envia o alerta na hora pelo Telegram e o resumo por e-mail, e registra os alertas no painel | Usa o texto das nossas recomendações no resumo por e-mail |
 | Business Intelligence & Startup Development | Negócio e pitch | Vídeo pitch com a demonstração do MVP, o modelo de negócio e os indicadores | A sugestão da IA é uma das telas da demonstração; os indicadores de impacto são os da Ficha Técnica |
 
-As linhas das outras disciplinas resumem o plano do grupo. Cada uma tem a sua própria entrega e o seu repositório; este repositório demonstra só o lado do Consultor.
+A linha do painel foi conferida no repositório dele. As demais resumem o plano do grupo. Cada disciplina tem a sua própria entrega e o seu repositório; este repositório demonstra só o lado do Consultor.
 
-### O que mantém as partes compatíveis
+### O contrato de dados e o painel publicado
 
-Todas as entregas seguem o mesmo contrato de dados, definido no guia do grupo ([`docs/contrato_de_dados.md`](docs/contrato_de_dados.md)):
+O grupo combinou um contrato de dados antes de começar ([`docs/contrato_de_dados.md`](docs/contrato_de_dados.md)). Com o painel pronto, comparamos o contrato com o código dele:
 
-- **Mesmas lojas e equipamentos fictícios:** `padaria-01` e `mercado-01`, com `expositor-1`, `freezer-1`, `iluminacao-salao` e os demais.
-- **Mesmo formato de evento de desperdício:** loja, equipamento, tipo, origem, início, duração e custo estimado.
-- **Mesma fórmula de custo:** `potencia_kw × fator_perda × (duracao_s / 3600) × tarifa_rs_kwh`. O Consultor usa a fórmula como ferramenta de cálculo e como trecho citável da base (`produto-contrato-01`).
-- **Mesmo formato de recomendação:** `loja_id`, `periodo`, `nao_consta`, `recomendacao` e `fonte`.
+| Item | Situação |
+|---|---|
+| Formato da recomendação | **Igual.** A tela Sugestões do painel lê `loja_id`, `periodo`, `nao_consta`, `recomendacao` e `fonte` (título e `trecho_id`), que são os campos do nosso arquivo |
+| Lojas | **Iguais:** `padaria-01` e `mercado-01` |
+| Fórmula de custo | **Igual:** `potencia_kw × fator_perda × (duracao_s / 3600) × tarifa_rs_kwh`. O Consultor usa a fórmula como ferramenta de cálculo e como trecho citável da base (`produto-contrato-01`) |
+| Campos do evento de desperdício | **Iguais:** loja, equipamento, tipo, origem, início, duração e custo estimado |
+| Nomes dos campos do resumo da loja | **Diferentes.** O painel devolve `total_rs`, `total_kwh` e `tempo_aberto_s` por equipamento; os nossos dados simulados usam `custo_rs`, `kwh` e `duracao_total_s`. O Consultor aceita os dois formatos e converte o do painel |
+| Nomes de equipamentos e de tipos de evento | **Diferentes.** Os nossos dados simulados seguem a primeira versão do guia (`expositor-1`, `iluminacao-estoque`, `luz_acesa_sem_necessidade`); o painel usa `expositor-bebidas`, `luz-estoque` e `luz_acesa` |
+| Valores usados na fórmula | **Diferentes.** O painel usa tarifa com fonte (R$ 0,789/kWh), potência por equipamento e fator de perda 0,70. A base e a ferramenta de cálculo do Consultor usam os valores provisórios do guia (R$ 0,90/kWh, 0,50 kW e 0,30) |
 
 ### Estado da integração nesta entrega
 
 | | Como está | Evidência |
 |---|---|---|
-| Entrada | Resumo da loja no formato do `GET /summary`. Vem de arquivos simulados, gerados com semente fixa | [`dados/`](dados/) e [`dados/README.md`](dados/README.md) |
-| Saída | Arquivo com 12 recomendações, três para cada loja e mês, no contrato do grupo. A troca com o painel é por arquivo, como o guia do grupo prevê | [`saida/recomendacoes.json`](saida/recomendacoes.json), conferido por teste automático |
+| Entrada | Resumo de desperdício da loja. Vem de arquivos simulados, gerados com semente fixa | [`dados/`](dados/) e [`dados/README.md`](dados/README.md) |
+| Saída | Arquivo com 12 recomendações, três para cada loja e mês, no formato que o painel lê. Elas falam dos equipamentos dos nossos dados simulados | [`saida/recomendacoes.json`](saida/recomendacoes.json), conferido por teste automático |
 | API local | Recebe uma pergunta ou o resumo de uma loja e devolve a recomendação no mesmo contrato | [seção API](#api) |
-| Leitura ao vivo do painel | Implementada: com a variável `PAINEL_URL`, o resumo é lido da API do painel, e o arquivo local é usado se ela estiver fora do ar. **Não foi testada contra o painel real** | [`src/consultor/resumo.py`](src/consultor/resumo.py) |
-| Tela de sugestões | Fica na entrega do painel (Secure DevOps), fora deste repositório | |
+| Leitura do resumo do painel | Com a variável `PAINEL_URL`, o resumo vem do `GET /summary` do painel e é convertido para o formato do Consultor; com o painel fora do ar, vale o arquivo local. Testada com uma amostra no formato do painel, inclusive com a LLM, que gerou três recomendações com fonte. **Não foi testada com o painel no ar**, porque o laboratório da AWS estava desligado | [`src/consultor/resumo.py`](src/consultor/resumo.py) e [`tests/test_consultor.py`](tests/test_consultor.py) |
+| Tela Sugestões | Existe no painel e hoje mostra um arquivo de exemplo. Pelo código do painel, basta trocar esse arquivo pelo gerado aqui | [repositório do painel](https://github.com/Natan-TI/devops-energia) |
+
+**Como levar as recomendações do Consultor para o painel.**
+
+1. Com o painel no ar, escreva o endereço dele em `PAINEL_URL`, no arquivo `.env`.
+2. Rode `python scripts/gerar_recomendacoes.py`. As recomendações passam a citar os equipamentos e os valores que o painel mostra.
+3. Copie `saida/recomendacoes.json` para `dados/recomendacoes.json` no repositório do painel.
+
+Sem o passo 1, o arquivo também é aceito pela tela, mas cita os equipamentos dos nossos dados simulados.
 
 ## Como o Consultor funciona
 
@@ -240,7 +253,7 @@ No Windows, se os acentos saírem trocados no terminal, rode os scripts com `pyt
 | Rota | O que faz |
 |---|---|
 | `POST /recomendar` | recebe `{"pergunta", "configuracao": "agente" \| "rag" \| "puro", "loja_id", "periodo"}` e devolve a recomendação no contrato do produto, mais o campo `explicacao` |
-| `POST /recomendar/resumo` | recebe `{"loja_id", "periodo", "resumo"}` (formato do `GET /summary` do painel) e devolve uma recomendação para cada equipamento que mais desperdiçou |
+| `POST /recomendar/resumo` | recebe `{"loja_id", "periodo", "resumo"}`, com o resumo no formato de `dados/` ou no do `GET /summary` do painel, e devolve uma recomendação para cada equipamento que mais desperdiçou |
 | `GET /trechos/{trecho_id}` | mostra o trecho citado, com documento, órgão, URL e licença |
 | `GET /health` | estado do Ollama, modelos e limiar em uso |
 
@@ -297,7 +310,8 @@ O que deu trabalho no caminho, o que foi decidido e onde está a evidência.
 | Números bons demais na calibração | Depois de ajustar os prompts, o agente acertava 100% das perguntas de calibração | O conjunto de teste ficou separado e só foi rodado com tudo congelado. Nele, o agente acertou 90,9%. É esse o número que publicamos |
 | O resultado muda de uma rodada para outra | Mesmo com temperatura 0 e semente fixa, a segunda execução do teste mudou um caso no modelo puro e um no agente | Guardamos a segunda execução inteira e passamos a dizer que diferenças de um ou dois casos não são significativas ([`avaliacao/repeticao/`](avaliacao/repeticao/)) |
 | O modelo faz conta de cabeça | Sem ferramenta, o modelo puro respondeu R$ 160,00 para um desperdício de R$ 5,40. Mesmo com a ferramenta disponível, o agente errou uma casa decimal em uma pergunta (erro 2) | Ferramenta de cálculo com a fórmula do grupo e, na geração em lote, conferência do valor em reais contra o resumo antes de gravar. O verificador numérico para o agente está proposto e não implementado |
-| Integrar sem o painel pronto | O painel é de outra entrega e não estava no ar. O guia do grupo também não define os nomes dos campos do resumo nem a potência da iluminação, e o evento de exemplo não bate com a fórmula (95 s dão R$ 0,0036, e o exemplo traz R$ 0,04) | Dados simulados com semente fixa no formato combinado, premissas documentadas, troca por arquivo e leitura ao vivo preparada por `PAINEL_URL` ([`docs/contrato_de_dados.md`](docs/contrato_de_dados.md) e [`dados/README.md`](dados/README.md)) |
+| Integrar sem o painel pronto | O painel é de outra entrega e ficou pronto depois. O guia do grupo não define os nomes dos campos do resumo nem a potência da iluminação, e o evento de exemplo não bate com a fórmula (95 s dão R$ 0,0036, e o exemplo traz R$ 0,04) | Dados simulados com semente fixa no formato do guia, premissas documentadas e troca por arquivo ([`dados/README.md`](dados/README.md)) |
+| O painel pronto não era igual ao combinado | Ao comparar com o código do painel, o formato da recomendação era idêntico, mas o resumo da loja tinha outros nomes de campos, e os equipamentos e os valores de custo eram outros. A leitura do resumo que tínhamos escrito não ia funcionar com ele | Um conversor que aceita o formato do painel, com três testes novos e uma rodada com a LLM sobre uma amostra nesse formato. Os valores de custo continuam diferentes e ficam como próximo passo ([`docs/contrato_de_dados.md`](docs/contrato_de_dados.md)) |
 | JSON válido sempre | O painel e a automação leem a saída por código, então um JSON fora do formato quebra a tela. O formato não podia depender do modelo | A saída é gerada com decodificação restrita por JSON Schema e validada de novo pelo código. As recusas decididas pelo código nem passam pela LLM. Resultado: 100% de JSON válido nas três configurações |
 
 ## Limites conhecidos
@@ -305,9 +319,9 @@ O que deu trabalho no caminho, o que foi decidido e onde está a evidência.
 - O conjunto de teste tem 44 casos; cada caso vale 2,3 pontos percentuais.
 - O placar varia em até um caso por configuração de uma rodada para outra (medido em `avaliacao/repeticao/`).
 - O gabarito e a revisão manual foram feitos pelo grupo. As respostas completas estão em `avaliacao/resultados/` para conferência.
-- Os valores da fórmula de custo (R$ 0,90/kWh, 0,50 kW e 0,30) são provisórios, como o guia do grupo avisa.
+- Os valores da fórmula de custo usados na base e na ferramenta de cálculo (R$ 0,90/kWh, 0,50 kW e 0,30) são os provisórios do guia do grupo. O painel já usa valores com fonte (R$ 0,789/kWh, potência por equipamento e fator 0,70). Alinhar os dois muda as respostas de cálculo e exige refazer o placar.
 - Os valores das bandeiras tarifárias são os da página da ANEEL consultada em 10/11/2026.
 - As correções propostas para os cinco erros ainda não foram implementadas.
-- A troca com o painel é por arquivo. A leitura ao vivo da API do painel está implementada, mas não foi testada contra o painel real.
+- A troca com o painel é por arquivo. A leitura do resumo do painel foi testada com uma amostra no formato dele, e não com o painel no ar. As recomendações publicadas em `saida/` citam os equipamentos dos nossos dados simulados, que têm nomes diferentes dos do painel.
 - O modelo não foi re-treinado: a especialização é o agente com ferramentas, uma das duas opções da rubrica.
 
